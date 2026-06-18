@@ -1,0 +1,176 @@
+{
+  "circuits": [
+    {
+      "slug": "northern-circuit",
+      "name": "Northern Circuit",
+      "badge": "Most Popular",
+      "meta": "Jun - Oct · Classic Tanzania",
+      "hero": "serengeti3.jpg",
+      "card_desc": "Serengeti, Ngorongoro, Tarangire, Lake Manyara and Kilimanjaro - Tanzania's flagship safari route.",
+      "paragraphs": [
+        "The Northern Circuit is Tanzania's most celebrated safari corridor, linking world-famous parks within easy reach of Arusha and Kilimanjaro International Airport.",
+        "From the thundering Great Migration on the Serengeti plains to the wildlife-rich floor of Ngorongoro Crater, ancient baobabs of Tarangire and flamingo shores of Lake Manyara, this circuit delivers the classic African safari in one seamless journey.",
+        "Mount Kilimanjaro, Lake Natron and Ol Doinyo Lengai extend the circuit for climbers and adventurers seeking volcanic landscapes and Maasai culture."
+      ],
+      "destinations": [
+        { "slug": "serengeti", "label": "Serengeti National Park" },
+        { "slug": "ngorongoro", "label": "Ngorongoro Crater" },
+        { "slug": "tarangire", "label": "Tarangire National Park" },
+        { "slug": "lake-manyara", "label": "Lake Manyara National Park" },
+        { "slug": "kilimanjaro", "label": "Mount Kilimanjaro" },
+        { "slug": "oldonyo-lengai", "label": "Ol Doinyo Lengai" }
+      ],
+      "packages": [
+        {
+          "name": "5 Days Northern Classic Safari",
+          "days": 5,
+          "price": "$3,200",
+          "description": "Tarangire, Serengeti, Ngorongoro and Lake Manyara - the essential northern parks in one expertly paced itinerary."
+        },
+        {
+          "name": "7 Days Northern Luxury Safari",
+          "days": 7,
+          "price": "$5,800",
+          "description": "Extended game drives across Serengeti and Ngorongoro with optional balloon flight and premium lodge stays."
+        }
+      ]
+    },
+    {
+      "slug": "southern-circuit",
+      "name": "Southern Circuit",
+      "badge": "Remote Wilderness",
+      "meta": "May - Nov · Uncrowded",
+      "hero": "ruaha-ruaha-national-park-tanzania.jpeg",
+      "card_desc": "Ruaha, Mikumi and the vast southern wilderness - authentic safaris away from the crowds.",
+      "paragraphs": [
+        "The Southern Circuit rewards travellers who venture beyond the northern parks into Tanzania's largest and least crowded wilderness areas.",
+        "Ruaha National Park protects rugged baobab savanna and the Great Ruaha River, while Mikumi offers accessible game viewing on the Mkata floodplain - often called a mini-Serengeti.",
+        "Nyerere National Park (formerly Selous) and Kitulo Plateau extend the circuit for boat safaris, walking trails and wildflower meadows in season."
+      ],
+      "destinations": [
+        { "slug": "ruaha", "label": "Ruaha National Park" },
+        { "slug": "mikumi", "label": "Mikumi National Park" }
+      ],
+      "packages": [
+        {
+          "name": "8 Days Southern Explorer",
+          "days": 8,
+          "price": "$4,950",
+          "description": "Ruaha and Mikumi combined with Iringa highlands - ideal for guests starting from Dar es Salaam or Iringa."
+        },
+        {
+          "name": "10 Days Grand Southern Circuit",
+          "days": 10,
+          "price": "$8,500",
+          "description": "Multi-park southern journey including Ruaha, Mikumi and Udzungwa with remote bush camps."
+        }
+      ]
+    },
+    {
+      "slug": "eastern-circuit",
+      "name": "Eastern Circuit",
+      "badge": "Rainforest & Coast",
+      "meta": "Year-round · Adventure",
+      "hero": "udzungwa-mountains-national-park-day-hiking-1.jpg",
+      "card_desc": "Udzungwa Mountains, Saadani bush-beach and cultural sites of the eastern highlands.",
+      "paragraphs": [
+        "The Eastern Circuit blends rainforest hiking, primate tracking and Indian Ocean coastline where bush meets beach.",
+        "Udzungwa Mountains National Park protects the biodiverse Eastern Arc with waterfalls and endemic colobus monkeys, while Saadani is Tanzania's only coastal national park where elephants walk the shoreline.",
+        "Near Iringa, Isimila Stone Age Site and Gangilonga Rock add archaeology and highland culture to any southern or eastern itinerary."
+      ],
+      "destinations": [
+        { "slug": "udzungwa", "label": "Udzungwa Mountains" },
+        { "slug": "isimila", "label": "Isimila Stone Age Site" }
+      ],
+      "packages": [
+        {
+          "name": "4 Days Udzungwa & Mikumi Safari",
+          "days": 4,
+          "price": "$2,450",
+          "description": "Rainforest hikes in Udzungwa paired with classic game drives in Mikumi National Park."
+        }
+      ]
+    },
+    {
+      "slug": "western-circuit",
+      "name": "Western Circuit",
+      "badge": "Primates",
+      "meta": "May - Oct · Lake Tanganyika",
+      "hero": "mahale-national-park-from-lake-tanganyika.jpg",
+      "card_desc": "Gombe and Mahale - chimpanzee trekking on the shores of Lake Tanganyika.",
+      "paragraphs": [
+        "The Western Circuit is Tanzania's remotest safari frontier, reached by boat or light aircraft on the crystal shores of Lake Tanganyika.",
+        "Mahale Mountains and Gombe Stream are world-renowned for wild chimpanzee trekking - Gombe is where Dr Jane Goodall began her groundbreaking research in 1960.",
+        "These parks suit seasoned travellers seeking intimate primate encounters, forest walks and barefoot luxury on Africa's deepest lake."
+      ],
+      "destinations": [
+        { "slug": "mahale", "label": "Mahale Mountains" },
+        { "slug": "gombe", "label": "Gombe Stream" }
+      ],
+      "packages": [
+        {
+          "name": "6 Days Western Primate Safari",
+          "days": 6,
+          "price": "$5,200",
+          "description": "Chimpanzee trekking in Mahale or Gombe with lakeside camp stays and forest walks."
+        }
+      ]
+    },
+    {
+      "slug": "coastal-islands",
+      "name": "Coastal & Islands",
+      "badge": "Beach & Culture",
+      "meta": "Dec - Mar · Indian Ocean",
+      "hero": "zanzibar.jpg",
+      "card_desc": "Zanzibar spice islands, Stone Town heritage and turquoise Indian Ocean retreats.",
+      "paragraphs": [
+        "Tanzania's Coastal and Islands circuit extends your safari with Swahili culture, spice plantations and powder-white beaches on the Indian Ocean.",
+        "Zanzibar's UNESCO-listed Stone Town, dhow sailing and reef snorkeling pair perfectly as a safari finale after mainland wildlife adventures.",
+        "Mafia Island and the historic coast around Bagamoyo offer quieter alternatives for marine safaris, whale season and dhow cruises."
+      ],
+      "destinations": [
+        { "slug": "zanzibar", "label": "Zanzibar Archipelago" }
+      ],
+      "packages": [
+        {
+          "name": "5 Days Zanzibar Beach Escape",
+          "days": 5,
+          "price": "$2,100",
+          "description": "Stone Town culture, spice farm visits and boutique beach lodge relaxation after your safari."
+        }
+      ]
+    }
+  ],
+  "kenya": {
+    "name": "Kenya Safaris",
+    "badge": "Cross-Border",
+    "meta": "Jun - Oct · Maasai Mara & Amboseli",
+    "hero": "masai mara park.jpg",
+    "hero_external": null,
+    "paragraphs": [
+      "Extend your Tanzania adventure into Kenya with tailor-made safaris to the Maasai Mara, Amboseli and the Great Rift Valley - seamlessly arranged by Safari and Bush Retreats from Arusha or Nairobi.",
+      "Witness the Great Wildebeest Migration in the Maasai Mara, photograph elephant herds beneath Mount Kilimanjaro in Amboseli, and enjoy boat rides on Lake Naivasha - all with expert guides and private 4x4 vehicles.",
+      "Our Kenya itineraries combine perfectly with northern Tanzania circuits for a once-in-a-lifetime East Africa journey."
+    ],
+    "highlights": [
+      "Maasai Mara National Reserve - Great Migration & Big Five",
+      "Amboseli National Park - elephants & Kilimanjaro views",
+      "Lake Naivasha - hippos, birdlife & boat safaris",
+      "Maasai cultural visits & Great Rift Valley scenery"
+    ],
+    "packages": [
+      {
+        "name": "5 Days Maasai Mara & Amboseli",
+        "days": 5,
+        "price": "$2,850",
+        "description": "Kenya's two most iconic parks - Mara game drives and Amboseli elephant country with Kilimanjaro backdrop."
+      },
+      {
+        "name": "7 Days Kenya Classic Safari",
+        "days": 7,
+        "price": "$3,950",
+        "description": "Maasai Mara, Lake Naivasha and Amboseli with luxury lodge stays and private guide throughout."
+      }
+    ]
+  }
+}

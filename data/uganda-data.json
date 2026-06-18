@@ -1,0 +1,416 @@
+{
+  "source": "https://exploreuganda.com/national-parks/ and https://exploreuganda.com/cities/",
+  "uganda": {
+    "slug": "uganda",
+    "name": "Uganda Safaris",
+    "badge": "Pearl of Africa",
+    "meta": "East Africa · Gorillas, savannah & Nile adventures",
+    "hero": "external/uganda/uganda.jpg",
+    "gallery": [
+      "external/uganda/uganda-gal-0.jpg",
+      "external/uganda/uganda-gal-1.jpg"
+    ],
+    "card_desc": "Mountain gorillas, Murchison Falls, Queen Elizabeth savannah and vibrant cities from Kampala to Jinja.",
+    "paragraphs": [
+      "Welcome to Uganda, the Pearl of Africa, where breathtaking landscapes and vibrant wildlife create an unforgettable adventure. National parks are sanctuaries of biodiversity showcasing stunning natural beauty and rich ecosystems.",
+      "From the misty mountains of Bwindi Impenetrable National Park, home to majestic mountain gorillas, to the expansive savannahs of Murchison Falls where the Nile thunders over dramatic waterfalls, each park offers a unique experience. Uganda is a paradise for wildlife enthusiasts, bird watchers and nature lovers.",
+      "Uganda's cities blend traditional African culture with modern influences - from bustling Kampala to adventure-filled Jinja at the source of the Nile - serving as gateways to gorilla trekking, wildlife safaris and lakeside relaxation."
+    ],
+    "highlights": [
+      "Mountain Gorilla Trekking - half the world's population in Bwindi and Mgahinga",
+      "Murchison Falls - the Nile plunging through a narrow gorge",
+      "Chimpanzee Tracking - Kibale Forest, the primate capital of East Africa",
+      "Queen Elizabeth - tree-climbing lions and Kazinga Channel boat cruises",
+      "Adventure Capital - white-water rafting and bungee jumping in Jinja"
+    ],
+    "packages": [
+      {
+        "slug": "5-days-uganda-gorilla-wildlife",
+        "name": "5 Days Uganda Gorilla & Wildlife Safari",
+        "days": 5,
+        "price": "$2,850",
+        "hero": "external/uganda/bwindi-impenetrable.jpg",
+        "description": "Mountain gorilla trekking in Bwindi and Queen Elizabeth savannah - tree-climbing lions and Kazinga Channel boat cruise."
+      },
+      {
+        "slug": "7-days-uganda-primates-safari",
+        "name": "7 Days Uganda Primates Safari",
+        "days": 7,
+        "price": "$3,950",
+        "hero": "external/uganda/kibale.jpg",
+        "description": "Gorillas in Bwindi, chimpanzees in Kibale and Murchison Falls boat cruise on the Victoria Nile."
+      },
+      {
+        "slug": "4-days-murchison-falls-safari",
+        "name": "4 Days Murchison Falls Safari",
+        "days": 4,
+        "price": "$1,450",
+        "hero": "external/uganda/murchison-falls.jpg",
+        "description": "Game drives and boat cruise to the base of Murchison Falls where the Nile thunders through a narrow gorge."
+      }
+    ]
+  },
+  "destinations": [
+    {
+      "slug": "bwindi-impenetrable",
+      "name": "Bwindi Impenetrable National Park",
+      "category": "National Park",
+      "badge": "Gorillas",
+      "meta": "Southwest Uganda · Mountain gorilla trekking",
+      "hero": "external/uganda/bwindi-impenetrable.jpg",
+      "gallery": [
+        "external/uganda/bwindi-impenetrable-gal-0.jpg"
+      ],
+      "card_desc": "Track mountain gorillas in ancient rainforest on the edge of the Rift Valley.",
+      "paragraphs": [
+        "Bwindi Impenetrable National Park lies in southwestern Uganda on the edge of the Rift Valley. Mist-covered hillsides are blanketed by one of Uganda's oldest rainforests, dating back over 25,000 years and containing almost 400 species of plants.",
+        "The forest protects an estimated 459 mountain gorillas - roughly half the world's population - including several habituated groups that can be tracked on guided treks, offering a rare chance to witness them in their natural habitat.",
+        "Beyond gorillas, Bwindi is a birding hotspot with endemic species, nature walks through rich biodiversity, and cultural encounters with Bakiga and Batwa Pygmy communities in nearby Buhoma and Nkuringo."
+      ],
+      "activities": [
+        "Gorilla trekking",
+        "Bird watching",
+        "Nature walks",
+        "Cultural village visits"
+      ]
+    },
+    {
+      "slug": "murchison-falls",
+      "name": "Murchison Falls National Park",
+      "category": "National Park",
+      "badge": "Nile Falls",
+      "meta": "Northwest Uganda · Big game & boat safaris",
+      "hero": "external/uganda/murchison-falls.jpg",
+      "gallery": [
+        "external/uganda/murchison-falls-gal-0.jpg",
+        "external/uganda/murchison-falls-gal-1.jpg"
+      ],
+      "card_desc": "Where the Nile explodes through a narrow gorge amid vast savannah wilderness.",
+      "paragraphs": [
+        "Murchison Falls National Park is Uganda's largest protected area, where the mighty Nile squeezes through a seven-metre gorge and plunges 43 metres in a thunderous spectacle visible from viewpoints and boat cruises.",
+        "Open savannah and riverine forest support elephant, buffalo, lion, leopard, giraffe and hippo. Boat trips to the base of the falls and delta cruises offer superb wildlife viewing and birding.",
+        "The park pairs easily with rhino tracking at Ziwa Sanctuary en route from Kampala, making it one of Uganda's most complete safari destinations."
+      ],
+      "activities": [
+        "Game drives",
+        "Boat cruise to the falls",
+        "Sport fishing",
+        "Bird watching"
+      ]
+    },
+    {
+      "slug": "kibale",
+      "name": "Kibale National Park",
+      "category": "National Park",
+      "badge": "Chimpanzees",
+      "meta": "Western Uganda · Primate capital",
+      "hero": "external/uganda/kibale.jpg",
+      "gallery": [
+        "external/uganda/kibale-gal-0.jpg",
+        "external/uganda/kibale-gal-1.jpg"
+      ],
+      "card_desc": "Track wild chimpanzees in East Africa's most diverse primate forest.",
+      "paragraphs": [
+        "Kibale National Park protects a lush tropical forest harbouring the greatest variety and concentration of primates in East Africa - including over 1,500 chimpanzees and 13 primate species.",
+        "Guided chimpanzee tracking walks bring visitors within metres of habituated communities, while forest walks reveal red colobus, L'Hoest's monkeys and spectacular birdlife.",
+        "Kibale sits near Fort Portal and connects naturally with Queen Elizabeth National Park for a classic western Uganda wildlife circuit."
+      ],
+      "activities": [
+        "Chimpanzee tracking",
+        "Primate walks",
+        "Bird watching",
+        "Bigodi Wetland Sanctuary"
+      ]
+    },
+    {
+      "slug": "queen-elizabeth",
+      "name": "Queen Elizabeth National Park",
+      "category": "National Park",
+      "badge": "Tree Lions",
+      "meta": "Western Uganda · Savanna & waterways",
+      "hero": "external/uganda/queen-elizabeth.jpg",
+      "gallery": [
+        "external/uganda/queen-elizabeth-gal-0.jpg",
+        "external/uganda/queen-elizabeth-gal-1.jpg"
+      ],
+      "card_desc": "Tree-climbing lions, Kazinga Channel hippos and diverse Rift Valley landscapes.",
+      "paragraphs": [
+        "Queen Elizabeth National Park spans savannah, wetlands and volcanic craters between Lake Edward and Lake George in western Uganda's Rift Valley. It is famed for tree-climbing lions in the Ishasha sector.",
+        "The Kazinga Channel boat cruise concentrates hippo, buffalo, elephant and prolific waterbirds along its banks - one of East Africa's finest short boat safaris.",
+        "Kyambura Gorge offers chimpanzee tracking, while crater lakes and salt pans add scenic variety to game drives across this biodiverse park."
+      ],
+      "activities": [
+        "Game drives",
+        "Kazinga Channel cruise",
+        "Chimp tracking in Kyambura",
+        "Bird watching"
+      ]
+    },
+    {
+      "slug": "kidepo-valley",
+      "name": "Kidepo Valley National Park",
+      "category": "National Park",
+      "badge": "Wild Frontier",
+      "meta": "Northeast Uganda · Remote wilderness",
+      "hero": "external/uganda/kidepo-valley.jpg",
+      "gallery": [],
+      "card_desc": "Dramatic semi-arid valleys and predators in Uganda's most remote park.",
+      "paragraphs": [
+        "Kidepo Valley National Park lies in Uganda's far northeast against the borders of South Sudan and Kenya, offering a raw, uncrowded wilderness of open savannah and rugged mountain scenery.",
+        "Cheetah, lion, leopard, elephant, buffalo and species found nowhere else in Uganda - such as greater kudu and bat-eared fox - roam the Narus and Kidepo valleys.",
+        "Cultural visits to Karamojong communities and the Ik people of Mount Morungole add a human dimension to this off-the-beaten-track safari experience."
+      ],
+      "activities": [
+        "Game drives",
+        "Nature walks",
+        "Cultural visits",
+        "Bird watching"
+      ]
+    },
+    {
+      "slug": "lake-mburo",
+      "name": "Lake Mburo National Park",
+      "category": "National Park",
+      "badge": "Zebras",
+      "meta": "Western Uganda · Compact savannah",
+      "hero": "external/uganda/lake-mburo.jpg",
+      "gallery": [],
+      "card_desc": "Zebras, impala and lakeside scenery on the road between Kampala and the west.",
+      "paragraphs": [
+        "Lake Mburo National Park is Uganda's smallest savannah park, an ideal stopover between Kampala and western Uganda's gorilla and chimp circuits.",
+        "Open grassland and acacia woodland support zebra, impala, eland, buffalo, leopard and over 350 bird species. Lake Mburo itself offers boat trips among hippos and waterbirds.",
+        "Walking safaris and horseback riding are permitted here - rare privileges in Uganda - making Mburo a refreshing contrast to larger parks."
+      ],
+      "activities": [
+        "Game drives",
+        "Boat cruise",
+        "Walking safari",
+        "Horseback riding"
+      ]
+    },
+    {
+      "slug": "mgahinga-gorilla",
+      "name": "Mgahinga Gorilla National Park",
+      "category": "National Park",
+      "badge": "Virunga",
+      "meta": "Southwest Uganda · Gorillas & volcanoes",
+      "hero": "external/uganda/mgahinga-gorilla.jpg",
+      "gallery": [
+        "external/uganda/mgahinga-gorilla-gal-0.jpg",
+        "external/uganda/mgahinga-gorilla-gal-1.jpg"
+      ],
+      "card_desc": "Gorilla and golden monkey tracking on the slopes of the Virunga volcanoes.",
+      "paragraphs": [
+        "Mgahinga Gorilla National Park forms part of the Virunga Mountains on Uganda's border with Rwanda and the DRC. Three extinct volcanoes - Muhavura, Gahinga and Sabinyo - rise above bamboo and montane forest.",
+        "The park protects a transboundary population of mountain gorillas and offers golden monkey tracking through Afro-alpine vegetation with sweeping views across three countries.",
+        "Mgahinga complements Bwindi for travellers seeking a quieter gorilla experience amid dramatic volcanic scenery."
+      ],
+      "activities": [
+        "Gorilla trekking",
+        "Golden monkey tracking",
+        "Volcano hiking",
+        "Batwa heritage trail"
+      ]
+    },
+    {
+      "slug": "rwenzori-mountains",
+      "name": "Rwenzori Mountains National Park",
+      "category": "National Park",
+      "badge": "Mountains of the Moon",
+      "meta": "Western Uganda · Alpine trekking",
+      "hero": "external/uganda/rwenzori-mountains.jpg",
+      "gallery": [
+        "external/uganda/rwenzori-mountains-gal-0.jpg",
+        "external/uganda/rwenzori-mountains-gal-1.jpg"
+      ],
+      "card_desc": "Snow-capped peaks and Afro-alpine trails on the legendary Mountains of the Moon.",
+      "paragraphs": [
+        "Rwenzori Mountains National Park protects Africa's third-highest range, the legendary Mountains of the Moon, whose snow-capped Margherita Peak rises to 5,109 metres.",
+        "Multi-day treks pass through distinct vegetation zones - montane forest, giant heather, lobelia fields and glaciers - with endemic flora found nowhere else on Earth.",
+        "Shorter day hikes from trailheads near Kasese reward visitors with waterfalls, colobus monkeys and panoramic Rift Valley views without committing to a summit expedition."
+      ],
+      "activities": [
+        "Mountain trekking",
+        "Day hikes",
+        "Bird watching",
+        "Cultural visits"
+      ]
+    },
+    {
+      "slug": "mount-elgon",
+      "name": "Mount Elgon National Park",
+      "category": "National Park",
+      "badge": "Volcanic Caldera",
+      "meta": "Eastern Uganda · Hiking & waterfalls",
+      "hero": "external/uganda/mount-elgon.jpg",
+      "gallery": [
+        "external/uganda/mount-elgon-gal-0.jpg",
+        "external/uganda/mount-elgon-gal-1.jpg"
+      ],
+      "card_desc": "Ancient volcano, Sipi Falls and Bagisu culture at Uganda's eastern frontier.",
+      "paragraphs": [
+        "Mount Elgon National Park straddles the Kenya-Uganda border, centred on an ancient volcanic caldera larger than any other extinct volcano in the world.",
+        "Trails lead through montane forest to waterfalls, caves and Wagagai Peak, while the nearby Sipi Falls - a series of three cascades - is among Uganda's most photographed landscapes.",
+        "Mbale town serves as the gateway, offering cool highland air and encounters with Bagisu culture including the traditional Imbalu ceremony."
+      ],
+      "activities": [
+        "Hiking",
+        "Sipi Falls visits",
+        "Rock climbing",
+        "Bird watching"
+      ]
+    },
+    {
+      "slug": "semuliki",
+      "name": "Semuliki National Park",
+      "category": "National Park",
+      "badge": "Congo Basin",
+      "meta": "Western Uganda · Lowland rainforest",
+      "hero": "external/uganda/semuliki.jpg",
+      "gallery": [
+        "external/uganda/semuliki-gal-0.jpg",
+        "external/uganda/semuliki-gal-1.jpg"
+      ],
+      "card_desc": "Central African rainforest, hot springs and rare forest birds in the Albertine Rift.",
+      "paragraphs": [
+        "Semuliki National Park extends the great Ituri rainforest of the Congo Basin into Uganda, preserving lowland tropical forest unlike any other park in East Africa.",
+        "Sempaya Hot Springs bubble at temperatures hot enough to cook eggs, while forest trails reveal hornbills, lyre-tailed honeyguides and other Congo Basin species at the eastern edge of their range.",
+        "The park sits in the Albertine Rift near Fort Portal, pairing well with Kibale and Queen Elizabeth on a western Uganda itinerary."
+      ],
+      "activities": [
+        "Hot springs visit",
+        "Forest walks",
+        "Bird watching",
+        "Batwa community visits"
+      ]
+    },
+    {
+      "slug": "kampala",
+      "name": "Kampala City",
+      "category": "City",
+      "badge": "Capital",
+      "meta": "Central Uganda · Culture & commerce",
+      "hero": "external/uganda/kampala.jpg",
+      "gallery": [
+        "external/uganda/kampala-gal-0.jpg"
+      ],
+      "card_desc": "Uganda's vibrant capital - hills, markets, museums and nightlife on Lake Victoria.",
+      "paragraphs": [
+        "Kampala is Uganda's capital and largest city, the political, economic and cultural heartbeat of the nation. Modern skyscrapers coexist with historic landmarks and bustling local markets spread across a series of hills near Lake Victoria.",
+        "Visitors explore the Uganda National Museum, Kasubi Tombs, Kabaka's Palace, Namirembe and Rubaga cathedrals, Bahai Temple, Gadaffi Mosque and the Namugongo Martyrs' Shrine.",
+        "Just 40 km from Entebbe International Airport, Kampala is the ideal starting point for gorilla trekking, safari circuits and Nile adventures across the Pearl of Africa."
+      ],
+      "activities": [
+        "City tours",
+        "Cultural sites",
+        "Markets & crafts",
+        "Nightlife & dining"
+      ]
+    },
+    {
+      "slug": "jinja",
+      "name": "Jinja City",
+      "category": "City",
+      "badge": "Adventure",
+      "meta": "Eastern Uganda · Source of the Nile",
+      "hero": "external/uganda/jinja.jpg",
+      "gallery": [],
+      "card_desc": "White-water rafting, bungee jumping and Nile boat rides at the source of the Nile.",
+      "paragraphs": [
+        "Jinja sits on the northern shore of Lake Victoria at the source of the River Nile, renowned as Uganda's adventure capital. The town combines colonial heritage with a scenic lakeside setting.",
+        "White-water rafting on the Nile ranks among the world's best, while bungee jumping, kayaking and sunset cruises offer thrills for every level of adventurer.",
+        "Nearby Mabira Forest provides canopy walks, birdwatching and hiking - making Jinja an essential stop between Kampala and eastern Uganda's parks."
+      ],
+      "activities": [
+        "White-water rafting",
+        "Bungee jumping",
+        "Source of the Nile boat ride",
+        "Mabira Forest walks"
+      ]
+    },
+    {
+      "slug": "entebbe",
+      "name": "Entebbe",
+      "category": "City",
+      "badge": "Lake Victoria",
+      "meta": "Central Uganda · Gateway town",
+      "hero": "external/uganda/entebbe.jpg",
+      "gallery": [],
+      "card_desc": "Lakeside charm, botanical gardens and Uganda's international airport.",
+      "paragraphs": [
+        "Entebbe on Lake Victoria's northern shore is Uganda's main international gateway, home to Entebbe International Airport. Despite its modest size, the town offers natural beauty, history and relaxed lakeside charm.",
+        "The Uganda Wildlife Education Centre showcases lions, giraffes and chimpanzees, while Entebbe Botanical Gardens feature indigenous flora and birdlife along the lakeshore.",
+        "Boat trips to Ngamba Island Chimpanzee Sanctuary and birding at nearby Mabamba Swamp - home to the shoebill stork - make Entebbe more than just a transit stop."
+      ],
+      "activities": [
+        "Botanical gardens",
+        "UWEC wildlife centre",
+        "Lake Victoria boat trips",
+        "Shoebill birding at Mabamba"
+      ]
+    },
+    {
+      "slug": "mbarara",
+      "name": "Mbarara City",
+      "category": "City",
+      "badge": "Ankole",
+      "meta": "Southwest Uganda · Land of milk and honey",
+      "hero": "external/uganda/mbarara.jpg",
+      "gallery": [],
+      "card_desc": "Gateway to Lake Mburo and western Uganda's safari circuit.",
+      "paragraphs": [
+        "Mbarara is the largest city in southwestern Uganda, known as the Land of Milk and Honey for its dairy farming and long-horned Ankole cattle. It serves as a commercial hub and gateway to western national parks.",
+        "Lake Mburo National Park lies nearby with zebras, hippos and antelope, while the Igongo Cultural Centre showcases Ankole heritage, traditions and royal history at the Nkokonjeru Tombs.",
+        "Mbarara is a convenient base between Kampala and Bwindi, Queen Elizabeth and Kibale on Uganda's western safari route."
+      ],
+      "activities": [
+        "Igongo Cultural Centre",
+        "Lake Mburo day trips",
+        "Cattle corridor tours",
+        "Local food experiences"
+      ]
+    },
+    {
+      "slug": "mbale",
+      "name": "Mbale City",
+      "category": "City",
+      "badge": "Eastern Highlands",
+      "meta": "Eastern Uganda · Mount Elgon gateway",
+      "hero": "external/uganda/mbale.jpg",
+      "gallery": [],
+      "card_desc": "Cool highland town at the foot of Mount Elgon and stunning Sipi Falls.",
+      "paragraphs": [
+        "Mbale nestles at the foothills of Mount Elgon in eastern Uganda, a gateway for hikers and nature lovers exploring Mount Elgon National Park and the spectacular Sipi Falls.",
+        "The city is a cultural centre for the Bagisu people, famed for the Imbalu circumcision ceremony held in even-numbered years - one of Uganda's most significant traditional events.",
+        "Cool mountain air, coffee plantations and waterfall trails make Mbale a refreshing contrast to the lowland heat of Kampala and the savannah parks of the west."
+      ],
+      "activities": [
+        "Sipi Falls hiking",
+        "Mount Elgon treks",
+        "Coffee tours",
+        "Bagisu cultural experiences"
+      ]
+    },
+    {
+      "slug": "gulu",
+      "name": "Gulu City",
+      "category": "City",
+      "badge": "Northern Gateway",
+      "meta": "Northern Uganda · Acholi heritage",
+      "hero": "external/uganda/gulu.jpg",
+      "gallery": [],
+      "card_desc": "Northern Uganda's cultural hub and base for Murchison Falls and Kidepo safaris.",
+      "paragraphs": [
+        "Gulu is the largest city in northern Uganda, emerging as a vibrant destination blending Acholi culture, history and access to remote wilderness. Fort Patiko offers insight into 19th-century colonial history.",
+        "The city's cultural centre showcases Acholi music, dance and crafts, while lively markets and warm hospitality reflect a community rebuilding and thriving.",
+        "Gulu is an ideal base for safaris to Murchison Falls and Kidepo Valley National Parks, significantly shortening travel times to Uganda's northern wildlife frontiers."
+      ],
+      "activities": [
+        "Fort Patiko visits",
+        "Acholi cultural performances",
+        "Market tours",
+        "Murchison Falls day trips"
+      ]
+    }
+  ]
+}

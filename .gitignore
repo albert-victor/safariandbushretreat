@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment / secrets (never commit these)
+.env
+.env.*
+*.pem
+credentials.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies (if you add Node later)
+node_modules/
+
+# Python cache (for scripts/)
+__pycache__/
+*.pyc
+.venv/
+venv/

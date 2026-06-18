@@ -1,0 +1,355 @@
+{
+  "source": "https://visitrwanda.com/tourism/destinations/towns/ and https://visitrwanda.com/tourism/destinations/national-parks/",
+  "rwanda": {
+    "slug": "rwanda",
+    "name": "Rwanda Safaris",
+    "badge": "Land of a Thousand Hills",
+    "meta": "East Africa · Gorillas, rainforest & Lake Kivu",
+    "hero": "external/rwanda/rwanda.jpg",
+    "gallery": [
+      "external/rwanda/rwanda-gal-0.jpg",
+      "external/rwanda/rwanda-gal-1.jpg"
+    ],
+    "card_desc": "Volcanoes gorilla trekking, Akagera Big Five, Nyungwe rainforest and lakeside towns on Lake Kivu.",
+    "paragraphs": [
+      "Rwanda - the Land of a Thousand Hills - packs extraordinary biodiversity and culture into one of Africa's most compact and welcoming nations. From misty volcanoes to savannah plains and ancient rainforests, every landscape tells a story of conservation and renewal.",
+      "Volcanoes National Park made Rwanda synonymous with mountain gorilla tracking, while Akagera's restored lion and rhino populations bring the Big Five within reach. Nyungwe Forest shelters chimpanzees and a world-class canopy walkway.",
+      "Charming towns along Lake Kivu and the immaculate capital Kigali add urban sophistication to any itinerary - making Rwanda the perfect complement to a Tanzania or Uganda safari."
+    ],
+    "highlights": [
+      "Mountain Gorilla Tracking - Volcanoes National Park in the Virunga Mountains",
+      "Big Five Safari - Akagera National Park savannah and wetlands",
+      "Nyungwe Forest - chimpanzees, canopy walkway and 300+ bird species",
+      "Lake Kivu - lakeside relaxation in Rubavu and Karongi",
+      "Kigali - clean, safe capital with museums and vibrant dining"
+    ],
+    "packages": [
+      {
+        "slug": "3-days-rwanda-gorilla-trek",
+        "name": "3 Days Rwanda Gorilla Trek",
+        "days": 3,
+        "price": "$1,950",
+        "hero": "external/rwanda/volcanoes.jpg",
+        "description": "Essential Volcanoes National Park gorilla trek based in Musanze with dramatic Virunga volcano views."
+      },
+      {
+        "slug": "5-days-rwanda-gorillas-lakes",
+        "name": "5 Days Rwanda Gorillas & Lake Kivu",
+        "days": 5,
+        "price": "$2,750",
+        "hero": "external/rwanda/lake-kivu.jpg",
+        "description": "Gorilla trekking in the Virungas followed by kayaking and lakeside relaxation on Lake Kivu."
+      },
+      {
+        "slug": "6-days-rwanda-wildlife-forest",
+        "name": "6 Days Rwanda Wildlife & Forest Safari",
+        "days": 6,
+        "price": "$3,200",
+        "hero": "external/rwanda/akagera.jpg",
+        "description": "Big Five game drives in Akagera and chimpanzee tracking with canopy walkway in Nyungwe Forest."
+      }
+    ]
+  },
+  "destinations": [
+    {
+      "slug": "volcanoes",
+      "name": "Volcanoes National Park",
+      "category": "National Park",
+      "badge": "Gorillas",
+      "meta": "Northwest Rwanda · Virunga Mountains",
+      "hero": "external/rwanda/volcanoes.jpg",
+      "gallery": [
+        "external/rwanda/volcanoes-gal-0.jpg",
+        "external/rwanda/volcanoes-gal-1.jpg"
+      ],
+      "card_desc": "Track mountain gorillas in the rainforest of the Virunga volcanoes.",
+      "paragraphs": [
+        "In the heart of Central Africa, great old volcanoes tower almost 15,000 feet, nearly covered with rich green rainforest - the Virungas. Volcanoes National Park is where Dian Fossey pioneered gorilla conservation.",
+        "Guided treks bring visitors face to face with habituated mountain gorilla families amid bamboo and hagenia forest on the slopes of Bisoke, Karisimbi and other dormant peaks.",
+        "Golden monkey tracking, visits to the Dian Fossey Gorilla Fund and hikes to crater lakes reward travellers who extend their stay beyond the iconic gorilla encounter."
+      ],
+      "activities": [
+        "Gorilla tracking",
+        "Golden monkey tracking",
+        "Volcano hiking",
+        "Dian Fossey memorial hike"
+      ]
+    },
+    {
+      "slug": "akagera",
+      "name": "Akagera National Park",
+      "category": "National Park",
+      "badge": "Big Five",
+      "meta": "Eastern Rwanda · Savanna & wetlands",
+      "hero": "external/rwanda/akagera.jpg",
+      "gallery": [
+        "external/rwanda/akagera-gal-0.jpg",
+        "external/rwanda/akagera-gal-1.jpg"
+      ],
+      "card_desc": "Savannah, woodland and lakes where lions and rhinos roam again.",
+      "paragraphs": [
+        "The relatively warm and low-lying plains of Akagera comprise savannah, woodland, wetland and a dozen lakes along Rwanda's border with Tanzania.",
+        "In partnership with African Parks, lions and rhinos have been reintroduced - meaning visitors can once again hope to see the Big Five on game drives through diverse habitats.",
+        "Boat trips on Lake Ihema reveal hippo, crocodile and waterbirds, while night drives and behind-the-scenes conservation tours add depth to Rwanda's premier savannah experience."
+      ],
+      "activities": [
+        "Game drives",
+        "Boat safari on Lake Ihema",
+        "Night drives",
+        "Bird watching"
+      ]
+    },
+    {
+      "slug": "nyungwe",
+      "name": "Nyungwe National Park",
+      "category": "National Park",
+      "badge": "Rainforest",
+      "meta": "Southwest Rwanda · Ancient forest",
+      "hero": "external/rwanda/nyungwe.jpg",
+      "gallery": [
+        "external/rwanda/nyungwe-gal-0.jpg",
+        "external/rwanda/nyungwe-gal-1.jpg"
+      ],
+      "card_desc": "One of Africa's oldest rainforests - chimps, monkeys and a canopy walkway.",
+      "paragraphs": [
+        "Nyungwe is one of the oldest rainforests in Africa, rich in biodiversity and spectacularly beautiful. The mountainous region teams with wildlife, including chimpanzees and 12 other primate species.",
+        "The canopy walkway suspended above the forest floor is among East Africa's most thrilling experiences, while waterfall trails and tea plantation visits frame the park's emerald ridges.",
+        "Nyungwe connects naturally with Lake Kivu towns and Rwanda's southern cultural circuit, offering a lush counterpoint to the volcanoes and savannah."
+      ],
+      "activities": [
+        "Chimpanzee tracking",
+        "Canopy walkway",
+        "Waterfall hikes",
+        "Bird watching"
+      ]
+    },
+    {
+      "slug": "gishwati-mukura",
+      "name": "Gishwati Mukura National Park",
+      "category": "National Park",
+      "badge": "Conservation",
+      "meta": "Western Rwanda · Restored forest",
+      "hero": "external/rwanda/gishwati-mukura.jpg",
+      "gallery": [],
+      "card_desc": "Rwanda's newest park - chimpanzees and golden monkeys in restored forest.",
+      "paragraphs": [
+        "Gishwati Mukura is Rwanda's fourth national park, made up of two separate forests - the larger Gishwati and smaller Mukura - in the country's western highlands.",
+        "Reforestation efforts have created habitat for chimpanzees, golden monkeys, blue and L'Hoest's monkeys, plus a host of birds and smaller forest animals.",
+        "Community-based tourism initiatives let visitors experience conservation success firsthand on guided forest walks and cultural exchanges with neighbouring villages."
+      ],
+      "activities": [
+        "Forest walks",
+        "Primate viewing",
+        "Bird watching",
+        "Community cultural visits"
+      ]
+    },
+    {
+      "slug": "kigali",
+      "name": "Kigali",
+      "category": "Town",
+      "badge": "Capital",
+      "meta": "Central Rwanda · Clean, safe & cosmopolitan",
+      "hero": "external/rwanda/kigali.jpg",
+      "gallery": [
+        "external/rwanda/kigali-gal-0.jpg"
+      ],
+      "card_desc": "Rwanda's immaculate capital - museums, markets and world-class dining.",
+      "paragraphs": [
+        "Kigali is one of Africa's cleanest and safest capitals, spread across verdant hills with a cosmopolitan atmosphere that belies Rwanda's compact size.",
+        "The Kigali Genocide Memorial provides essential context for understanding modern Rwanda, while craft markets, art galleries and the vibrant Nyamirambo neighbourhood showcase contemporary culture.",
+        "Excellent hotels and restaurants make Kigali the natural start or end point for gorilla trekking, Akagera safaris and Lake Kivu escapes."
+      ],
+      "activities": [
+        "City tours",
+        "Genocide Memorial visit",
+        "Craft markets",
+        "Coffee & cuisine tours"
+      ]
+    },
+    {
+      "slug": "nyanza",
+      "name": "Nyanza",
+      "category": "Town",
+      "badge": "Royal Heritage",
+      "meta": "Southern Rwanda · King's Palace",
+      "hero": "external/rwanda/nyanza.jpg",
+      "gallery": [
+        "external/rwanda/nyanza-gal-0.jpg"
+      ],
+      "card_desc": "Home to the King's Palace - a beautifully crafted traditional royal residence.",
+      "paragraphs": [
+        "Nyanza was the historical seat of the Rwandan monarchy. The King's Palace is a reconstruction of the traditional royal residence - a beautifully crafted thatched dwelling shaped like a beehive.",
+        "The adjacent museum displays regalia and artefacts of the Rwandan kings, while long-horned Inyambo cattle graze on the palace grounds as living symbols of royal tradition.",
+        "Nyanza sits on the road between Kigali and Huye, making it an easy cultural stop on Rwanda's southern circuit."
+      ],
+      "activities": [
+        "King's Palace museum",
+        "Traditional architecture tours",
+        "Inyambo cattle viewing",
+        "Cultural performances"
+      ]
+    },
+    {
+      "slug": "huye",
+      "name": "Huye",
+      "category": "Town",
+      "badge": "Southern Hub",
+      "meta": "Southern Rwanda · University town",
+      "hero": "external/rwanda/huye.jpg",
+      "gallery": [
+        "external/rwanda/huye-gal-0.jpg"
+      ],
+      "card_desc": "Southern Rwanda's intellectual and cultural centre, gateway to Nyungwe Forest.",
+      "paragraphs": [
+        "Huye - formerly Butare - is southern Rwanda's main town and intellectual centre, home to the National University and the Ethnographic Museum, one of East Africa's finest collections of Rwandan heritage.",
+        "The town's orderly streets, cafes and colonial-era buildings offer a relaxed base before heading west to Nyungwe National Park or south toward Burundi.",
+        "Cultural performances, artisan cooperatives and the nearby arboretum make Huye essential for travellers seeking depth beyond gorilla trekking."
+      ],
+      "activities": [
+        "Ethnographic Museum",
+        "Arboretum walks",
+        "Artisan visits",
+        "Cultural performances"
+      ]
+    },
+    {
+      "slug": "rubavu",
+      "name": "Rubavu",
+      "category": "Town",
+      "badge": "Lake Kivu",
+      "meta": "Western Rwanda · Lakeside resort",
+      "hero": "external/rwanda/rubavu.jpg",
+      "gallery": [
+        "external/rwanda/rubavu-gal-0.jpg"
+      ],
+      "card_desc": "Waterfront town on Lake Kivu with sandy beaches and tropical ease.",
+      "paragraphs": [
+        "Rubavu is a waterfront town on the shores of Lake Kivu, with red sandy beaches, warm clean water and an easygoing tropical character.",
+        "Once known as Gisenyi, Rubavu faces the Congolese city of Goma across the lake and offers kayaking, boat trips, beach relaxation and sunset dining along the waterfront.",
+        "The town is the perfect lakeside finale after gorilla trekking in nearby Volcanoes National Park - just a short drive from Musanze through terraced hills."
+      ],
+      "activities": [
+        "Beach relaxation",
+        "Kayaking & boat trips",
+        "Waterfront dining",
+        "Border market visits"
+      ]
+    },
+    {
+      "slug": "karongi",
+      "name": "Karongi",
+      "category": "Town",
+      "badge": "Lake Kivu",
+      "meta": "Western Rwanda · Scenic lakeside",
+      "hero": "external/rwanda/karongi.jpg",
+      "gallery": [
+        "external/rwanda/karongi-gal-0.jpg",
+        "external/rwanda/karongi-gal-1.jpg"
+      ],
+      "card_desc": "Palm-fringed Lake Kivu shores and island boat trips from a peaceful resort town.",
+      "paragraphs": [
+        "Karongi - formerly Kibuye - is one of Lake Kivu's most scenic towns, with palm-fringed shores, terraced hills and calm waters ideal for boat trips to Napoleon and other islands.",
+        "The town offers a quieter lakeside experience than Rubavu, with excellent lodges perched on peninsulas overlooking the lake and distant Congolese mountains.",
+        "Karongi lies midway along Lake Kivu's eastern shore, connecting Rubavu in the north with Rusizi and Nyungwe in the south."
+      ],
+      "activities": [
+        "Island boat trips",
+        "Lakeside hiking",
+        "Swimming & relaxation",
+        "Coffee cooperative visits"
+      ]
+    },
+    {
+      "slug": "musanze",
+      "name": "Musanze",
+      "category": "Town",
+      "badge": "Volcanoes Gateway",
+      "meta": "Northern Rwanda · Gorilla trekking base",
+      "hero": "external/rwanda/musanze.jpg",
+      "gallery": [
+        "external/rwanda/musanze-gal-0.jpg"
+      ],
+      "card_desc": "Gateway town to Volcanoes National Park and the Virunga foothills.",
+      "paragraphs": [
+        "Musanze - formerly Ruhengeri - is the bustling gateway to Volcanoes National Park and the primary base for gorilla trekking in Rwanda.",
+        "The town offers a full range of accommodation, restaurants and tour operators, with dramatic views of the Virunga volcanoes rising above surrounding farmland.",
+        "Twin Lakes Burera and Ruhondo, cave explorations and community walks add activities for rest days between gorilla permits."
+      ],
+      "activities": [
+        "Gorilla trek staging",
+        "Twin Lakes visits",
+        "Cave exploration",
+        "Community walks"
+      ]
+    },
+    {
+      "slug": "rusizi",
+      "name": "Rusizi",
+      "category": "Town",
+      "badge": "Nyungwe Gateway",
+      "meta": "Southwest Rwanda · Border town",
+      "hero": "external/rwanda/rusizi.jpg",
+      "gallery": [
+        "external/rwanda/rusizi-gal-0.jpg"
+      ],
+      "card_desc": "Border town and practical base for self-drive visitors to Nyungwe National Park.",
+      "paragraphs": [
+        "Rusizi is a small town on the border with the Democratic Republic of the Congo and the closest town to Nyungwe National Park.",
+        "Budget and mid-range accommodation here appeals to self-drive visitors planning chimpanzee tracking and canopy walkway adventures in Nyungwe.",
+        "The town sits where the Rusizi River flows from Lake Kivu toward Lake Tanganyika, offering a frontier atmosphere at Rwanda's southwestern tip."
+      ],
+      "activities": [
+        "Nyungwe park access",
+        "Border market visits",
+        "River walks",
+        "Budget lodging base"
+      ]
+    },
+    {
+      "slug": "kibeho",
+      "name": "Kibeho",
+      "category": "Town",
+      "badge": "Pilgrimage",
+      "meta": "Southern Rwanda · Marian shrine",
+      "hero": "external/rwanda/kibeho.jpg",
+      "gallery": [],
+      "card_desc": "Rwanda's sacred pilgrimage site in the hills of the southern province.",
+      "paragraphs": [
+        "Kibeho is a small town in southern Rwanda known as a Marian pilgrimage site, where apparitions reported in the 1980s drew international attention from the Catholic Church.",
+        "The Shrine of Our Lady of Kibeho welcomes pilgrims and curious visitors alike, set amid rolling hills and farming communities typical of rural Rwanda.",
+        "Kibeho adds a spiritual dimension to the southern circuit between Huye and Nyungwe, particularly during annual pilgrimage events."
+      ],
+      "activities": [
+        "Shrine visits",
+        "Pilgrimage tours",
+        "Hill walks",
+        "Community cultural exchanges"
+      ]
+    },
+    {
+      "slug": "lake-kivu",
+      "name": "Lake Kivu",
+      "category": "Destination",
+      "badge": "Inland Sea",
+      "meta": "Western Rwanda · Freshwater paradise",
+      "hero": "external/rwanda/lake-kivu.jpg",
+      "gallery": [
+        "external/rwanda/lake-kivu-gal-0.jpg",
+        "external/rwanda/lake-kivu-gal-1.jpg"
+      ],
+      "card_desc": "Africa's sixth-largest lake - beaches, islands and terraced hillsides.",
+      "paragraphs": [
+        "Lake Kivu is one of Africa's Great Lakes, forming Rwanda's western border with the Democratic Republic of the Congo. Its deep, methane-rich waters and terraced shores create a stunning inland seascape.",
+        "Resort towns Rubavu and Karongi offer beaches, boating and fresh tilapia dining, while island-hopping trips reveal fishing communities and birdlife along the shoreline.",
+        "A Lake Kivu extension perfectly follows gorilla trekking or Nyungwe forest adventures - relaxation without leaving Rwanda's compact borders."
+      ],
+      "activities": [
+        "Boat trips & kayaking",
+        "Beach relaxation",
+        "Island hopping",
+        "Sunset dining"
+      ]
+    }
+  ]
+}

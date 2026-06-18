@@ -1,0 +1,195 @@
+{
+  "source": "https://www.safarijunctions.com/destinations/kenya/",
+  "kenya": {
+    "slug": "kenya",
+    "name": "Kenya Safaris",
+    "badge": "Cross-Border",
+    "meta": "East Africa · Maasai Mara, Amboseli & Coast",
+    "hero": "masai mara park.jpg",
+    "gallery": [
+      "external/kenya/kenya-gallery-1-enock-mzungu-scaled.png.jpg",
+      "external/kenya/sneha-cecil-DEBrMzu-D8I-unsplash-1-scaled.jpg"
+    ],
+    "card_desc": "Extend your Tanzania safari into Kenya - Maasai Mara, Amboseli, Samburu and Indian Ocean beaches.",
+    "paragraphs": [
+      "Situated on the tropical east coast of Africa, Kenya evokes images of dramatic landscapes, a rich natural heritage, and a cosmopolitan fusion of African, Asian and European cultures. These diverse highlights have made Kenya among the most popular tourist destinations on the continent.",
+      "The number one attraction is the wildlife; including the Big 5 and the spectacle of the Great Wildebeest Migration. Spread over an extensive network of national parks and private conservancies, decades of proactive conservation and investment in the hospitality industry reveal a range of destinations and activities that cater to a variety of interests.",
+      "Kenya's extensive coastline abuts the warm azure waters of the Indian Ocean, making it ideal for those wanting to spend a few days pre- or post-safari soaking up the rays or exploring its fascinating marine life. From the first joyful \"Jambo!\" to the last glimmer of the African sun, Kenya will captivate you."
+    ],
+    "highlights": [
+      "Big 5 Safari - lions, leopards, elephants, buffaloes and rhinos",
+      "The Great Migration - millions of wildebeest and zebras crossing the Mara-Serengeti ecosystem",
+      "Birding Paradise - over 1,000 bird species across diverse habitats",
+      "Landscape Diversity - savannahs, mountains, Rift Valley lakes and Indian Ocean coast",
+      "Cultural Encounters - authentic Maasai, Samburu and Swahili heritage"
+    ],
+    "packages": [
+      {
+        "slug": "9-days-kenya-cultural-tour",
+        "name": "9 Days Kenya Cultural Tour",
+        "days": 9,
+        "price": "$4,490",
+        "hero": "external/kenya/jasper-gribble-IZIJdYq6elY-unsplash-scaled.jpg",
+        "description": "Samburu Special Five, Lake Nakuru rhinos, Lake Naivasha boat safari and Masai Mara game drives with Maasai cultural visits."
+      },
+      {
+        "slug": "5-days-kenya-mara-safari",
+        "name": "5 Days Masai Mara Safari",
+        "days": 5,
+        "price": "$1,850",
+        "hero": "masai mara park.jpg",
+        "description": "Extended game drives across the Mara - Big Five, Mara River wildlife and optional hot air balloon at dawn."
+      },
+      {
+        "slug": "3-days-amboseli-safari",
+        "name": "3 Days Amboseli Lodge Safari",
+        "days": 3,
+        "price": "$670",
+        "hero": "external/kenya/wolfgang-hasselmann-czm3hOW1mMk-unsplash-scaled.jpg",
+        "description": "Elephant herds beneath Kilimanjaro with swamp-fringed game drives in southern Kenya."
+      }
+    ]
+  },
+  "destinations": [
+    {
+      "slug": "masai-mara",
+      "name": "Masai Mara National Reserve",
+      "badge": "Great Migration",
+      "meta": "Southwest Kenya · Year-round wildlife",
+      "hero": "masai mara park.jpg",
+      "gallery": [
+        "masai mara park.jpg",
+        "masai-jumping-1024x683.webp"
+      ],
+      "card_desc": "Witness the Great Migration and Big Five on Kenya's most iconic savanna.",
+      "paragraphs": [
+        "For many travellers, Kenya's safari experience is the benchmark - and the Masai Mara National Reserve is its crown jewel. Rolling grasslands, acacia woodland and the Mara River host extraordinary concentrations of lion, cheetah, elephant and leopard year-round.",
+        "From July to October, over a million wildebeest and hundreds of thousands of zebra surge into the Mara from the Serengeti, crossing crocodile-filled rivers in one of nature's greatest spectacles. Expert Maasai guides ensure safe, informative game drives in private 4x4 vehicles.",
+        "Hot air balloon safaris at dawn, bush breakfasts and visits to traditional Maasai manyattas add depth to any Mara itinerary - perfectly combined with northern Tanzania safaris by Safari and Bush Retreats."
+      ],
+      "packages": [
+        {
+          "slug": "5-days-kenya-mara-safari",
+          "name": "5 Days Masai Mara Safari",
+          "days": 5,
+          "price": "$1,850",
+          "hero": "masai mara park.jpg",
+          "description": "Extended Mara game drives - Big Five, Mara River wildlife and optional balloon safari."
+        }
+      ]
+    },
+    {
+      "slug": "amboseli",
+      "name": "Amboseli National Park",
+      "badge": "Elephants",
+      "meta": "Southern Kenya · Kilimanjaro views",
+      "hero": "external/kenya/wolfgang-hasselmann-czm3hOW1mMk-unsplash-scaled.jpg",
+      "gallery": [
+        "external/kenya/amboseli-gal-0-photo-1568605117036-5fe5e7bab0b7.jpg",
+        "external/kenya/IMG-20250504-WA0029.jpg"
+      ],
+      "card_desc": "Elephant herds beneath the snow-capped peak of Mount Kilimanjaro.",
+      "paragraphs": [
+        "Amboseli National Park is famed for its large elephant herds and breathtaking views of Mount Kilimanjaro across the border in Tanzania. Open plains, swamps and acacia woodland support lion, cheetah, giraffe, zebra and over 400 bird species.",
+        "The park's name comes from the Maasai word \"Empusel\" - salty dust - referring to the alkaline lake bed that attracts flamingos and waterfowl in season. Observation Hill offers panoramic views over the entire ecosystem.",
+        "Amboseli pairs perfectly with the Maasai Mara or a Tanzania northern circuit extension, with easy access from Nairobi or cross-border from Arusha."
+      ],
+      "packages": [
+        {
+          "slug": "3-days-amboseli-safari",
+          "name": "3 Days Amboseli Lodge Safari",
+          "days": 3,
+          "price": "$670",
+          "hero": "external/kenya/wolfgang-hasselmann-czm3hOW1mMk-unsplash-scaled.jpg",
+          "description": "Amboseli game drives with Kilimanjaro backdrop."
+        }
+      ]
+    },
+    {
+      "slug": "samburu",
+      "name": "Samburu National Reserve",
+      "badge": "Special Five",
+      "meta": "Northern Kenya · Semi-arid wilderness",
+      "hero": "external/kenya/jasper-gribble-IZIJdYq6elY-unsplash-scaled.jpg",
+      "gallery": [
+        "external/kenya/kadyn-pierce-FhXf_8o5jTs-unsplash-1-scaled.jpg",
+        "external/kenya/mike-setchell-pf97TYdQlWM-unsplash.jpg"
+      ],
+      "card_desc": "Unique northern species and Samburu culture on the Ewaso Ng'iro River.",
+      "paragraphs": [
+        "Samburu National Reserve in northern Kenya protects a semi-arid landscape along the Ewaso Ng'iro River, home to species rarely seen elsewhere - Grevy's zebra, reticulated giraffe, Somali ostrich, gerenuk and Beisa oryx, known as the Samburu Special Five.",
+        "Lion, leopard and elephant are abundant, while the river attracts crocodiles and abundant birdlife. The reserve offers a quieter, more exclusive safari than the Mara, with strong cultural ties to the Samburu people.",
+        "Samburu features prominently in Safari Junction's 9-day Kenya Cultural Tour alongside Lake Nakuru and the Masai Mara."
+      ],
+      "packages": [
+        {
+          "slug": "9-days-kenya-cultural-tour",
+          "name": "9 Days Kenya Cultural Tour",
+          "days": 9,
+          "price": "$4,490",
+          "hero": "external/kenya/jasper-gribble-IZIJdYq6elY-unsplash-scaled.jpg",
+          "description": "Samburu, Lake Nakuru, Lake Naivasha, Masai Mara."
+        }
+      ]
+    },
+    {
+      "slug": "lake-nakuru",
+      "name": "Lake Nakuru National Park",
+      "badge": "Rhinos & Flamingos",
+      "meta": "Great Rift Valley · Birding",
+      "hero": "external/kenya/6048440574685591845_121.jpg",
+      "gallery": [
+        "external/kenya/6048440574685591842_121.jpg"
+      ],
+      "card_desc": "Flamingo-fringed soda lake and rhino sanctuary in the Rift Valley.",
+      "paragraphs": [
+        "Lake Nakuru National Park surrounds a shallow soda lake in Kenya's Great Rift Valley, famous for vast flocks of flamingos that fringe the shoreline in season. The park is also a rhino sanctuary, protecting both black and white rhinoceros alongside lion, leopard and Rothschild's giraffe.",
+        "Baboon Cliff and Out of Africa viewpoints offer sweeping vistas over the lake and surrounding acacia woodland. The compact park is ideal for a day visit or as a stop between Nairobi and the Maasai Mara.",
+        "Bird lovers will find over 450 species recorded, making Nakuru one of Kenya's finest birding destinations."
+      ],
+      "packages": []
+    },
+    {
+      "slug": "lake-naivasha",
+      "name": "Lake Naivasha",
+      "badge": "Rift Valley",
+      "meta": "Freshwater lake · Hippos & birdlife",
+      "hero": "external/kenya/lake-naivasha-photo-1505142468610-359e7d316be0.jpg",
+      "gallery": [
+        "external/kenya/jay-wennington-s-fD5Tpew2k-unsplash.jpg"
+      ],
+      "card_desc": "Boat safaris among hippos and fish eagles on a Rift Valley freshwater lake.",
+      "paragraphs": [
+        "Lake Naivasha is a freshwater lake in the Great Rift Valley, surrounded by papyrus swamps and acacia woodland. Boat safaris bring you close to hippos, fish eagles, kingfishers and colobus monkeys in the lakeside forests.",
+        "Crescent Island Sanctuary allows walking safaris among giraffe, zebra and wildebeest with no predators - a rare and memorable experience. Hell's Gate National Park nearby offers cycling and hiking beneath towering cliffs.",
+        "Naivasha is a popular stop on Kenya cultural and classic safari routes, offering relaxation between intensive game-drive days."
+      ],
+      "packages": []
+    },
+    {
+      "slug": "diani-beach",
+      "name": "Diani Beach",
+      "badge": "Indian Ocean",
+      "meta": "South Coast · Beach extension",
+      "hero": "external/kenya/diani-beach-photo-1559827260-dc66d52bef19.jpg",
+      "gallery": [
+        "external/kenya/diani-beach-gal-1-photo-1519046904884-53103b34b206.jpg",
+        "external/kenya/sneha-cecil-DEBrMzu-D8I-unsplash-1-scaled.jpg"
+      ],
+      "card_desc": "Powder-white beaches and turquoise waters - the perfect safari finale.",
+      "paragraphs": [
+        "Diani Beach on Kenya's south coast is one of East Africa's finest beach destinations - powder-white sand, turquoise waters and coral reefs teeming with marine life. It is the ideal post-safari extension after the Maasai Mara or Amboseli.",
+        "Activities include snorkeling, diving, dhow sailing, deep-sea fishing and visits to Shimba Hills National Reserve for sable antelope and coastal forest wildlife.",
+        "Safari Junction's 11-day Kenya High-End Safari and Beach combines Laikipia and Mara wildlife with Diani relaxation - a formula we tailor for Safari and Bush Retreats guests crossing from Tanzania."
+      ],
+      "packages": [
+        {
+          "name": "11 Days Kenya High-End Safari and Beach",
+          "days": 11,
+          "price": "$14,575",
+          "description": "Nairobi, Laikipia, Masai Mara, Diani."
+        }
+      ]
+    }
+  ]
+}

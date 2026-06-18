@@ -1,0 +1,2516 @@
+{
+  "items": [
+    {
+      "title": "Home",
+      "url": "index.html#home",
+      "type": "Page",
+      "subtitle": "Safari and Bush Retreats homepage",
+      "keywords": "",
+      "search": "home safari and bush retreats homepage page"
+    },
+    {
+      "title": "Safari Packages",
+      "url": "index.html#safaris",
+      "type": "Page",
+      "subtitle": "All curated safari itineraries",
+      "keywords": "",
+      "search": "safari packages all curated safari itineraries page"
+    },
+    {
+      "title": "Book Safari",
+      "url": "index.html#bookingForm",
+      "type": "Page",
+      "subtitle": "Contact form and safari inquiry",
+      "keywords": "",
+      "search": "book safari contact form and safari inquiry page"
+    },
+    {
+      "title": "Experiences",
+      "url": "index.html#experiences",
+      "type": "Page",
+      "subtitle": "Game drives, hiking, beach, culture",
+      "keywords": "",
+      "search": "experiences game drives, hiking, beach, culture page"
+    },
+    {
+      "title": "Accommodation",
+      "url": "index.html#accommodation",
+      "type": "Page",
+      "subtitle": "Lodges, camps and villas",
+      "keywords": "",
+      "search": "accommodation lodges, camps and villas page"
+    },
+    {
+      "title": "Gallery",
+      "url": "index.html#gallery",
+      "type": "Page",
+      "subtitle": "Photo gallery",
+      "keywords": "",
+      "search": "gallery photo gallery page"
+    },
+    {
+      "title": "Kenya Safaris",
+      "url": "kenya.html",
+      "type": "Page",
+      "subtitle": "Masai Mara, Amboseli and Kenya coast",
+      "keywords": "",
+      "search": "kenya safaris masai mara, amboseli and kenya coast page"
+    },
+    {
+      "title": "Uganda Safaris",
+      "url": "uganda.html",
+      "type": "Page",
+      "subtitle": "Gorillas, Murchison Falls and Nile adventures",
+      "keywords": "",
+      "search": "uganda safaris gorillas, murchison falls and nile adventures page"
+    },
+    {
+      "title": "Rwanda Safaris",
+      "url": "rwanda.html",
+      "type": "Page",
+      "subtitle": "Volcanoes gorillas, Akagera and Lake Kivu",
+      "keywords": "",
+      "search": "rwanda safaris volcanoes gorillas, akagera and lake kivu page"
+    },
+    {
+      "title": "Northern Circuit",
+      "url": "circuits/northern-circuit.html",
+      "type": "Circuit",
+      "subtitle": "Tanzania Northern Circuit destinations",
+      "keywords": "",
+      "search": "northern circuit tanzania northern circuit destinations circuit"
+    },
+    {
+      "title": "Southern Circuit",
+      "url": "circuits/southern-circuit.html",
+      "type": "Circuit",
+      "subtitle": "Tanzania Southern Circuit destinations",
+      "keywords": "",
+      "search": "southern circuit tanzania southern circuit destinations circuit"
+    },
+    {
+      "title": "Eastern Circuit",
+      "url": "circuits/eastern-circuit.html",
+      "type": "Circuit",
+      "subtitle": "Tanzania Eastern Circuit destinations",
+      "keywords": "",
+      "search": "eastern circuit tanzania eastern circuit destinations circuit"
+    },
+    {
+      "title": "Western Circuit",
+      "url": "circuits/western-circuit.html",
+      "type": "Circuit",
+      "subtitle": "Tanzania Western Circuit destinations",
+      "keywords": "",
+      "search": "western circuit tanzania western circuit destinations circuit"
+    },
+    {
+      "title": "Oceanic Islands",
+      "url": "circuits/tanzania-oceanic-islands.html",
+      "type": "Circuit",
+      "subtitle": "Tanzania Oceanic Islands destinations",
+      "keywords": "",
+      "search": "oceanic islands tanzania oceanic islands destinations circuit"
+    },
+    {
+      "title": "Zanzibar",
+      "url": "circuits/zanzibar.html",
+      "type": "Circuit",
+      "subtitle": "Tanzania Zanzibar destinations",
+      "keywords": "",
+      "search": "zanzibar tanzania zanzibar destinations circuit"
+    },
+    {
+      "title": "Mafia Island",
+      "url": "circuits/mafia-island.html",
+      "type": "Circuit",
+      "subtitle": "Tanzania Mafia Island destinations",
+      "keywords": "",
+      "search": "mafia island tanzania mafia island destinations circuit"
+    },
+    {
+      "title": "Southern Highlands & Culture",
+      "url": "circuits/southern-highlands.html",
+      "type": "Circuit",
+      "subtitle": "Tanzania Southern Highlands & Culture destinations",
+      "keywords": "",
+      "search": "southern highlands & culture tanzania southern highlands & culture destinations circuit"
+    },
+    {
+      "title": "Amani Nature Forest Reserves",
+      "url": "destinations/amani-forest.html",
+      "type": "Destination",
+      "subtitle": "Eastern Circuit",
+      "keywords": "Apart from the Saintpaulia flowers, the reserve is gifted with other varieties of tourist attractions ranging from endem",
+      "search": "amani nature forest reserves eastern circuit apart from the saintpaulia flowers, the reserve is gifted with other varieties of tourist attractions ranging from endem destination"
+    },
+    {
+      "title": "Amboni Caves",
+      "url": "destinations/amboni-caves.html",
+      "type": "Destination",
+      "subtitle": "Eastern Circuit",
+      "keywords": "Amboni Limited, a company which was then operating sisal plantations in Tanga Region acquired the area in 1892.",
+      "search": "amboni caves eastern circuit amboni limited, a company which was then operating sisal plantations in tanga region acquired the area in 1892. destination"
+    },
+    {
+      "title": "Bagamoyo Historical Town",
+      "url": "destinations/bagamoyo.html",
+      "type": "Destination",
+      "subtitle": "Eastern Circuit",
+      "keywords": "UNESCO-listed Swahili trading town - slave-trade history, Kaole ruins and coastal culture north of Dar es Salaam.",
+      "search": "bagamoyo historical town eastern circuit unesco-listed swahili trading town - slave-trade history, kaole ruins and coastal culture north of dar es salaam. destination"
+    },
+    {
+      "title": "Pangani",
+      "url": "destinations/pangani.html",
+      "type": "Destination",
+      "subtitle": "Eastern Circuit",
+      "keywords": "The name Pangani owes to the river that runs through northern part of the Historical Town. Pangani is a very old town,",
+      "search": "pangani eastern circuit the name pangani owes to the river that runs through northern part of the historical town. pangani is a very old town, destination"
+    },
+    {
+      "title": "Pugu Kazimzumbwi Nature Forest Reserve",
+      "url": "destinations/pugu-kazimzumbwi.html",
+      "type": "Destination",
+      "subtitle": "Eastern Circuit",
+      "keywords": "This rich portfolio of tourism attractions enable the reserve to offers enormous recreation satisfactions, meditation,",
+      "search": "pugu kazimzumbwi nature forest reserve eastern circuit this rich portfolio of tourism attractions enable the reserve to offers enormous recreation satisfactions, meditation, destination"
+    },
+    {
+      "title": "Saadani National Park",
+      "url": "destinations/saadani.html",
+      "type": "Destination",
+      "subtitle": "Eastern Circuit",
+      "keywords": "Saadani National Park is a one of a kind paradise with unique ecosystem where beach life meets wilderness.",
+      "search": "saadani national park eastern circuit saadani national park is a one of a kind paradise with unique ecosystem where beach life meets wilderness. destination"
+    },
+    {
+      "title": "Tanga Marine Park & Reserves",
+      "url": "destinations/tanga-marine.html",
+      "type": "Destination",
+      "subtitle": "Eastern Circuit",
+      "keywords": "The Park covers an area of about 552 km² of which 85 km² are terrestrial and 467 km² are aquatic.",
+      "search": "tanga marine park & reserves eastern circuit the park covers an area of about 552 km² of which 85 km² are terrestrial and 467 km² are aquatic. destination"
+    },
+    {
+      "title": "Uluguru Mountains",
+      "url": "destinations/uluguru.html",
+      "type": "Destination",
+      "subtitle": "Eastern Circuit",
+      "keywords": "The Ulugurus lie 200 km inland from the Indian Ocean. They are part of a chain of mountains in eastern Africa collective",
+      "search": "uluguru mountains eastern circuit the ulugurus lie 200 km inland from the indian ocean. they are part of a chain of mountains in eastern africa collective destination"
+    },
+    {
+      "title": "Usambara Mountains",
+      "url": "destinations/usambara.html",
+      "type": "Destination",
+      "subtitle": "Eastern Circuit",
+      "keywords": "The Usambara's are a part of the ancient Eastern Arc chain which mountains stretch in a broken crescent from the Taita h",
+      "search": "usambara mountains eastern circuit the usambara's are a part of the ancient eastern arc chain which mountains stretch in a broken crescent from the taita h destination"
+    },
+    {
+      "title": "Bwejuu Island",
+      "url": "destinations/bwejuu-island.html",
+      "type": "Destination",
+      "subtitle": "Mafia Island",
+      "keywords": "Bwejuu Island is considered the most beautiful island in the archipelago and for very good reason. Just under three hour",
+      "search": "bwejuu island mafia island bwejuu island is considered the most beautiful island in the archipelago and for very good reason. just under three hour destination"
+    },
+    {
+      "title": "Chole Bay & Marine Park",
+      "url": "destinations/chole-bay.html",
+      "type": "Destination",
+      "subtitle": "Mafia Island",
+      "keywords": "Snorkelling in Chole bay is a fantastic, colourfully exuberant experience accompanied by hoards of fish, all with differ",
+      "search": "chole bay & marine park mafia island snorkelling in chole bay is a fantastic, colourfully exuberant experience accompanied by hoards of fish, all with differ destination"
+    },
+    {
+      "title": "Chole Island",
+      "url": "destinations/chole-island.html",
+      "type": "Destination",
+      "subtitle": "Mafia Island",
+      "keywords": "Chole Island, once at a crossroads of a major trade route is now considered a place where one can take a glance back in ",
+      "search": "chole island mafia island chole island, once at a crossroads of a major trade route is now considered a place where one can take a glance back in  destination"
+    },
+    {
+      "title": "Jibondo Island",
+      "url": "destinations/jibondo-island.html",
+      "type": "Destination",
+      "subtitle": "Mafia Island",
+      "keywords": "About an hour’s sail south of Chole, Jibondo Island is the most traditional of the archipelago’s settlements, and most o",
+      "search": "jibondo island mafia island about an hour’s sail south of chole, jibondo island is the most traditional of the archipelago’s settlements, and most o destination"
+    },
+    {
+      "title": "Juani Island",
+      "url": "destinations/juani-island.html",
+      "type": "Destination",
+      "subtitle": "Mafia Island",
+      "keywords": "Nestled amongst the overgrown forests in the South of Juani Island are a set of ruins, the last remnants of the ancient ",
+      "search": "juani island mafia island nestled amongst the overgrown forests in the south of juani island are a set of ruins, the last remnants of the ancient  destination"
+    },
+    {
+      "title": "Mafia Island",
+      "url": "destinations/mafia.html",
+      "type": "Destination",
+      "subtitle": "Mafia Island",
+      "keywords": "The island lies across the trade routes from the Gulf and has seen Egyptian, Omani, Greco-Roman, Chines, Portuguese,",
+      "search": "mafia island mafia island the island lies across the trade routes from the gulf and has seen egyptian, omani, greco-roman, chines, portuguese, destination"
+    },
+    {
+      "title": "Arusha National Park",
+      "url": "destinations/arusha.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "It is a popular destination for day trip visitors who are about to embark from the town of Arusha on longer northern cir",
+      "search": "arusha national park northern circuit it is a popular destination for day trip visitors who are about to embark from the town of arusha on longer northern cir destination"
+    },
+    {
+      "title": "Kondoa Rock Art Sites",
+      "url": "destinations/kondoa-rock-art.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "Cave paintings in Kondoa Irangi are among the world most ancient examples of the human artistic expression.",
+      "search": "kondoa rock art sites northern circuit cave paintings in kondoa irangi are among the world most ancient examples of the human artistic expression. destination"
+    },
+    {
+      "title": "Lake Chala",
+      "url": "destinations/lake-chala.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "Lake Chala, also known as Lake Challa, is a crater lake that straddles the border between Kenya and Tanzania.",
+      "search": "lake chala northern circuit lake chala, also known as lake challa, is a crater lake that straddles the border between kenya and tanzania. destination"
+    },
+    {
+      "title": "Lake Eyasi",
+      "url": "destinations/lake-eyasi.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "Meet the Hadzabe hunter-gatherers and Datoga pastoralists on a soda lake shore.",
+      "search": "lake eyasi northern circuit meet the hadzabe hunter-gatherers and datoga pastoralists on a soda lake shore. destination"
+    },
+    {
+      "title": "Lake Jipe",
+      "url": "destinations/lake-jipe.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "It is 12 km long and 2.5 km wide, 12 square km belong to Tanzania and 14 square km to Kenya.",
+      "search": "lake jipe northern circuit it is 12 km long and 2.5 km wide, 12 square km belong to tanzania and 14 square km to kenya. destination"
+    },
+    {
+      "title": "Lake Manyara National Park",
+      "url": "destinations/lake-manyara.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "Tree-climbing lions, flamingo shores and Rift Valley escarpment views.",
+      "search": "lake manyara national park northern circuit tree-climbing lions, flamingo shores and rift valley escarpment views. destination"
+    },
+    {
+      "title": "Lake Natron",
+      "url": "destinations/lake-natron.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "Lake Natron is a salt or soda lake not far from Lake Manyara in northern Tanzania. It is located in the Gregory Rift,",
+      "search": "lake natron northern circuit lake natron is a salt or soda lake not far from lake manyara in northern tanzania. it is located in the gregory rift, destination"
+    },
+    {
+      "title": "Mkomazi National Park",
+      "url": "destinations/mkomazi.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "Black rhino sanctuary and wild dog recovery on the Pare and Usambara foothills.",
+      "search": "mkomazi national park northern circuit black rhino sanctuary and wild dog recovery on the pare and usambara foothills. destination"
+    },
+    {
+      "title": "Mount Kilimanjaro",
+      "url": "destinations/kilimanjaro.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "Conquer Africa's highest peak - from rainforest to glacier via multiple trekking routes.",
+      "search": "mount kilimanjaro northern circuit conquer africa's highest peak - from rainforest to glacier via multiple trekking routes. destination"
+    },
+    {
+      "title": "Mount Meru",
+      "url": "destinations/mount-meru.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "Climbing Mount Meru requires more technical climbing skills than the routes on Kilimanjaro. What Mount Meru ‘lacks’ in h",
+      "search": "mount meru northern circuit climbing mount meru requires more technical climbing skills than the routes on kilimanjaro. what mount meru ‘lacks’ in h destination"
+    },
+    {
+      "title": "Mount Ol’doinyo Lengai",
+      "url": "destinations/oldonyo-lengai.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "\"Oldoinyo Lengai\" means “The Mountain of God” in the Maasai language.",
+      "search": "mount ol’doinyo lengai northern circuit \"oldoinyo lengai\" means “the mountain of god” in the maasai language. destination"
+    },
+    {
+      "title": "Ngorongoro Conservation Area",
+      "url": "destinations/ngorongoro.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "Descend into Africa's Eden - a volcanic caldera teeming with black rhino, elephant and lion.",
+      "search": "ngorongoro conservation area northern circuit descend into africa's eden - a volcanic caldera teeming with black rhino, elephant and lion. destination"
+    },
+    {
+      "title": "Ngurdoto Crater",
+      "url": "destinations/ngurdoto-crater.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "Ngurdoto Crater is a volcanic crater in Arusha Region, and its crater is shaped like a basin with very steep walls and c",
+      "search": "ngurdoto crater northern circuit ngurdoto crater is a volcanic crater in arusha region, and its crater is shaped like a basin with very steep walls and c destination"
+    },
+    {
+      "title": "Pare Mountains",
+      "url": "destinations/pare-mountains.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "The North Pare Mountains and the South Pare Mountains are located in northeastern Tanzania.",
+      "search": "pare mountains northern circuit the north pare mountains and the south pare mountains are located in northeastern tanzania. destination"
+    },
+    {
+      "title": "Serengeti National Park",
+      "url": "destinations/serengeti.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "Witness the Great Migration and Africa's greatest concentration of plains game on endless golden savanna.",
+      "search": "serengeti national park northern circuit witness the great migration and africa's greatest concentration of plains game on endless golden savanna. destination"
+    },
+    {
+      "title": "Tarangire National Park",
+      "url": "destinations/tarangire.html",
+      "type": "Destination",
+      "subtitle": "Northern Circuit",
+      "keywords": "Ancient baobabs and massive elephant herds along the life-giving Tarangire River.",
+      "search": "tarangire national park northern circuit ancient baobabs and massive elephant herds along the life-giving tarangire river. destination"
+    },
+    {
+      "title": "Igeleke Rock Art Site",
+      "url": "destinations/igelegke-rock-art.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "The ochre drawings depict human figures, an elephant, jumping eland and giraffe hiding in long grass.",
+      "search": "igeleke rock art site southern circuit the ochre drawings depict human figures, an elephant, jumping eland and giraffe hiding in long grass. destination"
+    },
+    {
+      "title": "Kalambo Falls",
+      "url": "destinations/kalambo-falls.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "Besides the Kalambo waterfalls, there are attractions like the Kalambo Gorge at downstream of the waterfalls,",
+      "search": "kalambo falls southern circuit besides the kalambo waterfalls, there are attractions like the kalambo gorge at downstream of the waterfalls, destination"
+    },
+    {
+      "title": "Kaporogwe Falls",
+      "url": "destinations/kaporogwe-falls.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "Counted as a thrilling attraction in Mbeya Region, Kaporogwe Falls are located some 25 kilometers from Tukuyu Township,",
+      "search": "kaporogwe falls southern circuit counted as a thrilling attraction in mbeya region, kaporogwe falls are located some 25 kilometers from tukuyu township, destination"
+    },
+    {
+      "title": "Kitulo National Park",
+      "url": "destinations/kitulo.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "The 'Serengeti of flowers' - alpine meadows and endemic orchids on the Kitulo Plateau.",
+      "search": "kitulo national park southern circuit the 'serengeti of flowers' - alpine meadows and endemic orchids on the kitulo plateau. destination"
+    },
+    {
+      "title": "Lake Ngozi",
+      "url": "destinations/lake-ngozi.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "The lake is located about 38 kilometers south of Mbeya city, near the sprawling Tukuyu Township.",
+      "search": "lake ngozi southern circuit the lake is located about 38 kilometers south of mbeya city, near the sprawling tukuyu township. destination"
+    },
+    {
+      "title": "Lake Nyasa",
+      "url": "destinations/lake-nyasa.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "Lake Nyasa (Nyasa means “lake”) is located at the south-west of Tanzania,",
+      "search": "lake nyasa southern circuit lake nyasa (nyasa means “lake”) is located at the south-west of tanzania, destination"
+    },
+    {
+      "title": "Matema Beach",
+      "url": "destinations/matema-beach.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "The lakeshore beach lies on the foothills and the end point of Livingstone Mountains at the place where these scenic ran",
+      "search": "matema beach southern circuit the lakeshore beach lies on the foothills and the end point of livingstone mountains at the place where these scenic ran destination"
+    },
+    {
+      "title": "Mbozi Meteorite",
+      "url": "destinations/mbozi-meteorite.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "Scientists are unsure when it hit the earth, but it is assumed to have been many thousands of years ago,",
+      "search": "mbozi meteorite southern circuit scientists are unsure when it hit the earth, but it is assumed to have been many thousands of years ago, destination"
+    },
+    {
+      "title": "Mikumi National Park",
+      "url": "destinations/mikumi.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "The 'mini Serengeti' - open plains and guaranteed wildlife just hours from Dar es Salaam.",
+      "search": "mikumi national park southern circuit the 'mini serengeti' - open plains and guaranteed wildlife just hours from dar es salaam. destination"
+    },
+    {
+      "title": "Mnazi Bay - Ruvuma Estuary Marine Park",
+      "url": "destinations/mnazi-bay.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "The environment within the park includes mangroves, rocky and sandy shoreline, mudflats, salt pans, fringing coral reefs",
+      "search": "mnazi bay - ruvuma estuary marine park southern circuit the environment within the park includes mangroves, rocky and sandy shoreline, mudflats, salt pans, fringing coral reefs destination"
+    },
+    {
+      "title": "Mpanga Kipengere",
+      "url": "destinations/mpanga-kipengere.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "Pristine montane grasslands and the Kipengere Range on Tanzania's southern highlands.",
+      "search": "mpanga kipengere southern circuit pristine montane grasslands and the kipengere range on tanzania's southern highlands. destination"
+    },
+    {
+      "title": "Nyerere National Park",
+      "url": "destinations/nyerere.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "Africa's largest protected area - boat safaris, wild dogs and the mighty Rufiji River.",
+      "search": "nyerere national park southern circuit africa's largest protected area - boat safaris, wild dogs and the mighty rufiji river. destination"
+    },
+    {
+      "title": "Ruaha National Park",
+      "url": "destinations/ruaha.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "Tanzania's largest park - wild dogs, elephant super-herds and rugged baobab wilderness.",
+      "search": "ruaha national park southern circuit tanzania's largest park - wild dogs, elephant super-herds and rugged baobab wilderness. destination"
+    },
+    {
+      "title": "Udzungwa Mountains National Park",
+      "url": "destinations/udzungwa.html",
+      "type": "Destination",
+      "subtitle": "Southern Circuit",
+      "keywords": "Sanje Falls, endemic colobus monkeys and pristine Eastern Arc rainforest.",
+      "search": "udzungwa mountains national park southern circuit sanje falls, endemic colobus monkeys and pristine eastern arc rainforest. destination"
+    },
+    {
+      "title": "Gangilonga Rock (Iringa)",
+      "url": "destinations/gangilonga.html",
+      "type": "Destination",
+      "subtitle": "Southern Highlands & Culture",
+      "keywords": "Sacred Hehe rock and panoramic viewpoint over Iringa and the Ruaha escarpment.",
+      "search": "gangilonga rock (iringa) southern highlands & culture sacred hehe rock and panoramic viewpoint over iringa and the ruaha escarpment. destination"
+    },
+    {
+      "title": "Isimila Stone Age Site (Iringa)",
+      "url": "destinations/isimila.html",
+      "type": "Destination",
+      "subtitle": "Southern Highlands & Culture",
+      "keywords": "Stone Age tools and dramatic natural sandstone pillars near Iringa.",
+      "search": "isimila stone age site (iringa) southern highlands & culture stone age tools and dramatic natural sandstone pillars near iringa. destination"
+    },
+    {
+      "title": "Bongoyo Island Marine Reserve",
+      "url": "destinations/bongoyo-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "The island lies close to the Msasani Peninsula is reachable by means boat ride, it takes only 30 minutes from the mainla",
+      "search": "bongoyo island marine reserve oceanic islands the island lies close to the msasani peninsula is reachable by means boat ride, it takes only 30 minutes from the mainla destination"
+    },
+    {
+      "title": "Chumbe Island Marine Sanctuary",
+      "url": "destinations/chumbe-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "To protect these coral reefs, diving is not permitted in the marine park.",
+      "search": "chumbe island marine sanctuary oceanic islands to protect these coral reefs, diving is not permitted in the marine park. destination"
+    },
+    {
+      "title": "Fungu Yasin Sand Bar",
+      "url": "destinations/fungu-yasin-sand-bar.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "Coral reefs are found on the western and eastern side of the Island where more than 35% of coral cover is located on two",
+      "search": "fungu yasin sand bar oceanic islands coral reefs are found on the western and eastern side of the island where more than 35% of coral cover is located on two destination"
+    },
+    {
+      "title": "Kilwa",
+      "url": "destinations/kilwa.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "The Matandu River is the largest river running west to east of Kilwa district.",
+      "search": "kilwa oceanic islands the matandu river is the largest river running west to east of kilwa district. destination"
+    },
+    {
+      "title": "Kilwa Kisiwani",
+      "url": "destinations/kilwa-kisiwani.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "From the 9th century all the way up until the 19th century, Kilwa Kisiwani was a wealthy and powerful port,",
+      "search": "kilwa kisiwani oceanic islands from the 9th century all the way up until the 19th century, kilwa kisiwani was a wealthy and powerful port, destination"
+    },
+    {
+      "title": "Kilwa Kivinje",
+      "url": "destinations/kilwa-kivinje.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "Kilwa Kivinje is now a small atmospheric village with a Swahili village feel and an intriguing mix of German colonial an",
+      "search": "kilwa kivinje oceanic islands kilwa kivinje is now a small atmospheric village with a swahili village feel and an intriguing mix of german colonial an destination"
+    },
+    {
+      "title": "Kirui Island Marine Reserve",
+      "url": "destinations/kirui-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "Kirui Island's eastern side is completely covered in coral reefs. In general, seagrass beds rule Moa Bay,",
+      "search": "kirui island marine reserve oceanic islands kirui island's eastern side is completely covered in coral reefs. in general, seagrass beds rule moa bay, destination"
+    },
+    {
+      "title": "Kwale Island Marine Reserve",
+      "url": "destinations/kwale-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "Kwale Island was historically inhabited by tribe of Wadiko, people living along the beaches.",
+      "search": "kwale island marine reserve oceanic islands kwale island was historically inhabited by tribe of wadiko, people living along the beaches. destination"
+    },
+    {
+      "title": "Maziwe Island Marine Reserve",
+      "url": "destinations/maziwe-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "Maziwe / Maziwi Island is one of the oldest Marine Reserve in Tanzania which located about 15 miles from the cost of Pan",
+      "search": "maziwe island marine reserve oceanic islands maziwe / maziwi island is one of the oldest marine reserve in tanzania which located about 15 miles from the cost of pan destination"
+    },
+    {
+      "title": "Mbudya Island Marine Reserve",
+      "url": "destinations/mbudya-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "The island lies close to Kunduchi fishing community and takes around 15-20 minutes motorboat ride crossing from the main",
+      "search": "mbudya island marine reserve oceanic islands the island lies close to kunduchi fishing community and takes around 15-20 minutes motorboat ride crossing from the main destination"
+    },
+    {
+      "title": "Mnemba Island Conservation Area",
+      "url": "destinations/mnemba-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "The surrounding waters and area around Mnemba Island are an important breeding ground for Green Turtles while a host of ",
+      "search": "mnemba island conservation area oceanic islands the surrounding waters and area around mnemba island are an important breeding ground for green turtles while a host of  destination"
+    },
+    {
+      "title": "Mwewe Island Marine Reserve",
+      "url": "destinations/mwewe-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "Discover Mwewe Island Marine Reserve - tailored safari days and local highlights with Safari and Bush Retreats.",
+      "search": "mwewe island marine reserve oceanic islands discover mwewe island marine reserve - tailored safari days and local highlights with safari and bush retreats. destination"
+    },
+    {
+      "title": "Pangavini Island Marine Reserve",
+      "url": "destinations/pangavini-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "It provides protection for several important biological diversity and tropical habitats; sea grass beds,",
+      "search": "pangavini island marine reserve oceanic islands it provides protection for several important biological diversity and tropical habitats; sea grass beds, destination"
+    },
+    {
+      "title": "Pemba Island",
+      "url": "destinations/pemba.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "Serengeti National Park is undoubtedly the best-known wildlife sanctuary in the world, unequalled for its natural beauty",
+      "search": "pemba island oceanic islands serengeti national park is undoubtedly the best-known wildlife sanctuary in the world, unequalled for its natural beauty destination"
+    },
+    {
+      "title": "Prison Island (Changuu)",
+      "url": "destinations/prison-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "Prison Island (Changuu) - giant tortoises, snorkelling and a short dhow ride from Stone Town.",
+      "search": "prison island (changuu) oceanic islands prison island (changuu) - giant tortoises, snorkelling and a short dhow ride from stone town. destination"
+    },
+    {
+      "title": "Sinda Island Marine Reserve",
+      "url": "destinations/sinda-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "In Sinda, the maximum depth is less than 10 m. Seawards of the reserves,",
+      "search": "sinda island marine reserve oceanic islands in sinda, the maximum depth is less than 10 m. seawards of the reserves, destination"
+    },
+    {
+      "title": "Songo Mnara",
+      "url": "destinations/songo-mnara.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "Songo Mnara was an offshoot of the older and larger city of Kilwa Kisiwani,",
+      "search": "songo mnara oceanic islands songo mnara was an offshoot of the older and larger city of kilwa kisiwani, destination"
+    },
+    {
+      "title": "Toten Island",
+      "url": "destinations/toten-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "There are also ruins of two mosques and German tombs of the turn of 19th century,",
+      "search": "toten island oceanic islands there are also ruins of two mosques and german tombs of the turn of 19th century, destination"
+    },
+    {
+      "title": "Ulenge Island Marine Reserve",
+      "url": "destinations/ulenge-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "The first people to live in Ulenge Island were the Swahili people from North who were lead by Chief Mwinyi Ulenge.",
+      "search": "ulenge island marine reserve oceanic islands the first people to live in ulenge island were the swahili people from north who were lead by chief mwinyi ulenge. destination"
+    },
+    {
+      "title": "Yambe Island",
+      "url": "destinations/yambe-island.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "Discover Yambe Island - tailored safari days and local highlights with Safari and Bush Retreats.",
+      "search": "yambe island oceanic islands discover yambe island - tailored safari days and local highlights with safari and bush retreats. destination"
+    },
+    {
+      "title": "Zanzibar",
+      "url": "destinations/zanzibar.html",
+      "type": "Destination",
+      "subtitle": "Oceanic Islands",
+      "keywords": "Also known as the Spice Island, the beautiful island of Zanzibar is full of culture and history, shinning white-sand bea",
+      "search": "zanzibar oceanic islands also known as the spice island, the beautiful island of zanzibar is full of culture and history, shinning white-sand bea destination"
+    },
+    {
+      "title": "Burigi-Chato National Park",
+      "url": "destinations/burigi-chato.html",
+      "type": "Destination",
+      "subtitle": "Western Circuit",
+      "keywords": "Stretching from Lake Victoria in the East to the Rwandan boundary in the West,",
+      "search": "burigi-chato national park western circuit stretching from lake victoria in the east to the rwandan boundary in the west, destination"
+    },
+    {
+      "title": "Gombe National Park",
+      "url": "destinations/gombe.html",
+      "type": "Destination",
+      "subtitle": "Western Circuit",
+      "keywords": "Jane Goodall's chimpanzee research site - intimate forest treks on Lake Tanganyika.",
+      "search": "gombe national park western circuit jane goodall's chimpanzee research site - intimate forest treks on lake tanganyika. destination"
+    },
+    {
+      "title": "Ibanda-Kyerwa National Park",
+      "url": "destinations/ibanda-kyerwa.html",
+      "type": "Destination",
+      "subtitle": "Western Circuit",
+      "keywords": "The unseen treasure in the Western corner of the country, the paradise with scenic beauty of rolling hills, valleys,",
+      "search": "ibanda-kyerwa national park western circuit the unseen treasure in the western corner of the country, the paradise with scenic beauty of rolling hills, valleys, destination"
+    },
+    {
+      "title": "Katavi National Park",
+      "url": "destinations/katavi.html",
+      "type": "Destination",
+      "subtitle": "Western Circuit",
+      "keywords": "Tanzania's most isolated park - hippo pools, buffalo herds and raw wilderness.",
+      "search": "katavi national park western circuit tanzania's most isolated park - hippo pools, buffalo herds and raw wilderness. destination"
+    },
+    {
+      "title": "Lake Tanganyika",
+      "url": "destinations/lake-tanganyika.html",
+      "type": "Destination",
+      "subtitle": "Western Circuit",
+      "keywords": "Comparatively narrow, varying in width from 10 to 45 miles (16 to 72 km),",
+      "search": "lake tanganyika western circuit comparatively narrow, varying in width from 10 to 45 miles (16 to 72 km), destination"
+    },
+    {
+      "title": "Lake Victoria",
+      "url": "destinations/lake-victoria.html",
+      "type": "Destination",
+      "subtitle": "Western Circuit",
+      "keywords": "An irregular quadrilateral in shape, its shores, save on the west, are deeply indented.",
+      "search": "lake victoria western circuit an irregular quadrilateral in shape, its shores, save on the west, are deeply indented. destination"
+    },
+    {
+      "title": "Mahale Mountains National Park",
+      "url": "destinations/mahale.html",
+      "type": "Destination",
+      "subtitle": "Western Circuit",
+      "keywords": "Chimpanzee trekking on crystal Lake Tanganyika - barefoot luxury and forest trails.",
+      "search": "mahale mountains national park western circuit chimpanzee trekking on crystal lake tanganyika - barefoot luxury and forest trails. destination"
+    },
+    {
+      "title": "Rubondo Island National Park",
+      "url": "destinations/rubondo.html",
+      "type": "Destination",
+      "subtitle": "Western Circuit",
+      "keywords": "The habitat of Rubondo Island is mixed evergreen and semi-deciduous forest, which covers about 80% of the island’s surfa",
+      "search": "rubondo island national park western circuit the habitat of rubondo island is mixed evergreen and semi-deciduous forest, which covers about 80% of the island’s surfa destination"
+    },
+    {
+      "title": "Saanane Island National Park",
+      "url": "destinations/saanane.html",
+      "type": "Destination",
+      "subtitle": "Western Circuit",
+      "keywords": "In 1964, Saanane was the first zoo in Tanzania. Later in 1991, it was recognized as a game reserve and then in 2013,",
+      "search": "saanane island national park western circuit in 1964, saanane was the first zoo in tanzania. later in 1991, it was recognized as a game reserve and then in 2013, destination"
+    },
+    {
+      "title": "Ukerewe Island",
+      "url": "destinations/ukerewe.html",
+      "type": "Destination",
+      "subtitle": "Western Circuit",
+      "keywords": "Ukerewe Island is situated 45 km (25 nautical miles) north of Mwanza to which it is linked by ferry,",
+      "search": "ukerewe island western circuit ukerewe island is situated 45 km (25 nautical miles) north of mwanza to which it is linked by ferry, destination"
+    },
+    {
+      "title": "3 Days Mikumi Safari",
+      "url": "safaris/3-days-mikumi-safari.html",
+      "type": "Safari Package",
+      "subtitle": "3 Days / 2 Nights · Southern Circuit",
+      "keywords": "A short, accessible safari to Mikumi National Park from Dar es Salaam - ideal for weekend wildlife escapes on the Mkata floodplain.",
+      "search": "3 days mikumi safari 3 days / 2 nights · southern circuit a short, accessible safari to mikumi national park from dar es salaam - ideal for weekend wildlife escapes on the mkata floodplain. safari package"
+    },
+    {
+      "title": "5 Days Ruaha Safari",
+      "url": "safaris/5-days-ruaha-safari.html",
+      "type": "Safari Package",
+      "subtitle": "5 Days / 4 Nights · Southern Circuit",
+      "keywords": "Five days in Tanzania's largest park - wild dogs, elephant super-herds and baobab wilderness along the Great Ruaha River.",
+      "search": "5 days ruaha safari 5 days / 4 nights · southern circuit five days in tanzania's largest park - wild dogs, elephant super-herds and baobab wilderness along the great ruaha river. safari package"
+    },
+    {
+      "title": "7 Days Northern Circuit Safari",
+      "url": "safaris/7-days-northern-circuit.html",
+      "type": "Safari Package",
+      "subtitle": "7 Days / 6 Nights · Northern Circuit",
+      "keywords": "The ultimate northern Tanzania safari - Tarangire, Manyara, Serengeti and Ngorongoro with extended time on the plains.",
+      "search": "7 days northern circuit safari 7 days / 6 nights · northern circuit the ultimate northern tanzania safari - tarangire, manyara, serengeti and ngorongoro with extended time on the plains. safari package"
+    },
+    {
+      "title": "6 Days Serengeti & Ngorongoro Safari",
+      "url": "safaris/6-days-serengeti-ngorongoro.html",
+      "type": "Safari Package",
+      "subtitle": "6 Days / 5 Nights · Northern Circuit",
+      "keywords": "Focused Serengeti and Ngorongoro itinerary - maximum time on the plains and crater floor for Big Five enthusiasts.",
+      "search": "6 days serengeti & ngorongoro safari 6 days / 5 nights · northern circuit focused serengeti and ngorongoro itinerary - maximum time on the plains and crater floor for big five enthusiasts. safari package"
+    },
+    {
+      "title": "Kilimanjaro Machame 7-Day Trek",
+      "url": "safaris/kilimanjaro-machame-7.html",
+      "type": "Safari Package",
+      "subtitle": "7 Days / 6 Nights · Northern Circuit",
+      "keywords": "Summit Africa's highest peak via the scenic Machame Route - excellent acclimatisation through diverse climate zones.",
+      "search": "kilimanjaro machame 7-day trek 7 days / 6 nights · northern circuit summit africa's highest peak via the scenic machame route - excellent acclimatisation through diverse climate zones. safari package"
+    },
+    {
+      "title": "5 Days Zanzibar Beach Holiday",
+      "url": "safaris/5-days-zanzibar-beach.html",
+      "type": "Safari Package",
+      "subtitle": "5 Days / 4 Nights · Oceanic Islands",
+      "keywords": "Stone Town culture, spice farms and Indian Ocean beach relaxation - the perfect post-safari unwind.",
+      "search": "5 days zanzibar beach holiday 5 days / 4 nights · oceanic islands stone town culture, spice farms and indian ocean beach relaxation - the perfect post-safari unwind. safari package"
+    },
+    {
+      "title": "Southern Tanzania Explorer",
+      "url": "safaris/10-days-southern-explorer.html",
+      "type": "Safari Package",
+      "subtitle": "10 Days / 9 Nights · Southern Circuit",
+      "keywords": "Comprehensive southern circuit - Ruaha, Nyerere, Mikumi, Udzungwa and Iringa cultural sites in one grand journey.",
+      "search": "southern tanzania explorer 10 days / 9 nights · southern circuit comprehensive southern circuit - ruaha, nyerere, mikumi, udzungwa and iringa cultural sites in one grand journey. safari package"
+    },
+    {
+      "title": "Western Tanzania Primates Safari",
+      "url": "safaris/western-primates-safari.html",
+      "type": "Safari Package",
+      "subtitle": "6 Days / 5 Nights · Western Circuit",
+      "keywords": "Chimpanzee trekking in Gombe and Mahale on Lake Tanganyika - Jane Goodall's legacy and barefoot forest luxury.",
+      "search": "western tanzania primates safari 6 days / 5 nights · western circuit chimpanzee trekking in gombe and mahale on lake tanganyika - jane goodall's legacy and barefoot forest luxury. safari package"
+    },
+    {
+      "title": "3 Days Serengeti & Ngorongoro",
+      "url": "safaris/3-days-serengeti-ngorongoro.html",
+      "type": "Safari Package",
+      "subtitle": "3 Days / 2 Nights · Northern Circuit",
+      "keywords": "Compact northern safari - Serengeti plains and Ngorongoro Crater for travellers with limited time.",
+      "search": "3 days serengeti & ngorongoro 3 days / 2 nights · northern circuit compact northern safari - serengeti plains and ngorongoro crater for travellers with limited time. safari package"
+    },
+    {
+      "title": "5 Days Northern Classic Safari",
+      "url": "safaris/5-days-northern-classic.html",
+      "type": "Safari Package",
+      "subtitle": "5 Days / 4 Nights · Northern Circuit",
+      "keywords": "Tarangire, Serengeti, Ngorongoro and Lake Manyara - the essential northern parks in five expertly paced days.",
+      "search": "5 days northern classic safari 5 days / 4 nights · northern circuit tarangire, serengeti, ngorongoro and lake manyara - the essential northern parks in five expertly paced days. safari package"
+    },
+    {
+      "title": "4 Days Tarangire & Manyara Safari",
+      "url": "safaris/4-days-tarangire-manyara.html",
+      "type": "Safari Package",
+      "subtitle": "4 Days / 3 Nights · Northern Circuit",
+      "keywords": "A compact northern safari pairing Tarangire's elephant herds with Lake Manyara's forest and flamingo shoreline - ideal for short stays.",
+      "search": "4 days tarangire & manyara safari 4 days / 3 nights · northern circuit a compact northern safari pairing tarangire's elephant herds with lake manyara's forest and flamingo shoreline - ideal for short stays. safari package"
+    },
+    {
+      "title": "4 Days Saadani Bush & Beach",
+      "url": "safaris/4-days-saadani-bush-beach.html",
+      "type": "Safari Package",
+      "subtitle": "4 Days / 3 Nights · Eastern Circuit",
+      "keywords": "Tanzania's only coastal national park - morning game drives among buffalo and elephant, afternoons on the Indian Ocean beach.",
+      "search": "4 days saadani bush & beach 4 days / 3 nights · eastern circuit tanzania's only coastal national park - morning game drives among buffalo and elephant, afternoons on the indian ocean beach. safari package"
+    },
+    {
+      "title": "4 Days Lake Eyasi Cultural Safari",
+      "url": "safaris/4-days-lake-eyasi-cultural.html",
+      "type": "Safari Package",
+      "subtitle": "4 Days / 3 Nights · Northern Circuit",
+      "keywords": "Meet Hadzabe hunter-gatherers and Datoga pastoralists on the shores of Lake Eyasi, combined with Ngorongoro highlands scenery.",
+      "search": "4 days lake eyasi cultural safari 4 days / 3 nights · northern circuit meet hadzabe hunter-gatherers and datoga pastoralists on the shores of lake eyasi, combined with ngorongoro highlands scenery. safari package"
+    },
+    {
+      "title": "6 Days Katavi Wilderness Safari",
+      "url": "safaris/6-days-katavi-wilderness.html",
+      "type": "Safari Package",
+      "subtitle": "6 Days / 5 Nights · Western Circuit",
+      "keywords": "Remote western Tanzania - enormous hippo pods, lion on the floodplains and exclusive camps in one of Africa's least-visited parks.",
+      "search": "6 days katavi wilderness safari 6 days / 5 nights · western circuit remote western tanzania - enormous hippo pods, lion on the floodplains and exclusive camps in one of africa's least-visited parks. safari package"
+    },
+    {
+      "title": "10 Days Safari to Nyerere, Mikumi Udzungwa & Ruaha National Parks",
+      "url": "safaris/10-days-safari-to-nyerere-mikumi-udzungwa-ruaha-national-parks.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "This 10 Day Safari you will visit Nyerere (Selous), Udzungwa, Ruaha & Mikumi Parks, a perfect adventure for wildlife enthusiasts, serious sa",
+      "search": "10 days safari to nyerere, mikumi udzungwa & ruaha national parks  · southern circuit this 10 day safari you will visit nyerere (selous), udzungwa, ruaha & mikumi parks, a perfect adventure for wildlife enthusiasts, serious sa safari package"
+    },
+    {
+      "title": "2 - 5 Days Mafia Island Holiday",
+      "url": "safaris/2-5-days-mafia-island-holiday.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Mafia home of the whale shark and an underwater paradise is primarily known for its ocean glory, the Marine Park which was created to protec",
+      "search": "2 - 5 days mafia island holiday  · mafia island mafia home of the whale shark and an underwater paradise is primarily known for its ocean glory, the marine park which was created to protec safari package"
+    },
+    {
+      "title": "2 Days Ol Doinyo Lengai Mountain Climbing",
+      "url": "safaris/2-days-ol-doinyo-lengai-mountain-climbing.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The 2 Days Ol Doinyo Lengai Mountain Climbing will take you to this active Volcano known as the mountain of God, Ol Doinyo Lengai will give ",
+      "search": "2 days ol doinyo lengai mountain climbing  · northern circuit the 2 days ol doinyo lengai mountain climbing will take you to this active volcano known as the mountain of god, ol doinyo lengai will give  safari package"
+    },
+    {
+      "title": "2 Days Safari to Katavi National Park",
+      "url": "safaris/2-days-safari-to-katavi-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Western Circuit",
+      "keywords": "This 2 Days Katavi National Park Safari will take you to the far west of Tanzania in Tanzania’s lesser-known Katavi National Park which is e",
+      "search": "2 days safari to katavi national park  · western circuit this 2 days katavi national park safari will take you to the far west of tanzania in tanzania’s lesser-known katavi national park which is e safari package"
+    },
+    {
+      "title": "2 Days Safari to Lake Natron and Mount Oldoinyo Lengai",
+      "url": "safaris/2-days-safari-to-lake-natron-and-mount-oldoinyo-lengai.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "Enjoy the 2 Days Lake Natron Tour in Tanzania as you visit this home to 2 million of lesser flamingos as well as visit to Mount Oldoinyo Len",
+      "search": "2 days safari to lake natron and mount oldoinyo lengai  · northern circuit enjoy the 2 days lake natron tour in tanzania as you visit this home to 2 million of lesser flamingos as well as visit to mount oldoinyo len safari package"
+    },
+    {
+      "title": "2 Days Safari to Nyerere National Park",
+      "url": "safaris/2-days-safari-to-nyerere-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "A 2 Day Trip to Nyerere National Park formerly (Selous Game Reserve) a Tanzania’s iconic and beautiful National Park and one of the few Prot",
+      "search": "2 days safari to nyerere national park  · southern circuit a 2 day trip to nyerere national park formerly (selous game reserve) a tanzania’s iconic and beautiful national park and one of the few prot safari package"
+    },
+    {
+      "title": "2 Days Safari to Ruaha National Park",
+      "url": "safaris/2-days-safari-to-ruaha-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "The 2 Days Safari flying to Ruaha National Park will give you a memorable adventure in this great remote wilderness of Ruaha that gives you ",
+      "search": "2 days safari to ruaha national park  · southern circuit the 2 days safari flying to ruaha national park will give you a memorable adventure in this great remote wilderness of ruaha that gives you  safari package"
+    },
+    {
+      "title": "2 Days Safari to Saadani National Park",
+      "url": "safaris/2-days-safari-to-saadani-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Eastern Circuit",
+      "keywords": "This 2 Days Sadaani National Park Safari will take you from Dar es Salaam to this only unique wilderness in the north coast of Tanzania bord",
+      "search": "2 days safari to saadani national park  · eastern circuit this 2 days sadaani national park safari will take you from dar es salaam to this only unique wilderness in the north coast of tanzania bord safari package"
+    },
+    {
+      "title": "2 Days Safari to Mikumi National Park",
+      "url": "safaris/2-days-safari-to-mikumi-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "Our 2 Days Game viewing Safari in Mikumi National Park will give you the most incredible game encounters taking you from Dar es Salaam, you ",
+      "search": "2 days safari to mikumi national park  · southern circuit our 2 days game viewing safari in mikumi national park will give you the most incredible game encounters taking you from dar es salaam, you  safari package"
+    },
+    {
+      "title": "2 Days to Lake Manyara National Park & Ngorongoro Crater",
+      "url": "safaris/2-days-to-lake-manyara-national-park-ngorongoro-crater.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "2 Days Northern Tanzania Safari to Lake Manyara and Ngorongoro Crater, If you're pressed for time two beautiful days in Lake Manyara Nationa",
+      "search": "2 days to lake manyara national park & ngorongoro crater  · northern circuit 2 days northern tanzania safari to lake manyara and ngorongoro crater, if you're pressed for time two beautiful days in lake manyara nationa safari package"
+    },
+    {
+      "title": "2 Days to Tarangire National Park & Ngorongoro Crater",
+      "url": "safaris/2-days-to-tarangire-national-park-ngorongoro-crater.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "2 Days expedition to Tarangire National Park and Ngorongoro Crater in Tanzania offers a collection of memorable experiences in a short while",
+      "search": "2 days to tarangire national park & ngorongoro crater  · northern circuit 2 days expedition to tarangire national park and ngorongoro crater in tanzania offers a collection of memorable experiences in a short while safari package"
+    },
+    {
+      "title": "2 Days to Udzungwa Mountains National Park",
+      "url": "safaris/2-days-to-udzungwa-mountains-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "A 2 Days Udzungwa Mountains National Park Safari will take you from Dar es Salaam to Udzungwa via Morogoro. Udzungwa Mountains are rich with",
+      "search": "2 days to udzungwa mountains national park  · southern circuit a 2 days udzungwa mountains national park safari will take you from dar es salaam to udzungwa via morogoro. udzungwa mountains are rich with safari package"
+    },
+    {
+      "title": "3 Day Safari to Nyerere National Park",
+      "url": "safaris/3-day-safari-to-nyerere-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "This 3 Days Trip to Nyerere National Park formerly (Selous Game Reserve) is Tanzania’s iconic and beautiful National Park, one of the few Pr",
+      "search": "3 day safari to nyerere national park  · southern circuit this 3 days trip to nyerere national park formerly (selous game reserve) is tanzania’s iconic and beautiful national park, one of the few pr safari package"
+    },
+    {
+      "title": "3 Days Mount Meru Climb",
+      "url": "safaris/3-days-mount-meru-climb.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The 3 days Mount Meru climb takes you to the peak of Mount Meru (4562 m) using the mountain’s, only route, the Momella Route. Climbing can b",
+      "search": "3 days mount meru climb  · northern circuit the 3 days mount meru climb takes you to the peak of mount meru (4562 m) using the mountain’s, only route, the momella route. climbing can b safari package"
+    },
+    {
+      "title": "3 Days Ol Doinyo Lengai Mountain Climbing",
+      "url": "safaris/3-days-ol-doinyo-lengai-mountain-climbing.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The 3 Days Ol Doinyo Lengai Mountain Climbing will take you to this active Volcano known as the mountain of God, Ol Doinyo Lengai will give ",
+      "search": "3 days ol doinyo lengai mountain climbing  · northern circuit the 3 days ol doinyo lengai mountain climbing will take you to this active volcano known as the mountain of god, ol doinyo lengai will give  safari package"
+    },
+    {
+      "title": "3 Days Safari to Katavi National Park",
+      "url": "safaris/3-days-safari-to-katavi-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Western Circuit",
+      "keywords": "This 3 Days Katavi Game Viewing Adventure Safari will give you the most incredible encounters with a game in this remote untouched and amazi",
+      "search": "3 days safari to katavi national park  · western circuit this 3 days katavi game viewing adventure safari will give you the most incredible encounters with a game in this remote untouched and amazi safari package"
+    },
+    {
+      "title": "3 Days Safari to Mahale National Park",
+      "url": "safaris/3-days-safari-to-mahale-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Western Circuit",
+      "keywords": "Mahale Mountains National Park is famous for its large chimpanzee population is located in western Tanzania on the dramatic shores of Lake T",
+      "search": "3 days safari to mahale national park  · western circuit mahale mountains national park is famous for its large chimpanzee population is located in western tanzania on the dramatic shores of lake t safari package"
+    },
+    {
+      "title": "3 Days Safari to Nyerere and Mikumi National Parks",
+      "url": "safaris/3-days-safari-to-nyerere-and-mikumi-national-parks.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "This 3 Days safari to Nyerere (Selous) and Mikumi is ideal short safari on the Tanzania Southern Circuit. Nyerere Park size is stunning, big",
+      "search": "3 days safari to nyerere and mikumi national parks  · southern circuit this 3 days safari to nyerere (selous) and mikumi is ideal short safari on the tanzania southern circuit. nyerere park size is stunning, big safari package"
+    },
+    {
+      "title": "3 Days Safari to Ruaha National Park",
+      "url": "safaris/3-days-safari-to-ruaha-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "This 3 Days Safari driving to Ruaha National Park will give you a memorable adventure in this great remote wilderness of Ruaha that gives yo",
+      "search": "3 days safari to ruaha national park  · southern circuit this 3 days safari driving to ruaha national park will give you a memorable adventure in this great remote wilderness of ruaha that gives yo safari package"
+    },
+    {
+      "title": "3 Days Safari to Saadani National Park",
+      "url": "safaris/3-days-safari-to-saadani-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Eastern Circuit",
+      "keywords": "This 3 Days Sadaani National Park Safari will take you from Dar es Salaam to this only unique wilderness in the north coast of Tanzania bord",
+      "search": "3 days safari to saadani national park  · eastern circuit this 3 days sadaani national park safari will take you from dar es salaam to this only unique wilderness in the north coast of tanzania bord safari package"
+    },
+    {
+      "title": "3 Days Safari to Udzungwa & Mikumi National Parks",
+      "url": "safaris/3-days-safari-to-udzungwa-mikumi-national-parks.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "This 3 Days safari to Udzungwa and Mikumi is ideal safari for the experience Game Safari & Hiking. The Udzungwa Mountains National Park is a",
+      "search": "3 days safari to udzungwa & mikumi national parks  · southern circuit this 3 days safari to udzungwa and mikumi is ideal safari for the experience game safari & hiking. the udzungwa mountains national park is a safari package"
+    },
+    {
+      "title": "3 Days Safari to Mikumi National Park",
+      "url": "safaris/3-days-safari-to-mikumi-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "Your 3 Days Game viewing Safari in Mikumi National Park will give you the most incredible game encounters taking you from Dar es Salaam, you",
+      "search": "3 days safari to mikumi national park  · southern circuit your 3 days game viewing safari in mikumi national park will give you the most incredible game encounters taking you from dar es salaam, you safari package"
+    },
+    {
+      "title": "3 Days to Ngorongoro Crater, Tarangire & Lake Manyara National Parks",
+      "url": "safaris/3-days-to-ngorongoro-crater-tarangire-lake-manyara-national-parks.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "3 days Tanzania safari to Tarangire, Ngorongoro Crater & Lake Manyara Parks gives you a great chance of spotting variety of wildlife and rem",
+      "search": "3 days to ngorongoro crater, tarangire & lake manyara national parks  · northern circuit 3 days tanzania safari to tarangire, ngorongoro crater & lake manyara parks gives you a great chance of spotting variety of wildlife and rem safari package"
+    },
+    {
+      "title": "3 Days to Serengeti National Park",
+      "url": "safaris/3-days-to-serengeti-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "3 days safari to Serengeti National Park gives you a great chance of spotting variety of wildlife and remarkable wildebeests Migration. Duri",
+      "search": "3 days to serengeti national park  · northern circuit 3 days safari to serengeti national park gives you a great chance of spotting variety of wildlife and remarkable wildebeests migration. duri safari package"
+    },
+    {
+      "title": "3 Days Trip to Uluguru Mountains & Choma Waterfalls",
+      "url": "safaris/3-days-trip-to-uluguru-mountains-choma-waterfalls.html",
+      "type": "Safari Package",
+      "subtitle": " · Eastern Circuit",
+      "keywords": "A 3 Days hike to Uluguru Mountains will take you from Morogoro to this only unique southern Tanzania or Eastern Arc Mountains Ranges all the",
+      "search": "3 days trip to uluguru mountains & choma waterfalls  · eastern circuit a 3 days hike to uluguru mountains will take you from morogoro to this only unique southern tanzania or eastern arc mountains ranges all the safari package"
+    },
+    {
+      "title": "4 Days Kilimanjaro Trek via Machame Route",
+      "url": "safaris/4-days-kilimanjaro-trek-via-machame-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The 4 Days Kilimanjaro Short Trek via Machame route is referred as Special Kilimanjaro Climbing challenge to get to the summit for shortest ",
+      "search": "4 days kilimanjaro trek via machame route  · northern circuit the 4 days kilimanjaro short trek via machame route is referred as special kilimanjaro climbing challenge to get to the summit for shortest  safari package"
+    },
+    {
+      "title": "4 Days Mount Meru Climb",
+      "url": "safaris/4-days-mount-meru-climb.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The 4 days Mount Meru climb takes you to the peak of Mount Meru (4562 m) using the mountain’s, only route, the Momella Route. Most alpines u",
+      "search": "4 days mount meru climb  · northern circuit the 4 days mount meru climb takes you to the peak of mount meru (4562 m) using the mountain’s, only route, the momella route. most alpines u safari package"
+    },
+    {
+      "title": "4 Days Safari in Ruaha National Park",
+      "url": "safaris/4-days-safari-in-ruaha-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "This 4 Days Game Safaris in Ruaha National Park will give you a great intriguing adventure in this remote and untouched wilderness reserve a",
+      "search": "4 days safari in ruaha national park  · southern circuit this 4 days game safaris in ruaha national park will give you a great intriguing adventure in this remote and untouched wilderness reserve a safari package"
+    },
+    {
+      "title": "4 Days Safari to Mahale National Park",
+      "url": "safaris/4-days-safari-to-mahale-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Western Circuit",
+      "keywords": "Mahale Mountains National Park is famous for its large chimpanzee population is located in western Tanzania on the dramatic shores of Lake T",
+      "search": "4 days safari to mahale national park  · western circuit mahale mountains national park is famous for its large chimpanzee population is located in western tanzania on the dramatic shores of lake t safari package"
+    },
+    {
+      "title": "4 Days Safari to Mikumi & Udzungwa National Parks",
+      "url": "safaris/4-days-safari-to-mikumi-udzungwa-national-parks.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "This 4 Days safari to Udzungwa and Mikumi is ideal safari for the experience Game Safari & Hiking. The Udzungwa Mountains National Park is a",
+      "search": "4 days safari to mikumi & udzungwa national parks  · southern circuit this 4 days safari to udzungwa and mikumi is ideal safari for the experience game safari & hiking. the udzungwa mountains national park is a safari package"
+    },
+    {
+      "title": "4 Days Safari to Nyerere and Mikumi National Parks",
+      "url": "safaris/4-days-safari-to-nyerere-and-mikumi-national-parks.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "This 4 Day Safari you will visit 2 Southern Tanzania National Parks including Nyerere and Mikumi. You will have plenty of time for extensive",
+      "search": "4 days safari to nyerere and mikumi national parks  · southern circuit this 4 day safari you will visit 2 southern tanzania national parks including nyerere and mikumi. you will have plenty of time for extensive safari package"
+    },
+    {
+      "title": "4 Days to Lake Manyara, Serengeti National Parks and Ngorongoro Crater",
+      "url": "safaris/4-days-to-lake-manyara-serengeti-national-parks-and-ngorongoro-crater.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The 4 Days Safari takes you around the best Safari places in Tanzania, visiting places such as Lake Manyara which is famous for its tree cli",
+      "search": "4 days to lake manyara, serengeti national parks and ngorongoro crater  · northern circuit the 4 days safari takes you around the best safari places in tanzania, visiting places such as lake manyara which is famous for its tree cli safari package"
+    },
+    {
+      "title": "4 Days to Serengeti National Park and Ngorongoro Crater",
+      "url": "safaris/4-days-to-serengeti-national-park-and-ngorongoro-crater.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The 4 Day Serengeti  safari lets you experience the world’s greatest migration in the Serengeti, the big five animals in the Ngorongoro Crat",
+      "search": "4 days to serengeti national park and ngorongoro crater  · northern circuit the 4 day serengeti  safari lets you experience the world’s greatest migration in the serengeti, the big five animals in the ngorongoro crat safari package"
+    },
+    {
+      "title": "4 Days to Tarangire, Serengeti National Parks and Ngorongoro Crater",
+      "url": "safaris/4-days-to-tarangire-serengeti-national-parks-and-ngorongoro-crater.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The 4 Days Safari takes you around the best Safari places in Tanzania, visiting places such as Tarangire National Park, The Ngorongoro crate",
+      "search": "4 days to tarangire, serengeti national parks and ngorongoro crater  · northern circuit the 4 days safari takes you around the best safari places in tanzania, visiting places such as tarangire national park, the ngorongoro crate safari package"
+    },
+    {
+      "title": "5-6 Days Kilimanjaro Trek via Marangu Route",
+      "url": "safaris/5-6-days-kilimanjaro-trek-via-marangu-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The Marangu Route nick named (Coca Cola Route)is the oldest and most well established trekking route on Mount Kilimanjaro, and it remains ex",
+      "search": "5-6 days kilimanjaro trek via marangu route  · northern circuit the marangu route nick named (coca cola route)is the oldest and most well established trekking route on mount kilimanjaro, and it remains ex safari package"
+    },
+    {
+      "title": "5 - 6 Days Safari to Mahale National Park",
+      "url": "safaris/5-6-days-safari-to-mahale-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Western Circuit",
+      "keywords": "Mahale Mountains National Park is famous for its large chimpanzee population is located in western Tanzania on the dramatic shores of Lake T",
+      "search": "5 - 6 days safari to mahale national park  · western circuit mahale mountains national park is famous for its large chimpanzee population is located in western tanzania on the dramatic shores of lake t safari package"
+    },
+    {
+      "title": "5 Days Hiking to Ngorongoro Highlands",
+      "url": "safaris/5-days-hiking-to-ngorongoro-highlands.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "This 5-day trekking tour will takes you through the diverse landscapes of the Ngorongoro Crater Highlands. You will hike through grassy plai",
+      "search": "5 days hiking to ngorongoro highlands  · northern circuit this 5-day trekking tour will takes you through the diverse landscapes of the ngorongoro crater highlands. you will hike through grassy plai safari package"
+    },
+    {
+      "title": "5 Days Kilimanjaro Trek via Umbwe Route",
+      "url": "safaris/5-days-kilimanjaro-trek-via-umbwe-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The Umbwe route is short, steep and direct route and its considered to be very difficult and challenging way up Mount Kilimanjaro. Due to th",
+      "search": "5 days kilimanjaro trek via umbwe route  · northern circuit the umbwe route is short, steep and direct route and its considered to be very difficult and challenging way up mount kilimanjaro. due to th safari package"
+    },
+    {
+      "title": "5 Days Lake Manyara, Serengeti and Ngorongoro Crater Safari",
+      "url": "safaris/5-days-lake-manyara-serengeti-and-ngorongoro-crater-safari.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "A 5 day Safari to provide unlimited wildlife encounters in the heart of the Northern Tanzania Circuit. You’ll see what Lake Manyara National",
+      "search": "5 days lake manyara, serengeti and ngorongoro crater safari  · northern circuit a 5 day safari to provide unlimited wildlife encounters in the heart of the northern tanzania circuit. you’ll see what lake manyara national safari package"
+    },
+    {
+      "title": "5 Days Safari to Mikumi & Ruaha National Parks",
+      "url": "safaris/5-days-safari-to-mikumi-ruaha-national-parks.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "This 5 Day Safari you will visit Mikumi & Ruaha National Parks that lies deep in the South with its striking, rugged landscapes and abundant",
+      "search": "5 days safari to mikumi & ruaha national parks  · southern circuit this 5 day safari you will visit mikumi & ruaha national parks that lies deep in the south with its striking, rugged landscapes and abundant safari package"
+    },
+    {
+      "title": "5 Days Serengeti and Ngorongoro Crater Safari",
+      "url": "safaris/5-days-serengeti-and-ngorongoro-crater-safari.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "This tour offers you a 5-day Tanzania Migration Safari where your river crossing tour will take you to the Mara River for the spectacular mi",
+      "search": "5 days serengeti and ngorongoro crater safari  · northern circuit this tour offers you a 5-day tanzania migration safari where your river crossing tour will take you to the mara river for the spectacular mi safari package"
+    },
+    {
+      "title": "6 Days Kilimanjaro Trek via Machame Route",
+      "url": "safaris/6-days-kilimanjaro-trek-via-machame-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The most popular route to the summit of Mount Kilimanjaro these days is Machame route, and for good reason. Forested traverse to Barafu. Thi",
+      "search": "6 days kilimanjaro trek via machame route  · northern circuit the most popular route to the summit of mount kilimanjaro these days is machame route, and for good reason. forested traverse to barafu. thi safari package"
+    },
+    {
+      "title": "6 Days Kilimanjaro Trek via Rongai Route",
+      "url": "safaris/6-days-kilimanjaro-trek-via-rongai-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The Rongai route is the only route that approaches Kilimanjaro from the north, close to the Kenyan border, this route still experiences low ",
+      "search": "6 days kilimanjaro trek via rongai route  · northern circuit the rongai route is the only route that approaches kilimanjaro from the north, close to the kenyan border, this route still experiences low  safari package"
+    },
+    {
+      "title": "6 Days Kilimanjaro Trek via Umbwe Route",
+      "url": "safaris/6-days-kilimanjaro-trek-via-umbwe-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The Umbwe route is short, steep and direct route and its considered to be very difficult and challenging way up Mount Kilimanjaro. Due to th",
+      "search": "6 days kilimanjaro trek via umbwe route  · northern circuit the umbwe route is short, steep and direct route and its considered to be very difficult and challenging way up mount kilimanjaro. due to th safari package"
+    },
+    {
+      "title": "6 Days Ngorongoro Crater, Serengeti and Lake Manyara Safari",
+      "url": "safaris/6-days-ngorongoro-crater-serengeti-and-lake-manyara-safari.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "A 6 day Safari to provide unlimited wildlife encounters in the heart of the Northern Tanzania Circuit. You’ll see what Ngorongoro Crater (on",
+      "search": "6 days ngorongoro crater, serengeti and lake manyara safari  · northern circuit a 6 day safari to provide unlimited wildlife encounters in the heart of the northern tanzania circuit. you’ll see what ngorongoro crater (on safari package"
+    },
+    {
+      "title": "6 Days Tarangire, Serengeti and Ngorongoro Crater Safari",
+      "url": "safaris/6-days-tarangire-serengeti-and-ngorongoro-crater-safari.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "A 6 day Safari to provide unlimited wildlife encounters in the heart of the Northern Tanzania Circuit. You’ll see what Lake Manyara, Tarangi",
+      "search": "6 days tarangire, serengeti and ngorongoro crater safari  · northern circuit a 6 day safari to provide unlimited wildlife encounters in the heart of the northern tanzania circuit. you’ll see what lake manyara, tarangi safari package"
+    },
+    {
+      "title": "7 Days Kilimanjaro Trek via Lemosho Route",
+      "url": "safaris/7-days-kilimanjaro-trek-via-lemosho-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The Lemosho Route is often considered the most beautiful of all the trekking trails up Mount Kilimanjaro. It crosses the entire Shira Platea",
+      "search": "7 days kilimanjaro trek via lemosho route  · northern circuit the lemosho route is often considered the most beautiful of all the trekking trails up mount kilimanjaro. it crosses the entire shira platea safari package"
+    },
+    {
+      "title": "7 Days Kilimanjaro Trek via Machame Route (Option 1)",
+      "url": "safaris/7-days-kilimanjaro-trek-via-machame-route-option-1.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The most popular route to the summit of Mount Kilimanjaro these days is Machame route, and for good reason. Forested traverse to Barafu. Thi",
+      "search": "7 days kilimanjaro trek via machame route (option 1)  · northern circuit the most popular route to the summit of mount kilimanjaro these days is machame route, and for good reason. forested traverse to barafu. thi safari package"
+    },
+    {
+      "title": "7 Days Kilimanjaro Trek via Machame Route (Option 2)",
+      "url": "safaris/7-days-kilimanjaro-trek-via-machame-route-option-2.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The most popular route to the summit of Mount Kilimanjaro these days is Machame route, and for good reason. Forested traverse to Barafu. Thi",
+      "search": "7 days kilimanjaro trek via machame route (option 2)  · northern circuit the most popular route to the summit of mount kilimanjaro these days is machame route, and for good reason. forested traverse to barafu. thi safari package"
+    },
+    {
+      "title": "7 Days Kilimanjaro Trek via Rongai Route",
+      "url": "safaris/7-days-kilimanjaro-trek-via-rongai-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The Rongai route is the only route that approaches Kilimanjaro from the north, close to the Kenyan border, this route still experiences low ",
+      "search": "7 days kilimanjaro trek via rongai route  · northern circuit the rongai route is the only route that approaches kilimanjaro from the north, close to the kenyan border, this route still experiences low  safari package"
+    },
+    {
+      "title": "7 Days Kilimanjaro Trek via Shira Route",
+      "url": "safaris/7-days-kilimanjaro-trek-via-shira-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The Shira Route is a little used trail that begins near Shira Ridge. It is nearly identical to the Lemosho route. In fact, Shira was the ori",
+      "search": "7 days kilimanjaro trek via shira route  · northern circuit the shira route is a little used trail that begins near shira ridge. it is nearly identical to the lemosho route. in fact, shira was the ori safari package"
+    },
+    {
+      "title": "7 Days Rift Valley Adventure to Engaruka, Lake Natron, Ol Donyo Lengai, Lobo, Serengeti and Ngorongoro",
+      "url": "safaris/7-days-rift-valley-adventure-to-engaruka-lake-natron-ol-donyo-lengai-lobo-sereng.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "This best great rift adventure you will travel thru the Great Rift Valley to the Northern tour sites of Tanzania for 1 night Engaruka ruins,",
+      "search": "7 days rift valley adventure to engaruka, lake natron, ol donyo lengai, lobo, serengeti and ngorongoro  · northern circuit this best great rift adventure you will travel thru the great rift valley to the northern tour sites of tanzania for 1 night engaruka ruins, safari package"
+    },
+    {
+      "title": "7 Days Safari to Ruaha, Udzungwa and Mikumi National Parks",
+      "url": "safaris/7-days-safari-to-ruaha-udzungwa-and-mikumi-national-parks.html",
+      "type": "Safari Package",
+      "subtitle": " · Southern Circuit",
+      "keywords": "This 7 Day Safari by road you will visit Ruaha, Udzungwa & Mikumi Parks, a perfect adventure for wildlife enthusiasts, serious safari-goers ",
+      "search": "7 days safari to ruaha, udzungwa and mikumi national parks  · southern circuit this 7 day safari by road you will visit ruaha, udzungwa & mikumi parks, a perfect adventure for wildlife enthusiasts, serious safari-goers  safari package"
+    },
+    {
+      "title": "7 Days Tarangire, Ngorongoro, Serengeti, Lake Natron and Manyara Safari",
+      "url": "safaris/7-days-tarangire-ngorongoro-serengeti-lake-natron-and-manyara-safari.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "7 Day Safari that you will visit all the major safari national parks in the north of Tanzania and Lake Natron. On this tour awaits you espec",
+      "search": "7 days tarangire, ngorongoro, serengeti, lake natron and manyara safari  · northern circuit 7 day safari that you will visit all the major safari national parks in the north of tanzania and lake natron. on this tour awaits you espec safari package"
+    },
+    {
+      "title": "8 Days Hiking to Ngorongoro Highlands and Oldoinyo Lengai Trekking",
+      "url": "safaris/8-days-hiking-to-ngorongoro-highlands-and-oldoinyo-lengai-trekking.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "This 10 day trekking tour takes you to the diverse landscapes of the Ngorongoro Crater Highlands - Ngorongoro, Olmoti and Empakaai - eventua",
+      "search": "8 days hiking to ngorongoro highlands and oldoinyo lengai trekking  · northern circuit this 10 day trekking tour takes you to the diverse landscapes of the ngorongoro crater highlands - ngorongoro, olmoti and empakaai - eventua safari package"
+    },
+    {
+      "title": "8 Days Kilimanjaro Trek via Lemosho Route",
+      "url": "safaris/8-days-kilimanjaro-trek-via-lemosho-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The Lemosho Route is often considered the most beautiful of all the trekking trails up Mount Kilimanjaro. It crosses the entire Shira Platea",
+      "search": "8 days kilimanjaro trek via lemosho route  · northern circuit the lemosho route is often considered the most beautiful of all the trekking trails up mount kilimanjaro. it crosses the entire shira platea safari package"
+    },
+    {
+      "title": "8 Days Kilimanjaro Trek via Machame Route",
+      "url": "safaris/8-days-kilimanjaro-trek-via-machame-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The most popular route to the summit of Mount Kilimanjaro these days is Machame route, and for good reason. Forested traverse to Barafu. Thi",
+      "search": "8 days kilimanjaro trek via machame route  · northern circuit the most popular route to the summit of mount kilimanjaro these days is machame route, and for good reason. forested traverse to barafu. thi safari package"
+    },
+    {
+      "title": "9 Days Kilimanjaro Trek via Northern Route (Option 1)",
+      "url": "safaris/9-days-kilimanjaro-trek-via-northern-route-option-1.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The Northern Circuit route is the newest route up Mount Kilimanjaro and arguably the best. That’s because it’s a combination of all of the b",
+      "search": "9 days kilimanjaro trek via northern route (option 1)  · northern circuit the northern circuit route is the newest route up mount kilimanjaro and arguably the best. that’s because it’s a combination of all of the b safari package"
+    },
+    {
+      "title": "9 Days Kilimanjaro Trek via Northern Route (Option 2)",
+      "url": "safaris/9-days-kilimanjaro-trek-via-northern-route-option-2.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The Northern Circuit route is the newest route up Mount Kilimanjaro and arguably the best. That’s because it’s a combination of all of the b",
+      "search": "9 days kilimanjaro trek via northern route (option 2)  · northern circuit the northern circuit route is the newest route up mount kilimanjaro and arguably the best. that’s because it’s a combination of all of the b safari package"
+    },
+    {
+      "title": "Amboni Caves Tours, Tanga",
+      "url": "safaris/amboni-caves-tours-tanga.html",
+      "type": "Safari Package",
+      "subtitle": " · Eastern Circuit",
+      "keywords": "Amboni Caves Tours from Tanga City, a visit to the Amboni Caves and a Kiomoni village all in one go during this half-day tour from Tanga Cit",
+      "search": "amboni caves tours, tanga  · eastern circuit amboni caves tours from tanga city, a visit to the amboni caves and a kiomoni village all in one go during this half-day tour from tanga cit safari package"
+    },
+    {
+      "title": "Bagamoyo Day Trip",
+      "url": "safaris/bagamoyo-day-trip.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Eastern Circuit",
+      "keywords": "Bagamoyo, (which means “Lay down your heart”) lies 75kms north of Dar es Salaam. It was the most important trading centre of the east centra",
+      "search": "bagamoyo day trip day trip · eastern circuit bagamoyo, (which means “lay down your heart”) lies 75kms north of dar es salaam. it was the most important trading centre of the east centra safari package"
+    },
+    {
+      "title": "Bongoyo Island Day Trip",
+      "url": "safaris/bongoyo-island-day-trip.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Oceanic Islands",
+      "keywords": "Bongoyo, a much-loved island getaway, lies off the Msasani Peninsula, about 2.5km north of Dar es Salaam. Idyllic white-sand beaches with th",
+      "search": "bongoyo island day trip day trip · oceanic islands bongoyo, a much-loved island getaway, lies off the msasani peninsula, about 2.5km north of dar es salaam. idyllic white-sand beaches with th safari package"
+    },
+    {
+      "title": "Bwejuu Island, Mafia",
+      "url": "safaris/bwejuu-island-mafia.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Bwejuu Island is considered the most beautiful island in the archipelago and for very good reason. Just under three hours sail from Mafia Is",
+      "search": "bwejuu island, mafia  · mafia island bwejuu island is considered the most beautiful island in the archipelago and for very good reason. just under three hours sail from mafia is safari package"
+    },
+    {
+      "title": "Caravan Serai Museum, Bagamoyo",
+      "url": "safaris/caravan-serai-museum-bagamoyo.html",
+      "type": "Safari Package",
+      "subtitle": " · Eastern Circuit",
+      "keywords": "This museum in Bagamoyo Historic Town has a small display documenting the slave trade. The museum is in one of the historic building that wa",
+      "search": "caravan serai museum, bagamoyo  · eastern circuit this museum in bagamoyo historic town has a small display documenting the slave trade. the museum is in one of the historic building that wa safari package"
+    },
+    {
+      "title": "Chole Bay Snorkelling, Mafia Island",
+      "url": "safaris/chole-bay-snorkelling-mafia-island.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Snorkelling in Chole bay is a fantastic, colourfully exuberant experience accompanied by hoards of fish, all with different shapes, colours ",
+      "search": "chole bay snorkelling, mafia island  · mafia island snorkelling in chole bay is a fantastic, colourfully exuberant experience accompanied by hoards of fish, all with different shapes, colours  safari package"
+    },
+    {
+      "title": "Chole Island Tour",
+      "url": "safaris/chole-island-tour.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Chole Island, once at a crossroads of a major trade route is now considered a place where one can take a glance back in time. Chole Island i",
+      "search": "chole island tour  · mafia island chole island, once at a crossroads of a major trade route is now considered a place where one can take a glance back in time. chole island i safari package"
+    },
+    {
+      "title": "Chumbe Island Coral Park",
+      "url": "safaris/chumbe-island-coral-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "Chumbe Island Coral Park Ltd. (CHICOP) is an award-winning private nature reserve that was developed from 1991 for the conservation and sust",
+      "search": "chumbe island coral park  · oceanic islands chumbe island coral park ltd. (chicop) is an award-winning private nature reserve that was developed from 1991 for the conservation and sust safari package"
+    },
+    {
+      "title": "Day Hike Kilimanjaro Shira Plateau",
+      "url": "safaris/day-hike-kilimanjaro-shira-plateau.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "Mount Kilimanjaro’s Shira Plateau is one of the most fascinating and scenic areas on Kilimanjaro. It’s also the oldest peak of Mount Kiliman",
+      "search": "day hike kilimanjaro shira plateau  · northern circuit mount kilimanjaro’s shira plateau is one of the most fascinating and scenic areas on kilimanjaro. it’s also the oldest peak of mount kiliman safari package"
+    },
+    {
+      "title": "Day Hike Mount Kilimanjaro via Machame Route",
+      "url": "safaris/day-hike-mount-kilimanjaro-via-machame-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "1 Day Kilimanjaro hike via Machame Route is one of Short Kilimanjaro Trips for one Day Kilimanjaro Climb. This short Kilimanjaro trek you wi",
+      "search": "day hike mount kilimanjaro via machame route  · northern circuit 1 day kilimanjaro hike via machame route is one of short kilimanjaro trips for one day kilimanjaro climb. this short kilimanjaro trek you wi safari package"
+    },
+    {
+      "title": "Day Hike Mount Kilimanjaro via Marangu Route",
+      "url": "safaris/day-hike-mount-kilimanjaro-via-marangu-route.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "1 Day Kilimanjaro hike via Marangu Route is one of Short Kilimanjaro Trips for one Day Kilimanjaro Climb. This short Kilimanjaro trek you wi",
+      "search": "day hike mount kilimanjaro via marangu route  · northern circuit 1 day kilimanjaro hike via marangu route is one of short kilimanjaro trips for one day kilimanjaro climb. this short kilimanjaro trek you wi safari package"
+    },
+    {
+      "title": "Day Hike to North Pare Mountains",
+      "url": "safaris/day-hike-to-north-pare-mountains.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "A hike through Pare Mountains takes visitors through local villages and beautiful forests, and offers an opportunity to explore roads less t",
+      "search": "day hike to north pare mountains  · northern circuit a hike through pare mountains takes visitors through local villages and beautiful forests, and offers an opportunity to explore roads less t safari package"
+    },
+    {
+      "title": "Day Tour Kondoa Rock-Art sites",
+      "url": "safaris/day-tour-kondoa-rock-art-sites.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "A day Tour to Kondoa Irangi Rock Paintings, located between Singida and Irangi Hills in Kolo village on the steep eastern slopes of the Masa",
+      "search": "day tour kondoa rock-art sites  · northern circuit a day tour to kondoa irangi rock paintings, located between singida and irangi hills in kolo village on the steep eastern slopes of the masa safari package"
+    },
+    {
+      "title": "Day Trip Hiking to Uluguru Mountains & Choma Waterfalls",
+      "url": "safaris/day-trip-hiking-to-uluguru-mountains-choma-waterfalls.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Eastern Circuit",
+      "keywords": "A Day hike to Uluguru Mountains will take you from Morogoro to this only unique southern Tanzania or Eastern Arc Mountains Ranges all the wa",
+      "search": "day trip hiking to uluguru mountains & choma waterfalls day trip · eastern circuit a day hike to uluguru mountains will take you from morogoro to this only unique southern tanzania or eastern arc mountains ranges all the wa safari package"
+    },
+    {
+      "title": "Day Trip to Arusha National Park",
+      "url": "safaris/day-trip-to-arusha-national-park.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "The park is at the base of Mount Meru, which is good for climbing. It has a range of habitats including forest - home to the black-and-white",
+      "search": "day trip to arusha national park day trip · northern circuit the park is at the base of mount meru, which is good for climbing. it has a range of habitats including forest - home to the black-and-white safari package"
+    },
+    {
+      "title": "Day Trip to Chemka Hot Springs",
+      "url": "safaris/day-trip-to-chemka-hot-springs.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "Chemka Hot Springs are an oasis in the hinterland of the Kilimanjaro region, . Located in 1-hour drive from Moshi town. Chemka Hot Springs i",
+      "search": "day trip to chemka hot springs day trip · northern circuit chemka hot springs are an oasis in the hinterland of the kilimanjaro region, . located in 1-hour drive from moshi town. chemka hot springs i safari package"
+    },
+    {
+      "title": "Day Trip to Gombe National Park",
+      "url": "safaris/day-trip-to-gombe-national-park.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Western Circuit",
+      "keywords": "This chimpanzee day tour to Gombe Stream National Park is sometimes known as the weekend break is ideal for travelers with limited time who ",
+      "search": "day trip to gombe national park day trip · western circuit this chimpanzee day tour to gombe stream national park is sometimes known as the weekend break is ideal for travelers with limited time who  safari package"
+    },
+    {
+      "title": "Day Trip to Isimila Stone Age and Igeleke Rock Art Sites",
+      "url": "safaris/day-trip-to-isimila-stone-age-and-igeleke-rock-art-sites.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Southern Highlands & Culture",
+      "keywords": "Experience Iringa on this full-day tour starting from Isimila Museum and observe palaeolithic tools and canyon formations at the ancient Isi",
+      "search": "day trip to isimila stone age and igeleke rock art sites day trip · southern highlands & culture experience iringa on this full-day tour starting from isimila museum and observe palaeolithic tools and canyon formations at the ancient isi safari package"
+    },
+    {
+      "title": "Day Trip to Lake Chala",
+      "url": "safaris/day-trip-to-lake-chala.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "Lake Chala, also known as Lake Challa, is a crater lake that straddles the border between Kenya and Tanzania on the eastern edge of Mount Ki",
+      "search": "day trip to lake chala day trip · northern circuit lake chala, also known as lake challa, is a crater lake that straddles the border between kenya and tanzania on the eastern edge of mount ki safari package"
+    },
+    {
+      "title": "Day Trip to Lake Duluti",
+      "url": "safaris/day-trip-to-lake-duluti.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "Lake Duluti is a small crater lake situated in eastern Arusha. Lake Duluti Day trip, It takes approximately 20 minutes from Arusha City. Lak",
+      "search": "day trip to lake duluti day trip · northern circuit lake duluti is a small crater lake situated in eastern arusha. lake duluti day trip, it takes approximately 20 minutes from arusha city. lak safari package"
+    },
+    {
+      "title": "Day Trip to Lake Jipe",
+      "url": "safaris/day-trip-to-lake-jipe.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "Lake Jipe is an inter-territorial lake straddling the borders of Kenya and Tanzania. On the Kenyan side, it is located south of the village ",
+      "search": "day trip to lake jipe day trip · northern circuit lake jipe is an inter-territorial lake straddling the borders of kenya and tanzania. on the kenyan side, it is located south of the village  safari package"
+    },
+    {
+      "title": "Day Trip to Lake Manyara National Park",
+      "url": "safaris/day-trip-to-lake-manyara-national-park.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "On the edge of the Rift Valley, Lake Manyara National Park is small, but its diverse eco-systems pack in a huge variety of animal and birdli",
+      "search": "day trip to lake manyara national park day trip · northern circuit on the edge of the rift valley, lake manyara national park is small, but its diverse eco-systems pack in a huge variety of animal and birdli safari package"
+    },
+    {
+      "title": "Day Trip to Lake Natron",
+      "url": "safaris/day-trip-to-lake-natron.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "Enjoy the 1 or 2 Days Lake Natron Tour in Tanzania as you visit this home to 2 million of lesser flamingos, The lake is in the vicinity of O",
+      "search": "day trip to lake natron day trip · northern circuit enjoy the 1 or 2 days lake natron tour in tanzania as you visit this home to 2 million of lesser flamingos, the lake is in the vicinity of o safari package"
+    },
+    {
+      "title": "Day Trip to Mafia Island",
+      "url": "safaris/day-trip-to-mafia-island.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Mafia Island",
+      "keywords": "Enjoy an amazing full day trip to Tanzania’s Mafia Island, home of the whale shark and an underwater paradise. The trip starts from either D",
+      "search": "day trip to mafia island day trip · mafia island enjoy an amazing full day trip to tanzania’s mafia island, home of the whale shark and an underwater paradise. the trip starts from either d safari package"
+    },
+    {
+      "title": "Day Trip to Materuni Waterfalls and Coffee Tour",
+      "url": "safaris/day-trip-to-materuni-waterfalls-and-coffee-tour.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "Around 30 - 40 minutes outside of Moshi town are Materuni waterfalls. As this trip is so close by and ideal for those people with limited ti",
+      "search": "day trip to materuni waterfalls and coffee tour day trip · northern circuit around 30 - 40 minutes outside of moshi town are materuni waterfalls. as this trip is so close by and ideal for those people with limited ti safari package"
+    },
+    {
+      "title": "Day Trip to Mikumi National Park",
+      "url": "safaris/day-trip-to-mikumi-national-park.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Southern Circuit",
+      "keywords": "A day trip to Mikumi National Park from Dar es Salaam, this is a shortest safari offered in the southern Tanzania (Day safari to Tanzania). ",
+      "search": "day trip to mikumi national park day trip · southern circuit a day trip to mikumi national park from dar es salaam, this is a shortest safari offered in the southern tanzania (day safari to tanzania).  safari package"
+    },
+    {
+      "title": "Day trip to Mkomazi National Park",
+      "url": "safaris/day-trip-to-mkomazi-national-park.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "This is best option of wildlife enthusiast who likes to spot the rarest species of flora and fauna. It is also suitable for travelers who ca",
+      "search": "day trip to mkomazi national park day trip · northern circuit this is best option of wildlife enthusiast who likes to spot the rarest species of flora and fauna. it is also suitable for travelers who ca safari package"
+    },
+    {
+      "title": "Day Trip to Mount Meru Waterfalls Hike",
+      "url": "safaris/day-trip-to-mount-meru-waterfalls-hike.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "A Day Trip to Mount Meru Waterfalls Hike is an amazing one-day trekking adventure to the foothills of Mount Meru. Mount Meru is located insi",
+      "search": "day trip to mount meru waterfalls hike day trip · northern circuit a day trip to mount meru waterfalls hike is an amazing one-day trekking adventure to the foothills of mount meru. mount meru is located insi safari package"
+    },
+    {
+      "title": "Day Trip to Ngorongoro Crater",
+      "url": "safaris/day-trip-to-ngorongoro-crater.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "A visit to the Ngorongoro Crater is an experience of a lifetime. There are few places that have wildlife densities and variety on this level",
+      "search": "day trip to ngorongoro crater day trip · northern circuit a visit to the ngorongoro crater is an experience of a lifetime. there are few places that have wildlife densities and variety on this level safari package"
+    },
+    {
+      "title": "Day Trip to Nyerere National Park",
+      "url": "safaris/day-trip-to-nyerere-national-park.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Southern Circuit",
+      "keywords": "This 1 Day Trip to Nyerere National Park formerly (Selous Game Reserve) a Tanzania’s iconic and beautiful National Park, one of the few Prot",
+      "search": "day trip to nyerere national park day trip · southern circuit this 1 day trip to nyerere national park formerly (selous game reserve) a tanzania’s iconic and beautiful national park, one of the few prot safari package"
+    },
+    {
+      "title": "Day Trip to Olmoti and Empakai Crater in Ngorongoro Highlands",
+      "url": "safaris/day-trip-to-olmoti-and-empakai-crater-in-ngorongoro-highlands.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "This day trip will take you to the diverse landscapes of the Ngorongoro Crater Highland, mainly Olmoti and Empakai Crater.",
+      "search": "day trip to olmoti and empakai crater in ngorongoro highlands day trip · northern circuit this day trip will take you to the diverse landscapes of the ngorongoro crater highland, mainly olmoti and empakai crater. safari package"
+    },
+    {
+      "title": "Day Trip to Saadani National Park",
+      "url": "safaris/day-trip-to-saadani-national-park.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Eastern Circuit",
+      "keywords": "This Day trip to Sadaani National Park Safari will take you from Dar es Salaam to this only unique wilderness in the north coast of Tanzania",
+      "search": "day trip to saadani national park day trip · eastern circuit this day trip to sadaani national park safari will take you from dar es salaam to this only unique wilderness in the north coast of tanzania safari package"
+    },
+    {
+      "title": "Day Trip to South Pare Mountains",
+      "url": "safaris/day-trip-to-south-pare-mountains.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "A hike through Southern Pare Mountains takes visitors through local villages and beautiful forests, and offers an opportunity to explore roa",
+      "search": "day trip to south pare mountains day trip · northern circuit a hike through southern pare mountains takes visitors through local villages and beautiful forests, and offers an opportunity to explore roa safari package"
+    },
+    {
+      "title": "Day Trip to Tarangire National Park",
+      "url": "safaris/day-trip-to-tarangire-national-park.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Northern Circuit",
+      "keywords": "Tarangire is one of the more seasonal parks in northern Tanzania, with a lot of migratory movement within the greater Tarangire ecosystem. I",
+      "search": "day trip to tarangire national park day trip · northern circuit tarangire is one of the more seasonal parks in northern tanzania, with a lot of migratory movement within the greater tarangire ecosystem. i safari package"
+    },
+    {
+      "title": "Deep Sea Fishing in Zanzibar",
+      "url": "safaris/deep-sea-fishing-in-zanzibar.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "Zanzibar is fortunate in having superb fishing almost all the year. Fishing in Zanzibar is synonymous as some of the most exhilarating and c",
+      "search": "deep sea fishing in zanzibar  · oceanic islands zanzibar is fortunate in having superb fishing almost all the year. fishing in zanzibar is synonymous as some of the most exhilarating and c safari package"
+    },
+    {
+      "title": "Deep Sea Fishing Mafia Island",
+      "url": "safaris/deep-sea-fishing-mafia-island.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Mafia Island is also renowned for deep-sea fishing, as large populations of tuna, sailfish, marlin and other big game fish can be found in M",
+      "search": "deep sea fishing mafia island  · mafia island mafia island is also renowned for deep-sea fishing, as large populations of tuna, sailfish, marlin and other big game fish can be found in m safari package"
+    },
+    {
+      "title": "Dhow Sunset Cruise",
+      "url": "safaris/dhow-sunset-cruise.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "Sit back, relax and sink into the soft pillows decorating the dhow taking you on a gentle cruise along the Unguja coast and around Stone Tow",
+      "search": "dhow sunset cruise  · oceanic islands sit back, relax and sink into the soft pillows decorating the dhow taking you on a gentle cruise along the unguja coast and around stone tow safari package"
+    },
+    {
+      "title": "Dolphin Tour, Zanzibar",
+      "url": "safaris/dolphin-tour-zanzibar.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "Kizimkazi Zanzibar Dolphin Tour offers you the experience of a lifetime, a chance to swim with dolphins in their natural habitat. The seasho",
+      "search": "dolphin tour, zanzibar  · oceanic islands kizimkazi zanzibar dolphin tour offers you the experience of a lifetime, a chance to swim with dolphins in their natural habitat. the seasho safari package"
+    },
+    {
+      "title": "Fisherman Island, Mafia",
+      "url": "safaris/fisherman-island-mafia.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Fisherman Island is a beautiful small islet hidden on the North Eastern side of Chole Bay. Its name comes from the periodic presence of Mafi",
+      "search": "fisherman island, mafia  · mafia island fisherman island is a beautiful small islet hidden on the north eastern side of chole bay. its name comes from the periodic presence of mafi safari package"
+    },
+    {
+      "title": "Galanos Hot Sulphur Springs Tours, Tanga",
+      "url": "safaris/galanos-hot-sulphur-springs-tours-tanga.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "Galanos Hot Sulphur Springs is about 12km on the way to Mombasa from Tanga city. The spring is still active bobbling from the earth and flow",
+      "search": "galanos hot sulphur springs tours, tanga  · northern circuit galanos hot sulphur springs is about 12km on the way to mombasa from tanga city. the spring is still active bobbling from the earth and flow safari package"
+    },
+    {
+      "title": "Gangilonga Stone, Iringa",
+      "url": "safaris/gangilonga-stone-iringa.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The Gangilonga Stone is another historical and cultural landmark located in Gangilonga Ward, Iringa, Tanzania and it’s believed to have been",
+      "search": "gangilonga stone, iringa  · northern circuit the gangilonga stone is another historical and cultural landmark located in gangilonga ward, iringa, tanzania and it’s believed to have been safari package"
+    },
+    {
+      "title": "Humpback Whale Watching",
+      "url": "safaris/humpback-whale-watching.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Humpback whales are one of the largest rorqual species; adults can grow up to 16 metres in length and weigh up to 36,000 kg. They are found ",
+      "search": "humpback whale watching  · mafia island humpback whales are one of the largest rorqual species; adults can grow up to 16 metres in length and weigh up to 36,000 kg. they are found  safari package"
+    },
+    {
+      "title": "Jibondo Island, Mafia",
+      "url": "safaris/jibondo-island-mafia.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "About an hour’s sail south of Chole, Jibondo Island is the most traditional of the archipelago’s settlements, and most of its two thousand i",
+      "search": "jibondo island, mafia  · mafia island about an hour’s sail south of chole, jibondo island is the most traditional of the archipelago’s settlements, and most of its two thousand i safari package"
+    },
+    {
+      "title": "Jozani Chwaka Bay National Park",
+      "url": "safaris/jozani-chwaka-bay-national-park.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "Jozani Forest is the largest area of nature forest on Zanzibar Island. Situated south of Chwaka Bay about 40 km from Stone Town on low-lying",
+      "search": "jozani chwaka bay national park  · oceanic islands jozani forest is the largest area of nature forest on zanzibar island. situated south of chwaka bay about 40 km from stone town on low-lying safari package"
+    },
+    {
+      "title": "Kalenga Historical Museum",
+      "url": "safaris/kalenga-historical-museum.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "A small museum in nearby Kalenga - the former Hehe capital - contains the skull, personal effects and other relics of Chief Mkwawa. It was h",
+      "search": "kalenga historical museum  · northern circuit a small museum in nearby kalenga - the former hehe capital - contains the skull, personal effects and other relics of chief mkwawa. it was h safari package"
+    },
+    {
+      "title": "Kaole Ruins, Bagamoyo",
+      "url": "safaris/kaole-ruins-bagamoyo.html",
+      "type": "Safari Package",
+      "subtitle": " · Eastern Circuit",
+      "keywords": "Kaole village formally known as ‘Pumbuji’ is one of the oldest villages that immigrants from Arabic countries choose as they landed on East ",
+      "search": "kaole ruins, bagamoyo  · eastern circuit kaole village formally known as ‘pumbuji’ is one of the oldest villages that immigrants from arabic countries choose as they landed on east  safari package"
+    },
+    {
+      "title": "Kilimanjaro Trek via Western Breach",
+      "url": "safaris/kilimanjaro-trek-via-western-breach.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "The Western Breach is the steepest, but shortest, of all the non-technical final ascents of Kibo, and should not be lightly undertaken. It c",
+      "search": "kilimanjaro trek via western breach  · northern circuit the western breach is the steepest, but shortest, of all the non-technical final ascents of kibo, and should not be lightly undertaken. it c safari package"
+    },
+    {
+      "title": "Kiwengwa Cave, Zanzibar",
+      "url": "safaris/kiwengwa-cave-zanzibar.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "The Kiwengwa caves were officially discovered in 2002, although the islanders of the area have used them for hundreds of years. Located just",
+      "search": "kiwengwa cave, zanzibar  · oceanic islands the kiwengwa caves were officially discovered in 2002, although the islanders of the area have used them for hundreds of years. located just safari package"
+    },
+    {
+      "title": "Kua Ruins Tour, Mafia Island",
+      "url": "safaris/kua-ruins-tour-mafia-island.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Nestled amongst the overgrown forests in the South of Juani Island are a set of ruins, the last remnants of the ancient city of Kua dating b",
+      "search": "kua ruins tour, mafia island  · mafia island nestled amongst the overgrown forests in the south of juani island are a set of ruins, the last remnants of the ancient city of kua dating b safari package"
+    },
+    {
+      "title": "Lake Maliwe, Kilwa",
+      "url": "safaris/lake-maliwe-kilwa.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "Maliwe is a peaceful lake where a few fishermen can take you on canoes dugout from a single log to observe the wildlife. Hippos and crocodil",
+      "search": "lake maliwe, kilwa  · oceanic islands maliwe is a peaceful lake where a few fishermen can take you on canoes dugout from a single log to observe the wildlife. hippos and crocodil safari package"
+    },
+    {
+      "title": "Mafia Island Sunset Cruise",
+      "url": "safaris/mafia-island-sunset-cruise.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "A sunset cruise is a beautiful option for couples, families and friends to sit back and relax with a drink in hand and not a care in the wor",
+      "search": "mafia island sunset cruise  · mafia island a sunset cruise is a beautiful option for couples, families and friends to sit back and relax with a drink in hand and not a care in the wor safari package"
+    },
+    {
+      "title": "Magoroto Forest Estate",
+      "url": "safaris/magoroto-forest-estate.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "Magoroto Forest Estate in East Usambara Mountains with its tropical rain forest is the perfect spot for a getaway. The estate is located on ",
+      "search": "magoroto forest estate  · northern circuit magoroto forest estate in east usambara mountains with its tropical rain forest is the perfect spot for a getaway. the estate is located on  safari package"
+    },
+    {
+      "title": "Mange Sandbank, Mafia Island",
+      "url": "safaris/mange-sandbank-mafia-island.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Mange sandbank is located in south of Chole Bay. It is the most pristine patch of pure, white sand that only is exposed during low tide. Thi",
+      "search": "mange sandbank, mafia island  · mafia island mange sandbank is located in south of chole bay. it is the most pristine patch of pure, white sand that only is exposed during low tide. thi safari package"
+    },
+    {
+      "title": "Marimbani Sandbank, Mafia",
+      "url": "safaris/marimbani-sandbank-mafia.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Marimbani Sand bank is the perfect place to relax and find comfort on the soothing sand of Marimbani Sandbank. With just a 20-minute boat tr",
+      "search": "marimbani sandbank, mafia  · mafia island marimbani sand bank is the perfect place to relax and find comfort on the soothing sand of marimbani sandbank. with just a 20-minute boat tr safari package"
+    },
+    {
+      "title": "Mbudya Island Day Trip",
+      "url": "safaris/mbudya-island-day-trip.html",
+      "type": "Safari Package",
+      "subtitle": "Day Trip · Oceanic Islands",
+      "keywords": "Escape the hustle and bustle of downtown Dar es Salaam. A 15-minute motorboat ride from the mainland will take you to the idyllic island par",
+      "search": "mbudya island day trip day trip · oceanic islands escape the hustle and bustle of downtown dar es salaam. a 15-minute motorboat ride from the mainland will take you to the idyllic island par safari package"
+    },
+    {
+      "title": "Mkurukara Caves, Kilwa",
+      "url": "safaris/mkurukara-caves-kilwa.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "Mkurukara means “leader “, it was used as a shelter by a leader and his followers. There are 2 caves, one that served as a shelter, and the ",
+      "search": "mkurukara caves, kilwa  · oceanic islands mkurukara means “leader “, it was used as a shelter by a leader and his followers. there are 2 caves, one that served as a shelter, and the  safari package"
+    },
+    {
+      "title": "Mwanakiwambi, Kilwa",
+      "url": "safaris/mwanakiwambi-kilwa.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "This is an archeological site that has not yet been conserved. It is therefore difficult to interpret the wall remains but the ruins are ver",
+      "search": "mwanakiwambi, kilwa  · oceanic islands this is an archeological site that has not yet been conserved. it is therefore difficult to interpret the wall remains but the ruins are ver safari package"
+    },
+    {
+      "title": "Namaingo Caves, Kilwa",
+      "url": "safaris/namaingo-caves-kilwa.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "The Namaingo caves are interesting to visit for their network of organic corridors leading to different rooms, rivers and water reservoirs. ",
+      "search": "namaingo caves, kilwa  · oceanic islands the namaingo caves are interesting to visit for their network of organic corridors leading to different rooms, rivers and water reservoirs.  safari package"
+    },
+    {
+      "title": "Nandembo Caves, Kilwa",
+      "url": "safaris/nandembo-caves-kilwa.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "Nandembo Caves in Kilwa can be seen around Nandembo village. We recommend avoiding walking through Nangoma cave to stay away from the huge c",
+      "search": "nandembo caves, kilwa  · oceanic islands nandembo caves in kilwa can be seen around nandembo village. we recommend avoiding walking through nangoma cave to stay away from the huge c safari package"
+    },
+    {
+      "title": "Nungwi Experience",
+      "url": "safaris/nungwi-experience.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "Nungwi, Matemwe and Kendwa are the name of the villages at the north-east part of Zanzibar Island. This part of the trip mainly focuses on s",
+      "search": "nungwi experience  · oceanic islands nungwi, matemwe and kendwa are the name of the villages at the north-east part of zanzibar island. this part of the trip mainly focuses on s safari package"
+    },
+    {
+      "title": "Old Fort, Bagamoyo",
+      "url": "safaris/old-fort-bagamoyo.html",
+      "type": "Safari Package",
+      "subtitle": " · Eastern Circuit",
+      "keywords": "The Old Fort in Bagamoyo, Tanzania is one of the historic building built by an Arab trader; Abdallah Sulleiman, during the 1860s. By then, i",
+      "search": "old fort, bagamoyo  · eastern circuit the old fort in bagamoyo, tanzania is one of the historic building built by an arab trader; abdallah sulleiman, during the 1860s. by then, i safari package"
+    },
+    {
+      "title": "Pandawe Malalani, Kilwa",
+      "url": "safaris/pandawe-malalani-kilwa.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "It is said that in this area, Unji Bin Unuki, a very tall person, sank in the mud. This legend is supported by a series of stones that repre",
+      "search": "pandawe malalani, kilwa  · oceanic islands it is said that in this area, unji bin unuki, a very tall person, sank in the mud. this legend is supported by a series of stones that repre safari package"
+    },
+    {
+      "title": "Prison Island, Zanzibar",
+      "url": "safaris/prison-island-zanzibar.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "The Prison Island, also known as Changuu Island which is located on the western part of Zanzibar Island, just off Stone Town and bordering t",
+      "search": "prison island, zanzibar  · oceanic islands the prison island, also known as changuu island which is located on the western part of zanzibar island, just off stone town and bordering t safari package"
+    },
+    {
+      "title": "Roman Catholic Church, Bagamoyo",
+      "url": "safaris/roman-catholic-church-bagamoyo.html",
+      "type": "Safari Package",
+      "subtitle": " · Eastern Circuit",
+      "keywords": "Historic site with historic buildings, the site was established by Holly Ghost Fathers Missionaries in 1868 as the first missionary station ",
+      "search": "roman catholic church, bagamoyo  · eastern circuit historic site with historic buildings, the site was established by holly ghost fathers missionaries in 1868 as the first missionary station  safari package"
+    },
+    {
+      "title": "Rukila Island, Kilwa",
+      "url": "safaris/rukila-island-kilwa.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "An Island in Kilwa, the southern coast of Tanzania houses the highest levels of coral and fish biodiversity in the region. Snorkeling or scu",
+      "search": "rukila island, kilwa  · oceanic islands an island in kilwa, the southern coast of tanzania houses the highest levels of coral and fish biodiversity in the region. snorkeling or scu safari package"
+    },
+    {
+      "title": "Safari Blue, Zanzibar",
+      "url": "safaris/safari-blue-zanzibar.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "Safari Blue trip is a full day sailing around mangroves and snorkeling along Menai bay, which is one of the best coral reefs in Zanzibar. Ma",
+      "search": "safari blue, zanzibar  · oceanic islands safari blue trip is a full day sailing around mangroves and snorkeling along menai bay, which is one of the best coral reefs in zanzibar. ma safari package"
+    },
+    {
+      "title": "Scuba Diving in Mafia Island",
+      "url": "safaris/scuba-diving-in-mafia-island.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Much of Mafia Island is a protected Marine Park and among the world’s famous places for scuba diving. The diversity of marine life is excell",
+      "search": "scuba diving in mafia island  · mafia island much of mafia island is a protected marine park and among the world’s famous places for scuba diving. the diversity of marine life is excell safari package"
+    },
+    {
+      "title": "Scuba Diving in Zanzibar",
+      "url": "safaris/scuba-diving-in-zanzibar.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "Zanzibar scuba experience offers a chance to dive in the best corals in East Africa, Diving in Zanzibar is renowned for its stunning beaches",
+      "search": "scuba diving in zanzibar  · oceanic islands zanzibar scuba experience offers a chance to dive in the best corals in east africa, diving in zanzibar is renowned for its stunning beaches safari package"
+    },
+    {
+      "title": "Slave Trade Tour",
+      "url": "safaris/slave-trade-tour.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "This is a guided excursion that will take you back to the 16th century when Zanzibar was a commercial empire. The Slave Trade Tour in Zanzib",
+      "search": "slave trade tour  · oceanic islands this is a guided excursion that will take you back to the 16th century when zanzibar was a commercial empire. the slave trade tour in zanzib safari package"
+    },
+    {
+      "title": "Spice Tour, Zanzibar",
+      "url": "safaris/spice-tour-zanzibar.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "On this excursion you'll find tropical fruits, spices and other rare species of plants are among the different vegetation. The Spice Tour in",
+      "search": "spice tour, zanzibar  · oceanic islands on this excursion you'll find tropical fruits, spices and other rare species of plants are among the different vegetation. the spice tour in safari package"
+    },
+    {
+      "title": "Stone Town Tour",
+      "url": "safaris/stone-town-tour.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "The stone town tour, the city tour, takes you around the capital town to experience historically, culturally and architecturally richness of",
+      "search": "stone town tour  · oceanic islands the stone town tour, the city tour, takes you around the capital town to experience historically, culturally and architecturally richness of safari package"
+    },
+    {
+      "title": "The Old German Boma, Bagamoyo",
+      "url": "safaris/the-old-german-boma-bagamoyo.html",
+      "type": "Safari Package",
+      "subtitle": " · Eastern Circuit",
+      "keywords": "The Old Boma in Bagamoyo, situated along the central coast of Tanzania, was built by the Germans in 1895. The BOMA served as administrative ",
+      "search": "the old german boma, bagamoyo  · eastern circuit the old boma in bagamoyo, situated along the central coast of tanzania, was built by the germans in 1895. the boma served as administrative  safari package"
+    },
+    {
+      "title": "Tongoni Ruins, Tanga",
+      "url": "safaris/tongoni-ruins-tanga.html",
+      "type": "Safari Package",
+      "subtitle": " · Northern Circuit",
+      "keywords": "Tongoni Ruins are situated 21km South of Tanga City along Tanga - Pangani road. The Ruins are surrounded with baobab trees and stand of Mang",
+      "search": "tongoni ruins, tanga  · northern circuit tongoni ruins are situated 21km south of tanga city along tanga - pangani road. the ruins are surrounded with baobab trees and stand of mang safari package"
+    },
+    {
+      "title": "Tung’ande Cave, Kilwa",
+      "url": "safaris/tung-ande-cave-kilwa.html",
+      "type": "Safari Package",
+      "subtitle": " · Oceanic Islands",
+      "keywords": "This cave is well ventilated and easy to visit without using artificial light. The various rooms exhibit amazing shapes created by stalactit",
+      "search": "tung’ande cave, kilwa  · oceanic islands this cave is well ventilated and easy to visit without using artificial light. the various rooms exhibit amazing shapes created by stalactit safari package"
+    },
+    {
+      "title": "Turtle Hatchling, Mafia Island",
+      "url": "safaris/turtle-hatchling-mafia-island.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Between June and September hundreds of baby turtles make their instinctive scramble from the white sandy beaches to the warm Indian Ocean wa",
+      "search": "turtle hatchling, mafia island  · mafia island between june and september hundreds of baby turtles make their instinctive scramble from the white sandy beaches to the warm indian ocean wa safari package"
+    },
+    {
+      "title": "Visit to Hidden Lagoon, Mafia Island",
+      "url": "safaris/visit-to-hidden-lagoon-mafia-island.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Also Known as Kua Lagoon or Blue Lagoon hiding in a marine park, a beautiful lake, this is the best secret of the Mafia Island. The blue lag",
+      "search": "visit to hidden lagoon, mafia island  · mafia island also known as kua lagoon or blue lagoon hiding in a marine park, a beautiful lake, this is the best secret of the mafia island. the blue lag safari package"
+    },
+    {
+      "title": "Whale Sharks Snorkeling",
+      "url": "safaris/whale-sharks-snorkeling.html",
+      "type": "Safari Package",
+      "subtitle": " · Mafia Island",
+      "keywords": "Snorkeling or Swimming with whale sharks is one of the best experiences Mafia Island has to offer. Whale Sharks are the largest fish in the ",
+      "search": "whale sharks snorkeling  · mafia island snorkeling or swimming with whale sharks is one of the best experiences mafia island has to offer. whale sharks are the largest fish in the  safari package"
+    },
+    {
+      "title": "Luxury Lodges",
+      "url": "accommodations/luxury-lodges.html",
+      "type": "Accommodation",
+      "subtitle": "Opulent lodges perched on kopjes and crater rims, offering infinity pools, gourmet dining, and uninterrupted views of th",
+      "keywords": "",
+      "search": "luxury lodges opulent lodges perched on kopjes and crater rims, offering infinity pools, gourmet dining, and uninterrupted views of th accommodation"
+    },
+    {
+      "title": "Tented Camps",
+      "url": "accommodations/tented-camps.html",
+      "type": "Accommodation",
+      "subtitle": "Canvas elegance in the heart of the bush — king-size beds, en-suite bathrooms, and the sounds of the wild just beyond yo",
+      "keywords": "",
+      "search": "tented camps canvas elegance in the heart of the bush — king-size beds, en-suite bathrooms, and the sounds of the wild just beyond yo accommodation"
+    },
+    {
+      "title": "Bush Retreats",
+      "url": "accommodations/bush-retreats.html",
+      "type": "Accommodation",
+      "subtitle": "Intimate, off-grid sanctuaries for those seeking solitude. Star-lit dinners, campfire stories, and complete immersion in",
+      "keywords": "",
+      "search": "bush retreats intimate, off-grid sanctuaries for those seeking solitude. star-lit dinners, campfire stories, and complete immersion in accommodation"
+    },
+    {
+      "title": "Private Villas",
+      "url": "accommodations/private-villas.html",
+      "type": "Accommodation",
+      "subtitle": "Exclusive beachfront villas and private estates — your own slice of paradise with dedicated staff and tailor-made experi",
+      "keywords": "",
+      "search": "private villas exclusive beachfront villas and private estates — your own slice of paradise with dedicated staff and tailor-made experi accommodation"
+    },
+    {
+      "title": "Singita",
+      "url": "accommodations/singita.html",
+      "type": "Safari Lodge",
+      "subtitle": "Tanzania · Ultra-Luxury Lodge Collection",
+      "keywords": "Iconic ultra-luxury lodges and private villas on vast private concessions along the western Serengeti corridor.",
+      "search": "singita tanzania · ultra-luxury lodge collection iconic ultra-luxury lodges and private villas on vast private concessions along the western serengeti corridor. safari lodge"
+    },
+    {
+      "title": "Asilia Africa",
+      "url": "accommodations/asilia-africa.html",
+      "type": "Safari Lodge",
+      "subtitle": "Tanzania · Boutique Safari Camps",
+      "keywords": "Award-winning, low-impact camps and lodges crafted for immersive wildlife encounters across Tanzania and Kenya.",
+      "search": "asilia africa tanzania · boutique safari camps award-winning, low-impact camps and lodges crafted for immersive wildlife encounters across tanzania and kenya. safari lodge"
+    },
+    {
+      "title": "Wilderness",
+      "url": "accommodations/wilderness.html",
+      "type": "Safari Lodge",
+      "subtitle": "Tanzania · Luxury Safari Operator",
+      "keywords": "Conservation-led safaris with exclusive camps in Tanzania's remote southern and western wilderness.",
+      "search": "wilderness tanzania · luxury safari operator conservation-led safaris with exclusive camps in tanzania's remote southern and western wilderness. safari lodge"
+    },
+    {
+      "title": "Elewana Collection",
+      "url": "accommodations/elewana-collection.html",
+      "type": "Safari Lodge",
+      "subtitle": "Tanzania · Classic Safari Lodges",
+      "keywords": "Elegant lodges and tented camps spanning Tanzania's northern circuit, from coffee estates to baobab-dotted plains.",
+      "search": "elewana collection tanzania · classic safari lodges elegant lodges and tented camps spanning tanzania's northern circuit, from coffee estates to baobab-dotted plains. safari lodge"
+    },
+    {
+      "title": "Serena Safari Lodges",
+      "url": "accommodations/serena-safari-lodges.html",
+      "type": "Safari Lodge",
+      "subtitle": "Tanzania · Safari Lodge Group",
+      "keywords": "Established safari lodges blending East African heritage architecture with reliable comfort on the northern circuit.",
+      "search": "serena safari lodges tanzania · safari lodge group established safari lodges blending east african heritage architecture with reliable comfort on the northern circuit. safari lodge"
+    },
+    {
+      "title": "Lemala Camps & Lodges",
+      "url": "accommodations/lemala-camps.html",
+      "type": "Safari Lodge",
+      "subtitle": "Tanzania · Seasonal Tented Camps",
+      "keywords": "Intimate seasonal camps positioned for migration viewing, plus a permanent lodge on the Ngorongoro rim.",
+      "search": "lemala camps & lodges tanzania · seasonal tented camps intimate seasonal camps positioned for migration viewing, plus a permanent lodge on the ngorongoro rim. safari lodge"
+    },
+    {
+      "title": "Sanctuary Retreats",
+      "url": "accommodations/sanctuary-retreats.html",
+      "type": "Safari Lodge",
+      "subtitle": "Tanzania · Boutique Safari Collection",
+      "keywords": "Boutique camps and lodges with personalised service, from crater highlands to private Serengeti concessions.",
+      "search": "sanctuary retreats tanzania · boutique safari collection boutique camps and lodges with personalised service, from crater highlands to private serengeti concessions. safari lodge"
+    },
+    {
+      "title": "Tanganyika Wilderness Camps",
+      "url": "accommodations/tanganyika-wilderness-camps.html",
+      "type": "Safari Lodge",
+      "subtitle": "Tanzania · Remote Bush Camps",
+      "keywords": "Owner-operated camps in Tanzania's wildest western parks — Katavi, Mahale and Gombe.",
+      "search": "tanganyika wilderness camps tanzania · remote bush camps owner-operated camps in tanzania's wildest western parks — katavi, mahale and gombe. safari lodge"
+    },
+    {
+      "title": "&Beyond",
+      "url": "accommodations/andbeyond.html",
+      "type": "Safari Lodge",
+      "subtitle": "Tanzania · Ultra-Luxury Safari Operator",
+      "keywords": "Globally acclaimed ultra-luxury lodges and private islands delivering exceptional guiding and conservation impact.",
+      "search": "&beyond tanzania · ultra-luxury safari operator globally acclaimed ultra-luxury lodges and private islands delivering exceptional guiding and conservation impact. safari lodge"
+    },
+    {
+      "title": "Great Plains Conservation",
+      "url": "accommodations/great-plains-conservation.html",
+      "type": "Safari Lodge",
+      "subtitle": "Tanzania · Conservation Luxury",
+      "keywords": "Conservation-first luxury camps founded by filmmakers, offering intimate stays on private conservancies.",
+      "search": "great plains conservation tanzania · conservation luxury conservation-first luxury camps founded by filmmakers, offering intimate stays on private conservancies. safari lodge"
+    },
+    {
+      "title": "Nomad Tanzania",
+      "url": "accommodations/nomad-tanzania.html",
+      "type": "Safari Lodge",
+      "subtitle": "Tanzania · Boutique Tented Camps",
+      "keywords": "Characterful seasonal camps with exceptional locations and a genuine, unpretentious safari atmosphere.",
+      "search": "nomad tanzania tanzania · boutique tented camps characterful seasonal camps with exceptional locations and a genuine, unpretentious safari atmosphere. safari lodge"
+    },
+    {
+      "title": "Sopa Lodges",
+      "url": "accommodations/sopa-lodges.html",
+      "type": "Safari Lodge",
+      "subtitle": "Tanzania · Classic Lodge Group",
+      "keywords": "Distinctive thatched lodges in prime park locations, ideal for families and group safaris.",
+      "search": "sopa lodges tanzania · classic lodge group distinctive thatched lodges in prime park locations, ideal for families and group safaris. safari lodge"
+    },
+    {
+      "title": "Governors' Camp Collection",
+      "url": "accommodations/governors-camp.html",
+      "type": "Safari Lodge",
+      "subtitle": "Kenya · Heritage Tented Camps",
+      "keywords": "Legendary Mara riverfront camps with decades of safari heritage on Kenya's finest conservancies.",
+      "search": "governors' camp collection kenya · heritage tented camps legendary mara riverfront camps with decades of safari heritage on kenya's finest conservancies. safari lodge"
+    },
+    {
+      "title": "Sarova Hotels",
+      "url": "accommodations/sarova-hotels.html",
+      "type": "Safari Lodge",
+      "subtitle": "Kenya · Safari Lodge Group",
+      "keywords": "Established Kenyan safari lodges and city hotels with dependable service across premier wildlife areas.",
+      "search": "sarova hotels kenya · safari lodge group established kenyan safari lodges and city hotels with dependable service across premier wildlife areas. safari lodge"
+    },
+    {
+      "title": "Porini Camps",
+      "url": "accommodations/porini-camps.html",
+      "type": "Safari Lodge",
+      "subtitle": "Kenya · Eco Safari Camps",
+      "keywords": "Low-impact eco-camps on private conservancies with exclusive game viewing and community partnerships.",
+      "search": "porini camps kenya · eco safari camps low-impact eco-camps on private conservancies with exclusive game viewing and community partnerships. safari lodge"
+    },
+    {
+      "title": "Heritage Hotels Kenya",
+      "url": "accommodations/heritage-hotels-kenya.html",
+      "type": "Safari Lodge",
+      "subtitle": "Kenya · Heritage Safari Lodges",
+      "keywords": "Historic properties including Mount Kenya Safari Club and Mara Intrepids with timeless East African charm.",
+      "search": "heritage hotels kenya kenya · heritage safari lodges historic properties including mount kenya safari club and mara intrepids with timeless east african charm. safari lodge"
+    },
+    {
+      "title": "Volcanoes Safaris",
+      "url": "accommodations/volcanoes-safaris.html",
+      "type": "Safari Lodge",
+      "subtitle": "Uganda · Primate Lodge Collection",
+      "keywords": "Pioneering gorilla and chimpanzee lodge safaris in Uganda and Rwanda's volcanic highlands.",
+      "search": "volcanoes safaris uganda · primate lodge collection pioneering gorilla and chimpanzee lodge safaris in uganda and rwanda's volcanic highlands. safari lodge"
+    },
+    {
+      "title": "Wilderness Rwanda",
+      "url": "accommodations/wilderness-rwanda.html",
+      "type": "Safari Lodge",
+      "subtitle": "Rwanda · Ultra-Luxury Primate Lodges",
+      "keywords": "Architectural masterpieces for gorilla trekking — Bisate Lodge and Magashi Camp in Rwanda's volcanic forests.",
+      "search": "wilderness rwanda rwanda · ultra-luxury primate lodges architectural masterpieces for gorilla trekking — bisate lodge and magashi camp in rwanda's volcanic forests. safari lodge"
+    },
+    {
+      "title": "9 Days Kenya Cultural Tour",
+      "url": "safaris/9-days-kenya-cultural-tour.html",
+      "type": "Safari Package",
+      "subtitle": "9 Days / 8 Nights · Kenya",
+      "keywords": "A classic northern Kenya circuit combining Samburu's Special Five, flamingo-fringed Lake Nakuru, hippo boat rides on Lake Naivasha and the l",
+      "search": "9 days kenya cultural tour 9 days / 8 nights · kenya a classic northern kenya circuit combining samburu's special five, flamingo-fringed lake nakuru, hippo boat rides on lake naivasha and the l safari package"
+    },
+    {
+      "title": "5 Days Masai Mara Safari",
+      "url": "safaris/5-days-kenya-mara-safari.html",
+      "type": "Safari Package",
+      "subtitle": "5 Days / 4 Nights · Kenya",
+      "keywords": "Five days in the Masai Mara - Kenya's most celebrated reserve - with extended game drives across rolling grasslands, the Mara River and acac",
+      "search": "5 days masai mara safari 5 days / 4 nights · kenya five days in the masai mara - kenya's most celebrated reserve - with extended game drives across rolling grasslands, the mara river and acac safari package"
+    },
+    {
+      "title": "3 Days Amboseli Lodge Safari",
+      "url": "safaris/3-days-amboseli-safari.html",
+      "type": "Safari Package",
+      "subtitle": "3 Days / 2 Nights · Kenya",
+      "keywords": "A compact Amboseli safari beneath the snow-capped peak of Kilimanjaro - elephant herds, Observation Hill panoramas and swamp-fringed game dr",
+      "search": "3 days amboseli lodge safari 3 days / 2 nights · kenya a compact amboseli safari beneath the snow-capped peak of kilimanjaro - elephant herds, observation hill panoramas and swamp-fringed game dr safari package"
+    },
+    {
+      "title": "5 Days Uganda Gorilla & Wildlife Safari",
+      "url": "safaris/5-days-uganda-gorilla-wildlife.html",
+      "type": "Safari Package",
+      "subtitle": "5 Days / 4 Nights · Uganda",
+      "keywords": "Track mountain gorillas in Bwindi Impenetrable Forest then descend to Queen Elizabeth National Park for tree-climbing lions, Kazinga Channel",
+      "search": "5 days uganda gorilla & wildlife safari 5 days / 4 nights · uganda track mountain gorillas in bwindi impenetrable forest then descend to queen elizabeth national park for tree-climbing lions, kazinga channel safari package"
+    },
+    {
+      "title": "7 Days Uganda Primates Safari",
+      "url": "safaris/7-days-uganda-primates-safari.html",
+      "type": "Safari Package",
+      "subtitle": "7 Days / 6 Nights · Uganda",
+      "keywords": "Uganda's ultimate primate circuit - mountain gorillas in Bwindi, wild chimpanzees in Kibale Forest and Nile thunder at Murchison Falls with ",
+      "search": "7 days uganda primates safari 7 days / 6 nights · uganda uganda's ultimate primate circuit - mountain gorillas in bwindi, wild chimpanzees in kibale forest and nile thunder at murchison falls with  safari package"
+    },
+    {
+      "title": "4 Days Murchison Falls Safari",
+      "url": "safaris/4-days-murchison-falls-safari.html",
+      "type": "Safari Package",
+      "subtitle": "4 Days / 3 Nights · Uganda",
+      "keywords": "Four days at Uganda's largest park - game drives on the Buligi circuit, boat cruise to the base of Murchison Falls and top-of-the-falls view",
+      "search": "4 days murchison falls safari 4 days / 3 nights · uganda four days at uganda's largest park - game drives on the buligi circuit, boat cruise to the base of murchison falls and top-of-the-falls view safari package"
+    },
+    {
+      "title": "3 Days Rwanda Gorilla Trek",
+      "url": "safaris/3-days-rwanda-gorilla-trek.html",
+      "type": "Safari Package",
+      "subtitle": "3 Days / 2 Nights · Rwanda",
+      "keywords": "The essential Rwanda experience - one hour with a habituated mountain gorilla family in Volcanoes National Park, based in Musanze with drama",
+      "search": "3 days rwanda gorilla trek 3 days / 2 nights · rwanda the essential rwanda experience - one hour with a habituated mountain gorilla family in volcanoes national park, based in musanze with drama safari package"
+    },
+    {
+      "title": "5 Days Rwanda Gorillas & Lake Kivu",
+      "url": "safaris/5-days-rwanda-gorillas-lakes.html",
+      "type": "Safari Package",
+      "subtitle": "5 Days / 4 Nights · Rwanda",
+      "keywords": "Combine a life-changing gorilla trek in the Virungas with lakeside relaxation on Lake Kivu - kayaking, island boat trips and sunset dining i",
+      "search": "5 days rwanda gorillas & lake kivu 5 days / 4 nights · rwanda combine a life-changing gorilla trek in the virungas with lakeside relaxation on lake kivu - kayaking, island boat trips and sunset dining i safari package"
+    },
+    {
+      "title": "6 Days Rwanda Wildlife & Forest Safari",
+      "url": "safaris/6-days-rwanda-wildlife-forest.html",
+      "type": "Safari Package",
+      "subtitle": "6 Days / 5 Nights · Rwanda",
+      "keywords": "Beyond gorillas - Big Five game drives in restored Akagera National Park and chimpanzee tracking with canopy walkway adventures in ancient N",
+      "search": "6 days rwanda wildlife & forest safari 6 days / 5 nights · rwanda beyond gorillas - big five game drives in restored akagera national park and chimpanzee tracking with canopy walkway adventures in ancient n safari package"
+    },
+    {
+      "title": "Kenya Safaris",
+      "url": "kenya.html",
+      "type": "Page",
+      "subtitle": "East Africa · Maasai Mara, Amboseli & Coast",
+      "keywords": "",
+      "search": "kenya safaris east africa · maasai mara, amboseli & coast page"
+    },
+    {
+      "title": "Masai Mara National Reserve",
+      "url": "kenya/masai-mara.html",
+      "type": "Kenya",
+      "subtitle": "Southwest Kenya · Year-round wildlife",
+      "keywords": "Witness the Great Migration and Big Five on Kenya's most iconic savanna.",
+      "search": "masai mara national reserve southwest kenya · year-round wildlife witness the great migration and big five on kenya's most iconic savanna. kenya"
+    },
+    {
+      "title": "Amboseli National Park",
+      "url": "kenya/amboseli.html",
+      "type": "Kenya",
+      "subtitle": "Southern Kenya · Kilimanjaro views",
+      "keywords": "Elephant herds beneath the snow-capped peak of Mount Kilimanjaro.",
+      "search": "amboseli national park southern kenya · kilimanjaro views elephant herds beneath the snow-capped peak of mount kilimanjaro. kenya"
+    },
+    {
+      "title": "Samburu National Reserve",
+      "url": "kenya/samburu.html",
+      "type": "Kenya",
+      "subtitle": "Northern Kenya · Semi-arid wilderness",
+      "keywords": "Unique northern species and Samburu culture on the Ewaso Ng'iro River.",
+      "search": "samburu national reserve northern kenya · semi-arid wilderness unique northern species and samburu culture on the ewaso ng'iro river. kenya"
+    },
+    {
+      "title": "Lake Nakuru National Park",
+      "url": "kenya/lake-nakuru.html",
+      "type": "Kenya",
+      "subtitle": "Great Rift Valley · Birding",
+      "keywords": "Flamingo-fringed soda lake and rhino sanctuary in the Rift Valley.",
+      "search": "lake nakuru national park great rift valley · birding flamingo-fringed soda lake and rhino sanctuary in the rift valley. kenya"
+    },
+    {
+      "title": "Lake Naivasha",
+      "url": "kenya/lake-naivasha.html",
+      "type": "Kenya",
+      "subtitle": "Freshwater lake · Hippos & birdlife",
+      "keywords": "Boat safaris among hippos and fish eagles on a Rift Valley freshwater lake.",
+      "search": "lake naivasha freshwater lake · hippos & birdlife boat safaris among hippos and fish eagles on a rift valley freshwater lake. kenya"
+    },
+    {
+      "title": "Diani Beach",
+      "url": "kenya/diani-beach.html",
+      "type": "Kenya",
+      "subtitle": "South Coast · Beach extension",
+      "keywords": "Powder-white beaches and turquoise waters - the perfect safari finale.",
+      "search": "diani beach south coast · beach extension powder-white beaches and turquoise waters - the perfect safari finale. kenya"
+    },
+    {
+      "title": "Uganda Safaris",
+      "url": "uganda.html",
+      "type": "Page",
+      "subtitle": "East Africa · Gorillas, savannah & Nile adventures",
+      "keywords": "",
+      "search": "uganda safaris east africa · gorillas, savannah & nile adventures page"
+    },
+    {
+      "title": "Bwindi Impenetrable National Park",
+      "url": "uganda/bwindi-impenetrable.html",
+      "type": "Uganda",
+      "subtitle": "Southwest Uganda · Mountain gorilla trekking",
+      "keywords": "Track mountain gorillas in ancient rainforest on the edge of the Rift Valley.",
+      "search": "bwindi impenetrable national park southwest uganda · mountain gorilla trekking track mountain gorillas in ancient rainforest on the edge of the rift valley. uganda"
+    },
+    {
+      "title": "Murchison Falls National Park",
+      "url": "uganda/murchison-falls.html",
+      "type": "Uganda",
+      "subtitle": "Northwest Uganda · Big game & boat safaris",
+      "keywords": "Where the Nile explodes through a narrow gorge amid vast savannah wilderness.",
+      "search": "murchison falls national park northwest uganda · big game & boat safaris where the nile explodes through a narrow gorge amid vast savannah wilderness. uganda"
+    },
+    {
+      "title": "Kibale National Park",
+      "url": "uganda/kibale.html",
+      "type": "Uganda",
+      "subtitle": "Western Uganda · Primate capital",
+      "keywords": "Track wild chimpanzees in East Africa's most diverse primate forest.",
+      "search": "kibale national park western uganda · primate capital track wild chimpanzees in east africa's most diverse primate forest. uganda"
+    },
+    {
+      "title": "Queen Elizabeth National Park",
+      "url": "uganda/queen-elizabeth.html",
+      "type": "Uganda",
+      "subtitle": "Western Uganda · Savanna & waterways",
+      "keywords": "Tree-climbing lions, Kazinga Channel hippos and diverse Rift Valley landscapes.",
+      "search": "queen elizabeth national park western uganda · savanna & waterways tree-climbing lions, kazinga channel hippos and diverse rift valley landscapes. uganda"
+    },
+    {
+      "title": "Kidepo Valley National Park",
+      "url": "uganda/kidepo-valley.html",
+      "type": "Uganda",
+      "subtitle": "Northeast Uganda · Remote wilderness",
+      "keywords": "Dramatic semi-arid valleys and predators in Uganda's most remote park.",
+      "search": "kidepo valley national park northeast uganda · remote wilderness dramatic semi-arid valleys and predators in uganda's most remote park. uganda"
+    },
+    {
+      "title": "Lake Mburo National Park",
+      "url": "uganda/lake-mburo.html",
+      "type": "Uganda",
+      "subtitle": "Western Uganda · Compact savannah",
+      "keywords": "Zebras, impala and lakeside scenery on the road between Kampala and the west.",
+      "search": "lake mburo national park western uganda · compact savannah zebras, impala and lakeside scenery on the road between kampala and the west. uganda"
+    },
+    {
+      "title": "Mgahinga Gorilla National Park",
+      "url": "uganda/mgahinga-gorilla.html",
+      "type": "Uganda",
+      "subtitle": "Southwest Uganda · Gorillas & volcanoes",
+      "keywords": "Gorilla and golden monkey tracking on the slopes of the Virunga volcanoes.",
+      "search": "mgahinga gorilla national park southwest uganda · gorillas & volcanoes gorilla and golden monkey tracking on the slopes of the virunga volcanoes. uganda"
+    },
+    {
+      "title": "Rwenzori Mountains National Park",
+      "url": "uganda/rwenzori-mountains.html",
+      "type": "Uganda",
+      "subtitle": "Western Uganda · Alpine trekking",
+      "keywords": "Snow-capped peaks and Afro-alpine trails on the legendary Mountains of the Moon.",
+      "search": "rwenzori mountains national park western uganda · alpine trekking snow-capped peaks and afro-alpine trails on the legendary mountains of the moon. uganda"
+    },
+    {
+      "title": "Mount Elgon National Park",
+      "url": "uganda/mount-elgon.html",
+      "type": "Uganda",
+      "subtitle": "Eastern Uganda · Hiking & waterfalls",
+      "keywords": "Ancient volcano, Sipi Falls and Bagisu culture at Uganda's eastern frontier.",
+      "search": "mount elgon national park eastern uganda · hiking & waterfalls ancient volcano, sipi falls and bagisu culture at uganda's eastern frontier. uganda"
+    },
+    {
+      "title": "Semuliki National Park",
+      "url": "uganda/semuliki.html",
+      "type": "Uganda",
+      "subtitle": "Western Uganda · Lowland rainforest",
+      "keywords": "Central African rainforest, hot springs and rare forest birds in the Albertine Rift.",
+      "search": "semuliki national park western uganda · lowland rainforest central african rainforest, hot springs and rare forest birds in the albertine rift. uganda"
+    },
+    {
+      "title": "Kampala City",
+      "url": "uganda/kampala.html",
+      "type": "Uganda",
+      "subtitle": "Central Uganda · Culture & commerce",
+      "keywords": "Uganda's vibrant capital - hills, markets, museums and nightlife on Lake Victoria.",
+      "search": "kampala city central uganda · culture & commerce uganda's vibrant capital - hills, markets, museums and nightlife on lake victoria. uganda"
+    },
+    {
+      "title": "Jinja City",
+      "url": "uganda/jinja.html",
+      "type": "Uganda",
+      "subtitle": "Eastern Uganda · Source of the Nile",
+      "keywords": "White-water rafting, bungee jumping and Nile boat rides at the source of the Nile.",
+      "search": "jinja city eastern uganda · source of the nile white-water rafting, bungee jumping and nile boat rides at the source of the nile. uganda"
+    },
+    {
+      "title": "Entebbe",
+      "url": "uganda/entebbe.html",
+      "type": "Uganda",
+      "subtitle": "Central Uganda · Gateway town",
+      "keywords": "Lakeside charm, botanical gardens and Uganda's international airport.",
+      "search": "entebbe central uganda · gateway town lakeside charm, botanical gardens and uganda's international airport. uganda"
+    },
+    {
+      "title": "Mbarara City",
+      "url": "uganda/mbarara.html",
+      "type": "Uganda",
+      "subtitle": "Southwest Uganda · Land of milk and honey",
+      "keywords": "Gateway to Lake Mburo and western Uganda's safari circuit.",
+      "search": "mbarara city southwest uganda · land of milk and honey gateway to lake mburo and western uganda's safari circuit. uganda"
+    },
+    {
+      "title": "Mbale City",
+      "url": "uganda/mbale.html",
+      "type": "Uganda",
+      "subtitle": "Eastern Uganda · Mount Elgon gateway",
+      "keywords": "Cool highland town at the foot of Mount Elgon and stunning Sipi Falls.",
+      "search": "mbale city eastern uganda · mount elgon gateway cool highland town at the foot of mount elgon and stunning sipi falls. uganda"
+    },
+    {
+      "title": "Gulu City",
+      "url": "uganda/gulu.html",
+      "type": "Uganda",
+      "subtitle": "Northern Uganda · Acholi heritage",
+      "keywords": "Northern Uganda's cultural hub and base for Murchison Falls and Kidepo safaris.",
+      "search": "gulu city northern uganda · acholi heritage northern uganda's cultural hub and base for murchison falls and kidepo safaris. uganda"
+    },
+    {
+      "title": "Rwanda Safaris",
+      "url": "rwanda.html",
+      "type": "Page",
+      "subtitle": "East Africa · Gorillas, rainforest & Lake Kivu",
+      "keywords": "",
+      "search": "rwanda safaris east africa · gorillas, rainforest & lake kivu page"
+    },
+    {
+      "title": "Volcanoes National Park",
+      "url": "rwanda/volcanoes.html",
+      "type": "Rwanda",
+      "subtitle": "Northwest Rwanda · Virunga Mountains",
+      "keywords": "Track mountain gorillas in the rainforest of the Virunga volcanoes.",
+      "search": "volcanoes national park northwest rwanda · virunga mountains track mountain gorillas in the rainforest of the virunga volcanoes. rwanda"
+    },
+    {
+      "title": "Akagera National Park",
+      "url": "rwanda/akagera.html",
+      "type": "Rwanda",
+      "subtitle": "Eastern Rwanda · Savanna & wetlands",
+      "keywords": "Savannah, woodland and lakes where lions and rhinos roam again.",
+      "search": "akagera national park eastern rwanda · savanna & wetlands savannah, woodland and lakes where lions and rhinos roam again. rwanda"
+    },
+    {
+      "title": "Nyungwe National Park",
+      "url": "rwanda/nyungwe.html",
+      "type": "Rwanda",
+      "subtitle": "Southwest Rwanda · Ancient forest",
+      "keywords": "One of Africa's oldest rainforests - chimps, monkeys and a canopy walkway.",
+      "search": "nyungwe national park southwest rwanda · ancient forest one of africa's oldest rainforests - chimps, monkeys and a canopy walkway. rwanda"
+    },
+    {
+      "title": "Gishwati Mukura National Park",
+      "url": "rwanda/gishwati-mukura.html",
+      "type": "Rwanda",
+      "subtitle": "Western Rwanda · Restored forest",
+      "keywords": "Rwanda's newest park - chimpanzees and golden monkeys in restored forest.",
+      "search": "gishwati mukura national park western rwanda · restored forest rwanda's newest park - chimpanzees and golden monkeys in restored forest. rwanda"
+    },
+    {
+      "title": "Kigali",
+      "url": "rwanda/kigali.html",
+      "type": "Rwanda",
+      "subtitle": "Central Rwanda · Clean, safe & cosmopolitan",
+      "keywords": "Rwanda's immaculate capital - museums, markets and world-class dining.",
+      "search": "kigali central rwanda · clean, safe & cosmopolitan rwanda's immaculate capital - museums, markets and world-class dining. rwanda"
+    },
+    {
+      "title": "Nyanza",
+      "url": "rwanda/nyanza.html",
+      "type": "Rwanda",
+      "subtitle": "Southern Rwanda · King's Palace",
+      "keywords": "Home to the King's Palace - a beautifully crafted traditional royal residence.",
+      "search": "nyanza southern rwanda · king's palace home to the king's palace - a beautifully crafted traditional royal residence. rwanda"
+    },
+    {
+      "title": "Huye",
+      "url": "rwanda/huye.html",
+      "type": "Rwanda",
+      "subtitle": "Southern Rwanda · University town",
+      "keywords": "Southern Rwanda's intellectual and cultural centre, gateway to Nyungwe Forest.",
+      "search": "huye southern rwanda · university town southern rwanda's intellectual and cultural centre, gateway to nyungwe forest. rwanda"
+    },
+    {
+      "title": "Rubavu",
+      "url": "rwanda/rubavu.html",
+      "type": "Rwanda",
+      "subtitle": "Western Rwanda · Lakeside resort",
+      "keywords": "Waterfront town on Lake Kivu with sandy beaches and tropical ease.",
+      "search": "rubavu western rwanda · lakeside resort waterfront town on lake kivu with sandy beaches and tropical ease. rwanda"
+    },
+    {
+      "title": "Karongi",
+      "url": "rwanda/karongi.html",
+      "type": "Rwanda",
+      "subtitle": "Western Rwanda · Scenic lakeside",
+      "keywords": "Palm-fringed Lake Kivu shores and island boat trips from a peaceful resort town.",
+      "search": "karongi western rwanda · scenic lakeside palm-fringed lake kivu shores and island boat trips from a peaceful resort town. rwanda"
+    },
+    {
+      "title": "Musanze",
+      "url": "rwanda/musanze.html",
+      "type": "Rwanda",
+      "subtitle": "Northern Rwanda · Gorilla trekking base",
+      "keywords": "Gateway town to Volcanoes National Park and the Virunga foothills.",
+      "search": "musanze northern rwanda · gorilla trekking base gateway town to volcanoes national park and the virunga foothills. rwanda"
+    },
+    {
+      "title": "Rusizi",
+      "url": "rwanda/rusizi.html",
+      "type": "Rwanda",
+      "subtitle": "Southwest Rwanda · Border town",
+      "keywords": "Border town and practical base for self-drive visitors to Nyungwe National Park.",
+      "search": "rusizi southwest rwanda · border town border town and practical base for self-drive visitors to nyungwe national park. rwanda"
+    },
+    {
+      "title": "Kibeho",
+      "url": "rwanda/kibeho.html",
+      "type": "Rwanda",
+      "subtitle": "Southern Rwanda · Marian shrine",
+      "keywords": "Rwanda's sacred pilgrimage site in the hills of the southern province.",
+      "search": "kibeho southern rwanda · marian shrine rwanda's sacred pilgrimage site in the hills of the southern province. rwanda"
+    },
+    {
+      "title": "Lake Kivu",
+      "url": "rwanda/lake-kivu.html",
+      "type": "Rwanda",
+      "subtitle": "Western Rwanda · Freshwater paradise",
+      "keywords": "Africa's sixth-largest lake - beaches, islands and terraced hillsides.",
+      "search": "lake kivu western rwanda · freshwater paradise africa's sixth-largest lake - beaches, islands and terraced hillsides. rwanda"
+    }
+  ]
+}

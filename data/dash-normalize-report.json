@@ -1,0 +1,22 @@
+{
+  "files": 4,
+  "replacements": 14,
+  "hits": [
+    [
+      "data/destinations.json",
+      2
+    ],
+    [
+      "data/search-index.json",
+      8
+    ],
+    [
+      "data/tanzania-core.json",
+      2
+    ],
+    [
+      "destinations/zanzibar.html",
+      2
+    ]
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "experiences": [
+    {
+      "id": "game-drives",
+      "title": "Game Drives",
+      "tab": "Game Drives",
+      "icon": "fa-binoculars",
+      "desc": "Private 4x4 safaris with expert guides across Tanzania's finest parks and reserves.",
+      "highlights": [
+        "Serengeti & Ngorongoro",
+        "Ruaha & Nyerere",
+        "Private guide & vehicle",
+        "Big Five focus"
+      ],
+      "alt": "Safari game drive on the Serengeti plains",
+      "image": "assets/images/Serengeti-National-Park-1-1.jpg",
+      "signature": true
+    },
+    {
+      "id": "hiking-walking",
+      "title": "Hiking & Walking",
+      "tab": "Hiking",
+      "icon": "fa-person-hiking",
+      "desc": "Guided bush walks and scenic trails through untamed landscapes and highland forests.",
+      "highlights": [
+        "Usambara trails",
+        "Ngorongoro highlands",
+        "Udzungwa rainforest",
+        "Guided bush walks"
+      ],
+      "alt": "Walking safari in Tanzania",
+      "image": "assets/images/walking and hiking.jpg",
+      "signature": true
+    },
+    {
+      "id": "beach-holidays",
+      "title": "Beach Holidays",
+      "tab": "Beach",
+      "icon": "fa-umbrella-beach",
+      "desc": "Pristine Indian Ocean coastlines paired with your safari adventure.",
+      "highlights": [
+        "Zanzibar & Pemba",
+        "Mafia archipelago",
+        "Resort & villa stays",
+        "Bush-to-beach combos"
+      ],
+      "alt": "Beach holiday on the Tanzanian coast",
+      "image": "assets/images/beach holiday.jpg",
+      "signature": true
+    },
+    {
+      "id": "balloon-safaris",
+      "title": "Balloon Safaris",
+      "tab": "Balloon",
+      "icon": "fa-cloud-sun",
+      "desc": "Sunrise flights over the Serengeti — a once-in-a-lifetime perspective on the plains.",
+      "highlights": [
+        "Dawn launch",
+        "Champagne breakfast",
+        "Migration views",
+        "Serengeti only"
+      ],
+      "alt": "Hot air balloon safari at sunrise",
+      "image": "assets/images/baloon safari.jpg",
+      "signature": true
+    },
+    {
+      "id": "family-adventures",
+      "title": "Family Adventures",
+      "tab": "Family",
+      "icon": "fa-people-group",
+      "desc": "Safe, engaging itineraries designed for families of all ages across every circuit.",
+      "highlights": [
+        "Child-friendly lodges",
+        "Shorter drives",
+        "Beach add-ons",
+        "Educational guides"
+      ],
+      "alt": "Family on safari in Tanzania",
+      "image": "assets/images/family adventures2.jpg",
+      "signature": true
+    },
+    {
+      "id": "camping-safaris",
+      "title": "Camping Safaris",
+      "tab": "Camping",
+      "icon": "fa-campground",
+      "desc": "Authentic bush camps with luxury comfort beneath the African stars.",
+      "highlights": [
+        "Mobile camps",
+        "Fly-camping",
+        "Bush dinners",
+        "Remote wilderness"
+      ],
+      "alt": "Luxury tented camp under African stars",
+      "image": "assets/images/camping safari.jpg",
+      "signature": true
+    },
+    {
+      "id": "culture-tours",
+      "title": "Culture Tours",
+      "tab": "Culture",
+      "icon": "fa-masks-theater",
+      "desc": "Maasai villages, Stone Town heritage and living traditions across Tanzania.",
+      "highlights": [
+        "Maasai bomas",
+        "Hadzabe visits",
+        "Swahili coast",
+        "Craft workshops"
+      ],
+      "alt": "Maasai cultural experience",
+      "image": "assets/images/masai.jpg",
+      "signature": true
+    },
+    {
+      "id": "nature-photography",
+      "title": "Nature Photography",
+      "tab": "Photography",
+      "icon": "fa-camera",
+      "desc": "Specialist photo safaris with prime wildlife viewing positions and golden-hour timing.",
+      "highlights": [
+        "Private vehicle",
+        "Hide sessions",
+        "Migration camps",
+        "Pro tips"
+      ],
+      "alt": "Wildlife photography on safari",
+      "image": "assets/images/serengeti.jpg",
+      "signature": true
+    },
+    {
+      "id": "honeymoon",
+      "title": "Honeymoon Safaris",
+      "tab": "Honeymoon",
+      "icon": "fa-heart",
+      "desc": "Romantic bush retreats and private beach escapes crafted for two.",
+      "highlights": [
+        "Private dinners",
+        "Bush & beach",
+        "Luxury lodges",
+        "Surprise touches"
+      ],
+      "alt": "Romantic honeymoon sundowner safari",
+      "image": "assets/images/honeymoon safari.jpg",
+      "signature": true
+    },
+    {
+      "id": "sport-fishing",
+      "title": "Sport Fishing",
+      "tab": "Fishing",
+      "icon": "fa-fish",
+      "desc": "Deep-sea and lake fishing adventures along Tanzania's coasts and Rift Valley lakes.",
+      "highlights": [
+        "Deep-sea charters",
+        "Lake Victoria",
+        "Billfish season",
+        "Catch & release"
+      ],
+      "alt": "Sport fishing in Tanzania",
+      "image": "assets/images/sport fishing.jpg",
+      "signature": true
+    },
+    {
+      "id": "museum-monuments",
+      "title": "Museums & Monuments",
+      "tab": "Museums",
+      "icon": "fa-building-columns",
+      "desc": "Explore Stone Town palaces, Bagamoyo slave-trade sites and Tanzania's living museum heritage.",
+      "highlights": [
+        "House of Wonders",
+        "Bagamoyo Old Fort",
+        "Chief Mkwawa museum",
+        "Guided tours"
+      ],
+      "alt": "House of Wonders museum in Stone Town Zanzibar",
+      "image": "assets/images/experiences/museum-monuments.jpg"
+    },
+    {
+      "id": "boat-safaris",
+      "title": "Boat Safaris",
+      "tab": "Boat Safari",
+      "icon": "fa-ship",
+      "desc": "Glide along the Rufiji, Wami and Lake Tanganyika shorelines for hippos, crocodiles and birdlife.",
+      "highlights": [
+        "Nyerere NP",
+        "Saadani estuary",
+        "Rufiji River",
+        "Sunset cruises"
+      ],
+      "alt": "Boat safari on the Rufiji River in Nyerere National Park",
+      "image": "assets/images/experiences/boat-safaris.jpg"
+    },
+    {
+      "id": "spice-farms",
+      "title": "Spice Farm Tours",
+      "tab": "Spice Farm",
+      "icon": "fa-leaf",
+      "desc": "Walk fragrant clove, vanilla and cinnamon plantations on Zanzibar and Pemba.",
+      "highlights": [
+        "Zanzibar farms",
+        "Pemba cloves",
+        "Tasting sessions",
+        "Village guides"
+      ],
+      "alt": "Fresh nutmeg on a Zanzibar spice farm tour",
+      "image": "assets/images/experiences/spice-farms.jpg"
+    },
+    {
+      "id": "historical-visits",
+      "title": "Historical Visits",
+      "tab": "History",
+      "icon": "fa-landmark",
+      "desc": "UNESCO ruins, slave-trade heritage and Swahili trading towns along the coast.",
+      "highlights": [
+        "Kilwa Kisiwani",
+        "Bagamoyo",
+        "Stone Town",
+        "Songo Mnara"
+      ],
+      "alt": "Historic Sultan's Palace ruins at Kilwa Kisiwani",
+      "image": "assets/images/experiences/historical-visits.jpg"
+    },
+    {
+      "id": "city-tours",
+      "title": "City Tours",
+      "tab": "City",
+      "icon": "fa-city",
+      "desc": "Explore Dar es Salaam, Arusha and Zanzibar Stone Town with local expert guides.",
+      "highlights": [
+        "Stone Town walk",
+        "Dar harbour",
+        "Local markets",
+        "Architecture & food"
+      ],
+      "alt": "Stone Town Zanzibar city tour",
+      "image": "assets/images/experiences/city-tours.jpg"
+    },
+    {
+      "id": "hot-springs",
+      "title": "Hot Springs & Geothermal Pools",
+      "tab": "Hot Spring",
+      "icon": "fa-hot-tub-person",
+      "desc": "Swim in crystal-clear geothermal pools at Chemka and Rundugai — perfect rest after a Kilimanjaro trek or northern safari.",
+      "highlights": [
+        "Chemka oasis",
+        "Rundugai springs",
+        "Turquoise pools",
+        "Moshi day trips"
+      ],
+      "alt": "Chemka hot springs near Kilimanjaro",
+      "image": "assets/images/experiences/hot-springs.jpg"
+    },
+    {
+      "id": "whale-watching",
+      "title": "Whale Watching",
+      "tab": "Whale",
+      "icon": "fa-water",
+      "desc": "Seasonal humpback whale encounters off the southern coast and Mafia Island.",
+      "highlights": [
+        "Jul–Oct season",
+        "Mafia & Kilwa coast",
+        "Boat excursions",
+        "Marine naturalists"
+      ],
+      "alt": "Humpback whale off Mafia Island",
+      "image": "assets/images/experiences/whale-watching.jpg"
+    },
+    {
+      "id": "dhow-cruises",
+      "title": "Dhow Cruises",
+      "tab": "Dhow Cruises",
+      "icon": "fa-ship",
+      "desc": "Traditional wooden dhow sails at sunset along Zanzibar, Kilwa and the Swahili coast.",
+      "highlights": [
+        "Sunset cruises",
+        "Safari Blue",
+        "Stone Town harbour",
+        "Island hopping"
+      ],
+      "alt": "Traditional dhow sunset cruise in Zanzibar",
+      "image": "assets/images/experiences/dhow-cruises.jpg"
+    }
+  ]
+}

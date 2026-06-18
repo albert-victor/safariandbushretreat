@@ -1,0 +1,354 @@
+{
+  "source": "Safari and Bush Retreats curated Kenya, Uganda & Rwanda itineraries",
+  "packages": [
+    {
+      "slug": "9-days-kenya-cultural-tour",
+      "name": "9 Days Kenya Cultural Tour",
+      "circuit": "Kenya",
+      "days": 9,
+      "nights": 8,
+      "duration": "9 Days / 8 Nights",
+      "price": "$4,490",
+      "priceRange": "$4,200 - $5,200",
+      "overview": "A classic northern Kenya circuit combining Samburu's Special Five, flamingo-fringed Lake Nakuru, hippo boat rides on Lake Naivasha and the legendary Masai Mara - with authentic Maasai and Samburu cultural encounters.",
+      "highlights": [
+        "Samburu Special Five on the Ewaso Ng'iro",
+        "Lake Nakuru rhino sanctuary",
+        "Lake Naivasha boat safari",
+        "Masai Mara Big Five game drives",
+        "Maasai village visit"
+      ],
+      "activities": [
+        "Game drives",
+        "Boat safari",
+        "Cultural village visits",
+        "Bird watching"
+      ],
+      "destinations": [
+        "Samburu National Reserve",
+        "Lake Nakuru National Park",
+        "Lake Naivasha",
+        "Masai Mara National Reserve"
+      ],
+      "destinationSlugs": ["samburu", "lake-nakuru", "lake-naivasha", "masai-mara"],
+      "features": [
+        "Samburu Special Five wildlife",
+        "Flamingos & rhinos at Lake Nakuru",
+        "Hippo boat ride on Naivasha",
+        "Masai Mara game drives",
+        "Private 4x4 safari vehicle"
+      ],
+      "itinerary": [
+        {"day": 1, "title": "Nairobi to Samburu", "summary": "Drive north to Samburu - afternoon game drive along the Ewaso Ng'iro River."},
+        {"day": 2, "title": "Full day Samburu", "summary": "Search for Grevy's zebra, reticulated giraffe and leopard in northern wilderness."},
+        {"day": 3, "title": "Samburu to Lake Nakuru", "summary": "Descend the Rift Valley to Lake Nakuru for rhino and flamingo viewing."},
+        {"day": 4, "title": "Nakuru to Lake Naivasha", "summary": "Morning game drive - transfer to Naivasha for afternoon boat safari among hippos."},
+        {"day": 5, "title": "Naivasha to Masai Mara", "summary": "Scenic drive to the Mara - sunset game drive on the savanna."},
+        {"day": 6, "title": "Full day Masai Mara", "summary": "Full-day game drives - lion, cheetah, elephant and the Mara River ecosystem."},
+        {"day": 7, "title": "Mara exploration", "summary": "Optional balloon safari at dawn - continue predator and plains game viewing."},
+        {"day": 8, "title": "Mara cultural visit", "summary": "Morning game drive - Maasai village visit and farewell bush dinner."},
+        {"day": 9, "title": "Return to Nairobi", "summary": "Sunrise drive - return to Nairobi for departure."}
+      ],
+      "hero": "external/kenya/jasper-gribble-IZIJdYq6elY-unsplash-scaled.jpg",
+      "featured": true
+    },
+    {
+      "slug": "5-days-kenya-mara-safari",
+      "name": "5 Days Masai Mara Safari",
+      "circuit": "Kenya",
+      "days": 5,
+      "nights": 4,
+      "duration": "5 Days / 4 Nights",
+      "price": "$1,850",
+      "priceRange": "$1,650 - $2,400",
+      "overview": "Five days in the Masai Mara - Kenya's most celebrated reserve - with extended game drives across rolling grasslands, the Mara River and acacia woodland for lion, cheetah, elephant and seasonal migration herds.",
+      "highlights": [
+        "Multiple full-day Mara game drives",
+        "Mara River wildlife corridor",
+        "Big Five safari",
+        "Optional hot air balloon",
+        "Bush lodge accommodation"
+      ],
+      "activities": ["Game drives", "Bush breakfast", "Maasai village visit", "Photography safari"],
+      "destinations": ["Masai Mara National Reserve"],
+      "destinationSlugs": ["masai-mara"],
+      "features": [
+        "4 nights inside the Mara ecosystem",
+        "Expert Maasai guide",
+        "Private 4x4 vehicle",
+        "All park fees included",
+        "Migration season option (Jul-Oct)"
+      ],
+      "itinerary": [
+        {"day": 1, "title": "Nairobi to Masai Mara", "summary": "Drive or fly to the Mara - afternoon game drive."},
+        {"day": 2, "title": "Full day Mara", "summary": "Explore the central plains and predator territories."},
+        {"day": 3, "title": "Mara River sector", "summary": "Game drive toward the Mara River - hippo and crocodile viewing."},
+        {"day": 4, "title": "Deep Mara exploration", "summary": "Full-day drive to remote corners - cheetah and lion tracking."},
+        {"day": 5, "title": "Morning drive & return", "summary": "Sunrise game drive - return to Nairobi."}
+      ],
+      "hero": "masai mara park.jpg",
+      "featured": true
+    },
+    {
+      "slug": "3-days-amboseli-safari",
+      "name": "3 Days Amboseli Lodge Safari",
+      "circuit": "Kenya",
+      "days": 3,
+      "nights": 2,
+      "duration": "3 Days / 2 Nights",
+      "price": "$670",
+      "priceRange": "$600 - $900",
+      "overview": "A compact Amboseli safari beneath the snow-capped peak of Kilimanjaro - elephant herds, Observation Hill panoramas and swamp-fringed game drives in southern Kenya.",
+      "highlights": [
+        "Elephants beneath Kilimanjaro",
+        "Observation Hill viewpoint",
+        "Swamp and acacia game drives",
+        "Over 400 bird species",
+        "Lodge accommodation"
+      ],
+      "activities": ["Game drives", "Bird watching", "Photography", "Sundowner drives"],
+      "destinations": ["Amboseli National Park"],
+      "destinationSlugs": ["amboseli"],
+      "features": [
+        "Kilimanjaro backdrop photography",
+        "Large elephant herds",
+        "Private safari vehicle",
+        "Ideal Tanzania add-on",
+        "Short Nairobi escape"
+      ],
+      "itinerary": [
+        {"day": 1, "title": "Nairobi to Amboseli", "summary": "Drive to Amboseli - afternoon game drive with Kilimanjaro views."},
+        {"day": 2, "title": "Full day Amboseli", "summary": "Morning and afternoon drives - elephants, lion and Observation Hill."},
+        {"day": 3, "title": "Return to Nairobi", "summary": "Sunrise game drive - return to Nairobi."}
+      ],
+      "hero": "external/kenya/wolfgang-hasselmann-czm3hOW1mMk-unsplash-scaled.jpg",
+      "featured": false
+    },
+    {
+      "slug": "5-days-uganda-gorilla-wildlife",
+      "name": "5 Days Uganda Gorilla & Wildlife Safari",
+      "circuit": "Uganda",
+      "days": 5,
+      "nights": 4,
+      "duration": "5 Days / 4 Nights",
+      "price": "$2,850",
+      "priceRange": "$2,600 - $3,400",
+      "overview": "Track mountain gorillas in Bwindi Impenetrable Forest then descend to Queen Elizabeth National Park for tree-climbing lions, Kazinga Channel boat cruises and classic Ugandan savannah wildlife.",
+      "highlights": [
+        "Mountain gorilla trekking permit",
+        "Bwindi rainforest trek",
+        "Queen Elizabeth game drives",
+        "Kazinga Channel boat cruise",
+        "Ishasha tree-climbing lions"
+      ],
+      "activities": ["Gorilla trekking", "Game drives", "Boat cruise", "Bird watching"],
+      "destinations": ["Bwindi Impenetrable National Park", "Queen Elizabeth National Park"],
+      "destinationSlugs": ["bwindi-impenetrable", "queen-elizabeth"],
+      "features": [
+        "Gorilla permit included",
+        "Private 4x4 safari vehicle",
+        "Forest and savannah contrast",
+        "Expert Uganda guide",
+        "Lodge accommodation"
+      ],
+      "itinerary": [
+        {"day": 1, "title": "Entebbe to Bwindi", "summary": "Fly or drive to Bwindi - briefing and lodge check-in."},
+        {"day": 2, "title": "Gorilla trekking", "summary": "Guided trek to habituated mountain gorilla family in Bwindi."},
+        {"day": 3, "title": "Bwindi to Queen Elizabeth", "summary": "Transfer to Queen Elizabeth - afternoon game drive."},
+        {"day": 4, "title": "Kazinga Channel & Ishasha", "summary": "Morning boat cruise - afternoon Ishasha lion search."},
+        {"day": 5, "title": "Return to Entebbe", "summary": "Morning game drive - return to Entebbe."}
+      ],
+      "hero": "external/uganda/bwindi-impenetrable.jpg",
+      "featured": true
+    },
+    {
+      "slug": "7-days-uganda-primates-safari",
+      "name": "7 Days Uganda Primates Safari",
+      "circuit": "Uganda",
+      "days": 7,
+      "nights": 6,
+      "duration": "7 Days / 6 Nights",
+      "price": "$3,950",
+      "priceRange": "$3,600 - $4,800",
+      "overview": "Uganda's ultimate primate circuit - mountain gorillas in Bwindi, wild chimpanzees in Kibale Forest and Nile thunder at Murchison Falls with game drives and boat cruise on the Victoria Nile.",
+      "highlights": [
+        "Gorilla & chimpanzee tracking",
+        "Kibale primate forest walks",
+        "Murchison Falls boat cruise",
+        "Top of the Falls viewpoint",
+        "Big game on the Nile delta"
+      ],
+      "activities": ["Gorilla trekking", "Chimpanzee tracking", "Game drives", "Boat cruise"],
+      "destinations": [
+        "Bwindi Impenetrable National Park",
+        "Kibale National Park",
+        "Murchison Falls National Park"
+      ],
+      "destinationSlugs": ["bwindi-impenetrable", "kibale", "murchison-falls"],
+      "features": [
+        "Two primate tracking permits",
+        "Murchison Falls experience",
+        "Private guide throughout",
+        "Varied landscapes",
+        "Best of western Uganda"
+      ],
+      "itinerary": [
+        {"day": 1, "title": "Entebbe to Murchison", "summary": "Drive north via Ziwa Rhino Sanctuary - afternoon Nile game drive."},
+        {"day": 2, "title": "Murchison Falls", "summary": "Morning game drive - boat to the base of the Falls."},
+        {"day": 3, "title": "Murchison to Kibale", "summary": "Drive south through the Rift Valley to Kibale Forest."},
+        {"day": 4, "title": "Chimpanzee tracking", "summary": "Morning chimp trek - afternoon Bigodi Wetland bird walk."},
+        {"day": 5, "title": "Kibale to Bwindi", "summary": "Scenic drive through the Albertine Rift to Bwindi."},
+        {"day": 6, "title": "Gorilla trekking", "summary": "Full-day mountain gorilla trek in Bwindi Impenetrable Forest."},
+        {"day": 7, "title": "Return to Entebbe", "summary": "Drive or fly back to Entebbe for departure."}
+      ],
+      "hero": "external/uganda/kibale.jpg",
+      "featured": true
+    },
+    {
+      "slug": "4-days-murchison-falls-safari",
+      "name": "4 Days Murchison Falls Safari",
+      "circuit": "Uganda",
+      "days": 4,
+      "nights": 3,
+      "duration": "4 Days / 3 Nights",
+      "price": "$1,450",
+      "priceRange": "$1,300 - $1,800",
+      "overview": "Four days at Uganda's largest park - game drives on the Buligi circuit, boat cruise to the base of Murchison Falls and top-of-the-falls viewpoint where the Nile explodes through a narrow gorge.",
+      "highlights": [
+        "Murchison Falls boat cruise",
+        "Top of the Falls viewpoint",
+        "Buligi game drives",
+        "Elephant, lion and hippo",
+        "Nile delta birdlife"
+      ],
+      "activities": ["Game drives", "Boat cruise", "Sport fishing option", "Bird watching"],
+      "destinations": ["Murchison Falls National Park"],
+      "destinationSlugs": ["murchison-falls"],
+      "features": [
+        "Uganda's largest national park",
+        "Nile boat safari included",
+        "Big game on the savanna",
+        "Short accessible itinerary",
+        "Ideal first Uganda safari"
+      ],
+      "itinerary": [
+        {"day": 1, "title": "Kampala to Murchison", "summary": "Drive north - afternoon game drive on the northern bank."},
+        {"day": 2, "title": "Falls boat cruise", "summary": "Morning game drive - afternoon boat to the base of the Falls."},
+        {"day": 3, "title": "Delta & top of Falls", "summary": "Delta game drive - visit top of the Falls viewpoint."},
+        {"day": 4, "title": "Return to Kampala", "summary": "Sunrise drive - return to Kampala or Entebbe."}
+      ],
+      "hero": "external/uganda/murchison-falls.jpg",
+      "featured": false
+    },
+    {
+      "slug": "3-days-rwanda-gorilla-trek",
+      "name": "3 Days Rwanda Gorilla Trek",
+      "circuit": "Rwanda",
+      "days": 3,
+      "nights": 2,
+      "duration": "3 Days / 2 Nights",
+      "price": "$1,950",
+      "priceRange": "$1,800 - $2,500",
+      "overview": "The essential Rwanda experience - one hour with a habituated mountain gorilla family in Volcanoes National Park, based in Musanze with dramatic Virunga volcano views.",
+      "highlights": [
+        "Volcanoes gorilla permit",
+        "Mountain gorilla family encounter",
+        "Musanze volcano backdrop",
+        "Kigali city transfer",
+        "Expert tracker guides"
+      ],
+      "activities": ["Gorilla tracking", "Forest hiking", "Cultural visit", "Volcano viewpoints"],
+      "destinations": ["Volcanoes National Park", "Musanze"],
+      "destinationSlugs": ["volcanoes", "musanze"],
+      "features": [
+        "Gorilla permit included",
+        "Musanze lodge base",
+        "Kigali round-trip",
+        "Compact luxury option",
+        "Ideal Tanzania/Uganda add-on"
+      ],
+      "itinerary": [
+        {"day": 1, "title": "Kigali to Volcanoes", "summary": "City tour option - drive to Musanze for trek briefing."},
+        {"day": 2, "title": "Gorilla trekking", "summary": "Guided trek to mountain gorillas in Volcanoes National Park."},
+        {"day": 3, "title": "Return to Kigali", "summary": "Optional golden monkey trek - return to Kigali."}
+      ],
+      "hero": "external/rwanda/volcanoes.jpg",
+      "featured": true
+    },
+    {
+      "slug": "5-days-rwanda-gorillas-lakes",
+      "name": "5 Days Rwanda Gorillas & Lake Kivu",
+      "circuit": "Rwanda",
+      "days": 5,
+      "nights": 4,
+      "duration": "5 Days / 4 Nights",
+      "price": "$2,750",
+      "priceRange": "$2,500 - $3,300",
+      "overview": "Combine a life-changing gorilla trek in the Virungas with lakeside relaxation on Lake Kivu - kayaking, island boat trips and sunset dining in Rubavu after your forest adventure.",
+      "highlights": [
+        "Volcanoes gorilla trek",
+        "Lake Kivu beach relaxation",
+        "Rubavu waterfront dining",
+        "Musanze volcano scenery",
+        "Kigali city experience"
+      ],
+      "activities": ["Gorilla tracking", "Kayaking", "Boat trips", "Beach relaxation"],
+      "destinations": ["Volcanoes National Park", "Lake Kivu", "Rubavu"],
+      "destinationSlugs": ["volcanoes", "lake-kivu", "rubavu"],
+      "features": [
+        "Gorilla permit included",
+        "Forest-to-lake contrast",
+        "Lakeside lodge finale",
+        "Private vehicle throughout",
+        "Perfect honeymoon route"
+      ],
+      "itinerary": [
+        {"day": 1, "title": "Arrive Kigali", "summary": "Airport pickup - Kigali city tour and overnight."},
+        {"day": 2, "title": "Kigali to Volcanoes", "summary": "Drive to Musanze - gorilla trek briefing."},
+        {"day": 3, "title": "Gorilla trekking", "summary": "Mountain gorilla trek - afternoon transfer to Lake Kivu."},
+        {"day": 4, "title": "Lake Kivu", "summary": "Kayaking, boat trip or beach relaxation in Rubavu."},
+        {"day": 5, "title": "Return to Kigali", "summary": "Leisurely morning - return to Kigali for departure."}
+      ],
+      "hero": "external/rwanda/lake-kivu.jpg",
+      "featured": true
+    },
+    {
+      "slug": "6-days-rwanda-wildlife-forest",
+      "name": "6 Days Rwanda Wildlife & Forest Safari",
+      "circuit": "Rwanda",
+      "days": 6,
+      "nights": 5,
+      "duration": "6 Days / 5 Nights",
+      "price": "$3,200",
+      "priceRange": "$2,900 - $3,800",
+      "overview": "Beyond gorillas - Big Five game drives in restored Akagera National Park and chimpanzee tracking with canopy walkway adventures in ancient Nyungwe Forest.",
+      "highlights": [
+        "Akagera Big Five game drives",
+        "Lake Ihema boat safari",
+        "Nyungwe chimpanzee tracking",
+        "Canopy walkway experience",
+        "Diverse Rwanda landscapes"
+      ],
+      "activities": ["Game drives", "Boat safari", "Chimpanzee tracking", "Canopy walk"],
+      "destinations": ["Akagera National Park", "Nyungwe National Park"],
+      "destinationSlugs": ["akagera", "nyungwe"],
+      "features": [
+        "Big Five savannah safari",
+        "Ancient rainforest trek",
+        "Canopy walkway included",
+        "Rwanda's two contrasting parks",
+        "Private guide and vehicle"
+      ],
+      "itinerary": [
+        {"day": 1, "title": "Kigali to Akagera", "summary": "Drive east to Akagera - afternoon game drive."},
+        {"day": 2, "title": "Full day Akagera", "summary": "Morning and afternoon drives - lion, elephant and Lake Ihema boat trip."},
+        {"day": 3, "title": "Akagera to Nyungwe", "summary": "Cross Rwanda to the southern rainforest."},
+        {"day": 4, "title": "Chimpanzee tracking", "summary": "Morning chimp trek in Nyungwe Forest."},
+        {"day": 5, "title": "Canopy walkway", "summary": "Canopy walk and waterfall trail - colobus monkey viewing."},
+        {"day": 6, "title": "Return to Kigali", "summary": "Scenic drive north - Kigali departure."}
+      ],
+      "hero": "external/rwanda/akagera.jpg",
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+/* Performance - rendering hints without visual changes */
+
+picture {
+  display: contents;
+}
+
+.hero-slide__img,
+.destination-card__image,
+.experience-card__image,
+.package-card__img,
+.accommodation-card__image,
+.about__image,
+.dest-page__hero-img,
+.dest-page__figure img {
+  content-visibility: auto;
+}
+
+.section:not(.hero):not(#home) {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 600px;
+}
+
+.destination-card,
+.experience-card,
+.package-card,
+.accommodation-card,
+.testimonial-card {
+  contain: layout style paint;
+}
+
+.hero-swiper .swiper-slide-active .hero-slide__frame {
+  will-change: transform;
+}
+
+.reveal:not(.is-visible),
+.reveal-stagger:not(.is-visible) > * {
+  will-change: transform, opacity;
+}
+
+.reveal.is-visible,
+.reveal-stagger.is-visible > * {
+  will-change: auto;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-swiper .swiper-slide-active .hero-slide__frame {
+    will-change: auto;
+  }
+}
+
+/* Prevent horizontal page scroll on mobile */
+html {
+  overflow-x: clip;
+}
+
+body {
+  overflow-x: clip;
+  width: 100%;
+  max-width: 100%;
+}
+
+#main-content {
+  max-width: 100%;
+  overflow-x: clip;
+}
+
+.destinations,
+.testimonials,
+.experiences,
+.gallery,
+.hero {
+  max-width: 100%;
+  overflow-x: clip;
+}
+
+.destinations__slider-wrap,
+.testimonials__slider-wrap,
+.experiences__slider-wrap {
+  max-width: 100%;
+  overflow-x: clip;
+}
+
+.container,
+.dest-page__layout,
+.package-card,
+.destination-card,
+.accommodation-card,
+.circuit-dest-card,
+.circuit-dest-card__link,
+.exp-showcase {
+  min-width: 0;
+}
+
+.dest-page__copy p,
+.circuit-dest-card__desc,
+.package-card__title,
+.testimonial-card__quote,
+.review-platform-link span {
+  overflow-wrap: anywhere;
+}

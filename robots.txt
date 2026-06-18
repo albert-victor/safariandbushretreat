@@ -1,0 +1,13 @@
+# Safari and Bush Retreats - crawler rules
+User-agent: *
+Allow: /
+
+# Build tooling & data (not public pages)
+Disallow: /scripts/
+Disallow: /data/
+
+# Utility page
+Disallow: /404.html
+
+# Sitemap
+Sitemap: https://safariandbushretreats.com/sitemap.xml

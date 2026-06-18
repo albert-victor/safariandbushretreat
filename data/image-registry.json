@@ -1,0 +1,1207 @@
+{
+  "destinations": {
+    "amani-forest": {
+      "hero": "external/tt/amani-forest-Amani_Nature_Forest_Reserves_in_Usambara_02.jpg",
+      "gallery": [
+        "external/tt/amani-forest-g0-Amani_Nature_Forest_Reserves_in_Usambara_01.jpg",
+        "external/tt/amani-forest-g1-Amani_Nature_Forest_Reserves_05.jpg"
+      ],
+      "source": "local"
+    },
+    "amboni-caves": {
+      "hero": "external/tt/amboni-caves-Amboni_Caves_Tanga_14.jpg",
+      "gallery": [
+        "external/tt/amboni-caves-g0-Amboni_Caves_Tanga_Tanzania.jpg",
+        "external/tt/amboni-caves-g1-Amboni_Caves_Tanga_14.jpg"
+      ],
+      "source": "local"
+    },
+    "bagamoyo": {
+      "hero": "bagamoyo1.jpg",
+      "gallery": [
+        "bagamoyo2.jpg",
+        "Ruins_of_Old_Port_in_Bagamoyo_02.jpg"
+      ],
+      "source": "local"
+    },
+    "pangani": {
+      "hero": "external/tt/pangani-Snorkling_in_Pangani_Beach_2.jpg",
+      "gallery": [
+        "external/tt/pangani-g0-Pangani_Tanzania.jpg",
+        "external/tt/pangani-g1-Snorkling_in_Pangani_Beach_1.jpg"
+      ],
+      "source": "local"
+    },
+    "pugu-kazimzumbwi": {
+      "hero": "external/tt/pugu-kazimzumbwi-Pugu_Hill_Nature_Forest_with_Lake_Minaki.jpg",
+      "gallery": [
+        "external/tt/pugu-kazimzumbwi-g0-Pugu_Hill_Nature_Forest_with_Lake_Minaki.jpg",
+        "external/tt/pugu-kazimzumbwi-g1-Pugu_Hill_Nature_Forest_with_Lake_Minaki_2.jpg"
+      ],
+      "source": "local"
+    },
+    "saadani": {
+      "hero": "external/tt/saadani-Saadani_National_Park_Hippos_29.jpg",
+      "gallery": [
+        "external/tt/saadani-g0-Saadani_National_Park_Wami_River_40.jpg",
+        "external/tt/saadani-g1-Saadani_National_Park_Landscape_28.jpg"
+      ],
+      "source": "local"
+    },
+    "tanga-marine": {
+      "hero": "external/tt/tanga-marine-Tanga_Coelacanth_Marine_Park.jpg",
+      "gallery": [
+        "external/tt/tanga-marine-g0-Tanga_Coelacanth_Marine_Park.jpg",
+        "external/tt/tanga-marine-g1-Maziwe_Island_02.jpg"
+      ],
+      "source": "local"
+    },
+    "uluguru": {
+      "hero": "external/tt/uluguru-Uluguru_Mountains_from_Morogoro_01.jpg",
+      "gallery": [
+        "external/tt/uluguru-g0-Uluguru_Mountains_view_from_Morogoro_Town.jpg",
+        "external/tt/uluguru-g1-Uluguru_Mountains_Waterfalls_06.jpg"
+      ],
+      "source": "local"
+    },
+    "usambara": {
+      "hero": "external/tt/usambara-West_Usambara_Mountains_08.jpg",
+      "gallery": [
+        "external/tt/usambara-g0-West_Usambara_Mountains_08.jpg",
+        "external/tt/usambara-g1-West_Usambara_Mountains.jpg"
+      ],
+      "source": "local"
+    },
+    "bwejuu-island": {
+      "hero": "external/tt/bwejuu-island-Bwejuu_Island_in_Mafia_Island.jpg",
+      "gallery": [
+        "external/tt/bwejuu-island-mafia-Bwejuu_Island_in_Mafia_Island.jpg",
+        "external/tt/bwejuu-island-Marimbani_Sandbanks_in_Mafia_Island_1.jpg"
+      ],
+      "source": "local"
+    },
+    "chole-bay": {
+      "hero": "external/tt/chole-bay-Chole_Bay_Snorkeling_Mafia_Island.jpg",
+      "gallery": [
+        "external/tt/chole-bay-Scuba_Diving_in_Mafia_Island.jpg",
+        "external/tt/chole-bay-snorkelling-mafia-island-Chole_Bay_Snorkeling_Mafia_Island.jpg"
+      ],
+      "source": "local"
+    },
+    "chole-island": {
+      "hero": "external/tt/chole-island-Mafia_Island_Ancient_Hindu_Temple_Built_in_1890_Under_Ficus_Roots_02.jpg",
+      "gallery": [
+        "external/tt/chole-island-Mafia_Island_Chole_Mjini.jpg",
+        "external/tt/chole-island-tour-Mafia_Island_Chole_Mjini.jpg"
+      ],
+      "source": "local"
+    },
+    "jibondo-island": {
+      "hero": "external/tt/jibondo-island-Jibondo_Island_Coconut_Trees_in_Mafia_Islands.jpg",
+      "gallery": [
+        "external/tt/jibondo-island-mafia-Jibondo_Island_Coconut_Trees_in_Mafia_Islands.jpg",
+        "external/tt/jibondo-island-Mafia_Island_Sailing_Boat_03.jpg"
+      ],
+      "source": "local"
+    },
+    "juani-island": {
+      "hero": "external/tt/juani-island-Kua_Ruins_Mosque_Mafia_2_2018.jpg",
+      "gallery": [
+        "external/tt/juani-island-Mafia_Island_Hidden_Lagoon.jpg"
+      ],
+      "source": "local"
+    },
+    "mafia": {
+      "hero": "external/tt/mafia-Chole_Bay_Snorkeling_Mafia_Island.jpg",
+      "gallery": [
+        "external/tt/mafia-island-sunset-cruise-Mafia_Island_Sunset_Cruise.jpg",
+        "external/tt/mafia-Mafia_Island_Chole_Mjini.jpg"
+      ],
+      "source": "local"
+    },
+    "arusha": {
+      "hero": "external/tt/arusha-g0-Arusha_National_Park_Momella_Lake_Flamingos_83.jpg",
+      "gallery": [
+        "external/tt/arusha-g1-Arusha_National_Park_Black_and_White_Colobus_64.jpg",
+        "arusha national park.jpg"
+      ],
+      "source": "local"
+    },
+    "kondoa-rock-art": {
+      "hero": "external/tt/kondoa-rock-art-Kondoa_Rock_Art_Site_07.jpg",
+      "gallery": [
+        "external/tt/kondoa-rock-art-g0-Kondoa_Rock_Art_Site_07.jpg",
+        "external/tt/kondoa-rock-art-g1-Kondoa_Rock_Art_Site_06.jpg"
+      ],
+      "source": "local"
+    },
+    "lake-chala": {
+      "hero": "external/tt/lake-chala-Lake_Chala_Ecotour_03.jpg",
+      "gallery": [
+        "external/tt/lake-chala-g0-Lake_Chala_Ecotour_03.jpg",
+        "external/tt/lake-chala-g1-Lake_Chala_Ecotour_04.jpg"
+      ],
+      "source": "local"
+    },
+    "lake-eyasi": {
+      "hero": "external/tt/lake-eyasi-Lake_Eyasi_x_29.jpg",
+      "gallery": [
+        "external/tt/lake-eyasi-g1-Lake_Eyasi_x_21.jpg"
+      ],
+      "source": "local"
+    },
+    "lake-jipe": {
+      "hero": "external/tt/lake-jipe-Lake_Jipe_Canoeing_20.jpg",
+      "gallery": [
+        "external/tt/lake-jipe-g0-Lake_Jipe_Canoeing_20.jpg",
+        "external/tt/lake-jipe-g1-Lake_Jipe_from_Tsavo_South_National_Park_03.jpg"
+      ],
+      "source": "local"
+    },
+    "lake-manyara": {
+      "hero": "lake manyara.webp",
+      "gallery": [],
+      "source": "local"
+    },
+    "lake-natron": {
+      "hero": "external/tt/lake-natron-Lesser_Flamingos_Lake_Natron_01.jpg",
+      "gallery": [
+        "external/tt/lake-natron-g0-Lesser_Flamingos_Lake_Natron_01.jpg",
+        "external/tt/lake-natron-g1-Lesser_Flamingos_Lake_Natron_02.jpg"
+      ],
+      "source": "local"
+    },
+    "mkomazi": {
+      "hero": "external/tt/mkomazi-Mkomazi_National_Park_Dindera_Dam_40.jpg",
+      "gallery": [],
+      "source": "local"
+    },
+    "kilimanjaro": {
+      "hero": "cropMount-Kilimanjaro.jpg",
+      "gallery": [
+        "mount kilimanjaro.jpg",
+        "Mount-Kilimanjaro-Tanzania.webp"
+      ],
+      "source": "local"
+    },
+    "mount-meru": {
+      "hero": "external/tt/mount-meru-Arusha_National_Park_Tanzania.jpg",
+      "gallery": [
+        "external/tt/mount-meru-g0-Arusha_National_Park_Tanzania.jpg",
+        "external/tt/mount-meru-g1-Arusha_National_Park_Mount_Meru_Aerial-View.jpg"
+      ],
+      "source": "local"
+    },
+    "oldonyo-lengai": {
+      "hero": "external/tt/oldonyo-lengai-g0-Mount_Oldonyo_Lengai_07.jpg",
+      "gallery": [
+        "external/tt/oldonyo-lengai-g1-Mount_Oldonyo_Lengai_08.jpg",
+        "Mount_Oldonyo_Lengai_12.jpg"
+      ],
+      "source": "local"
+    },
+    "ngorongoro": {
+      "hero": "ngorongoro-crater.jpg",
+      "gallery": [
+        "Ngorongoro-National-Park.webp",
+        "ngorongoro.jpg"
+      ],
+      "source": "local"
+    },
+    "ngurdoto-crater": {
+      "hero": "external/tt/ngurdoto-crater-Ngurdoto_Crater_Arusha_Tanzania.jpg",
+      "gallery": [
+        "external/tt/ngurdoto-crater-g0-Ngurdoto_Crater_Arusha_Tanzania.jpg",
+        "external/tt/ngurdoto-crater-g1-Ngurdoto_Crater_Arusha_Tanzania_02.jpg"
+      ],
+      "source": "local"
+    },
+    "pare-mountains": {
+      "hero": "external/tt/pare-mountains-Pare_Mountains_Aerial_View_10.jpg",
+      "gallery": [
+        "external/tt/pare-mountains-g0-Pare_Mountains_Aerial_View_10.jpg",
+        "external/tt/pare-mountains-g1-Pare_Mountains_2.jpg"
+      ],
+      "source": "local"
+    },
+    "serengeti": {
+      "hero": "Serengeti-National-Park-1-1.jpg",
+      "gallery": [
+        "serengeti.jpg",
+        "serengeti3.jpg"
+      ],
+      "source": "local"
+    },
+    "tarangire": {
+      "hero": "Animals-in-Tarangire-National-Park-a-good-reason-to-visit-the-National-Park.jpg",
+      "gallery": [
+        "tarangire park2.webp",
+        "tarangire.jpg"
+      ],
+      "source": "local"
+    },
+    "igelegke-rock-art": {
+      "hero": "external/tt/igelegke-rock-art-g0-Igeleke_Rock_Paintings_Iringa_05.jpg",
+      "gallery": [
+        "external/tt/igelegke-rock-art-g1-Igeleke_Rock_Paintings_Iringa_12.jpg",
+        "experiences/rock-art.jpg"
+      ],
+      "source": "local"
+    },
+    "kalambo-falls": {
+      "hero": "external/tt/kalambo-falls-Kalambo_Falls_Waterfalls_43.jpg",
+      "gallery": [
+        "external/tt/kalambo-falls-g0-Kalambo_Falls_Waterfalls_40.jpg",
+        "external/tt/kalambo-falls-g1-Kalambo_Falls_Waterfalls_43.jpg"
+      ],
+      "source": "local"
+    },
+    "kaporogwe-falls": {
+      "hero": "external/tt/kaporogwe-falls-Kaporogwe_Waterfalls_Mbeya_01.jpg",
+      "gallery": [
+        "external/tt/kaporogwe-falls-g0-Kaporogwe_Waterfalls_Mbeya_01.jpg",
+        "external/tt/kaporogwe-falls-g1-Kaporogwe_Waterfalls_Mbeya_02.jpg"
+      ],
+      "source": "local"
+    },
+    "kitulo": {
+      "hero": "kitulo park hero image.jpg",
+      "gallery": [
+        "kitulo park.jpg",
+        "kitulo park2.jpg"
+      ],
+      "source": "local"
+    },
+    "lake-ngozi": {
+      "hero": "external/tt/lake-ngozi-Lake_Ngozi_Ngosi_22.jpg",
+      "gallery": [
+        "external/tt/lake-ngozi-g0-Lake_Ngozi_Ngosi_21.jpg",
+        "external/tt/lake-ngozi-g1-Lake_Ngozi_Ngosi_32.jpg"
+      ],
+      "source": "local"
+    },
+    "lake-nyasa": {
+      "hero": "external/tt/lake-nyasa-Lake_Nyasa_Shoreline_07.jpg",
+      "gallery": [
+        "external/tt/lake-nyasa-g0-Lake_Nyasa_Shoreline_07.jpg",
+        "external/tt/lake-nyasa-g1-Lake_Nyasa_Pomonda_Rock_06.jpg"
+      ],
+      "source": "local"
+    },
+    "matema-beach": {
+      "hero": "external/tt/matema-beach-Matema_Beach_Lake_Nyasa_03.jpg",
+      "gallery": [
+        "external/tt/matema-beach-g0-Matema_Beach_Lake_Nyasa_Mbeya.jpg",
+        "external/tt/matema-beach-g1-Matema_Beach_Lake_Nyasa_02.jpg"
+      ],
+      "source": "local"
+    },
+    "mbozi-meteorite": {
+      "hero": "external/tt/mbozi-meteorite-Mbozi_Meteorite_05.jpg",
+      "gallery": [
+        "external/tt/mbozi-meteorite-g0-Mbozi_Meteorite_09.jpg",
+        "external/tt/mbozi-meteorite-g1-Mbozi_Meteorite_08.jpg"
+      ],
+      "source": "local"
+    },
+    "mikumi": {
+      "hero": "mikumi park.jpg",
+      "gallery": [
+        "mikumi.jpg",
+        "mikumi2.jpg"
+      ],
+      "source": "local"
+    },
+    "mnazi-bay": {
+      "hero": "external/tt/mnazi-bay-Mnazi_Bay_Ruvuma_Estuary_Marine_Park_02.jpg",
+      "gallery": [
+        "external/tt/mnazi-bay-g0-Mnazi_Bay_Ruvuma_Estuary_Marine_Park_02.jpg",
+        "external/tt/mnazi-bay-g1-Msimbati_Beach_Mnazi_Bay_Ruvuma_Estuary_Marine_Park_03.jpg"
+      ],
+      "source": "local"
+    },
+    "mpanga-kipengere": {
+      "hero": "MPANGA KIPENGERE.jpg",
+      "gallery": [
+        "mpanga kipengere2.jpg",
+        "mpanga kipengere3.jpg"
+      ],
+      "source": "local"
+    },
+    "nyerere": {
+      "hero": "nyerere national park.jpg",
+      "gallery": [
+        "nyerere national park2.jpg",
+        "nyerere park hero image.jpg"
+      ],
+      "source": "local"
+    },
+    "ruaha": {
+      "hero": "baobab-trees-ruaha.jpg",
+      "gallery": [
+        "Ruaha-NP-1.webp",
+        "ruaha-ruaha-national-park-tanzania.jpeg"
+      ],
+      "source": "local"
+    },
+    "udzungwa": {
+      "hero": "udzungwa-mountains-national-park-day-hiking-1.jpg",
+      "gallery": [
+        "udzungwa.webp"
+      ],
+      "source": "local"
+    },
+    "gangilonga": {
+      "hero": "Gangilonga_Rock_Iringa_3.jpg",
+      "gallery": [
+        "Isimila-Stone-Age-Site-and-Natural-Pillars-in-Iringa.jpg"
+      ],
+      "source": "local"
+    },
+    "isimila": {
+      "hero": "Isimila-Stone-Age-Site-and-Natural-Pillars-in-Iringa.jpg",
+      "gallery": [
+        "external/tt/igelegke-rock-art-Igeleke_Rock_Paintings_Iringa_17.jpg"
+      ],
+      "source": "local"
+    },
+    "bongoyo-island": {
+      "hero": "external/tt/bongoyo-island-Bongoyo_Island__Aerial_View_Tanzania_01.jpg",
+      "gallery": [
+        "external/tt/bongoyo-island-g0-Bongoyo_Island__Aerial_View_Tanzania_02.jpg",
+        "external/tt/bongoyo-island-g1-Bongoyo_Island_Snorkeling_02.jpg"
+      ],
+      "source": "local"
+    },
+    "chumbe-island": {
+      "hero": "external/tt/chumbe-island-g0-Zanzibar_Chumbe_Island_01.jpg",
+      "gallery": [
+        "external/tt/chumbe-island-g1-Zanzibar_Chumbe_Island_03.jpg",
+        "external/accommodations/sanctuary-retreats.jpg"
+      ],
+      "source": "local"
+    },
+    "fungu-yasin-sand-bar": {
+      "hero": "external/tt/fungu-yasin-sand-bar-Tanzania_Dar_es_Salaam_Marine_Reserve_Fungu_Yasini.jpg",
+      "gallery": [
+        "external/tt/fungu-yasin-sand-bar-g0-Fungu_Yasin_Sand_Bar_Dar-es-Salaam_02.jpg",
+        "external/tt/fungu-yasin-sand-bar-g1-Tanzania_Dar_es_Salaam_Marine_Reserve_Fungu_Yasini.jpg"
+      ],
+      "source": "local"
+    },
+    "kilwa": {
+      "hero": "external/tt/kilwa-g0-Kilwa_Kivinje_Beach_25.jpg",
+      "gallery": [
+        "external/tt/kilwa-g1-Fishing_Harbour_01_Makubuli_Kilwa_Masoko.jpg"
+      ],
+      "source": "local"
+    },
+    "kilwa-kisiwani": {
+      "hero": "external/tt/kilwa-kisiwani-Husuni_Kubwa_Sultans_Palace_14th__Century_04_Kilwa_Kisiwani.jpg",
+      "gallery": [
+        "external/tt/kilwa-kisiwani-g1-Old_Fort_Gereza_12_Kilwa_Kisiwani.jpg"
+      ],
+      "source": "local"
+    },
+    "kilwa-kivinje": {
+      "hero": "external/tt/kilwa-kivinje-Kilwa_Kivinje_Ruins_31.jpg",
+      "gallery": [
+        "external/tt/kilwa-kivinje-g1-Fishing_Boats_in_Kilwa_Kivinje.jpg"
+      ],
+      "source": "local"
+    },
+    "kirui-island": {
+      "hero": "external/tt/kirui-island-Marine_Island_Reserve_071_Mangroves.jpg",
+      "gallery": [
+        "external/tt/kirui-island-g0-Marine_Island_Reserve_071_Mangroves.jpg",
+        "external/tt/kirui-island-g1-Marine_Island_Reserves_Crab_2.jpg"
+      ],
+      "source": "local"
+    },
+    "kwale-island": {
+      "hero": "external/tt/kwale-island-Marine_Island_Reserve_011.jpg",
+      "gallery": [
+        "external/tt/kwale-island-g0-Marine_Island_Reserve_011.jpg",
+        "external/tt/kwale-island-g1-Egret_in_Marine_Reserves.jpg"
+      ],
+      "source": "local"
+    },
+    "maziwe-island": {
+      "hero": "external/tt/maziwe-island-Maziwe_Island_02.jpg",
+      "gallery": [
+        "external/tt/maziwe-island-g1-Maziwe_Marine_Reserve_Pangani_Tanga_18.jpg",
+        "external/tt/maziwe-island-g0-Maziwe_Island_02.jpg"
+      ],
+      "source": "local"
+    },
+    "mbudya-island": {
+      "hero": "external/tt/mbudya-island-Mbudya_Island_Dar-es-Salaam_1.jpg",
+      "gallery": [
+        "external/tt/mbudya-island-g0-Mbudya_Island_Dar-es-Salaam_1.jpg",
+        "external/tt/mbudya-island-g1-Mbudya_Island_Boats_01.jpg"
+      ],
+      "source": "local"
+    },
+    "mnemba-island": {
+      "hero": "external/tt/mnemba-island-Zanzibar_Island_Mnemba_Island.jpg",
+      "gallery": [
+        "external/tt/mnemba-island-g0-Zanzibar_Island_Mnemba_Island.jpg",
+        "external/tt/mnemba-island-g1-Zanzibar_Mnemba_Island_Coloful_Fish.jpg"
+      ],
+      "source": "local"
+    },
+    "mwewe-island": {
+      "hero": "external/tt/mwewe-island-Marine_Island_Reserve_072_Mangroves.jpg",
+      "gallery": [
+        "external/tt/mwewe-island-g0-Marine_Island_Reserve_072_Mangroves.jpg",
+        "external/tt/mwewe-island-g1-Marine_Island_Reserver_044.jpg"
+      ],
+      "source": "local"
+    },
+    "pangavini-island": {
+      "hero": "external/tt/pangavini-island-Tanzania_Dar_es_Salaam_Marine_Reserve_Pangavini_Island.jpg",
+      "gallery": [
+        "external/tt/pangavini-island-g0-Tanzania_Dar_es_Salaam_Marine_Reserve_Pangavini_Island.jpg",
+        "external/tt/pangavini-island-g1-Pangavini_Island_Marine_Reserve_05.jpg"
+      ],
+      "source": "local"
+    },
+    "pemba": {
+      "hero": "pemba-island.jpg",
+      "gallery": [
+        "zanzibar.jpg",
+        "Zanzibar_Island_Stone_Town_01.jpg"
+      ],
+      "source": "local"
+    },
+    "prison-island": {
+      "hero": "prison-island.jpg",
+      "gallery": [
+        "prison-island-alt.jpg",
+        "external/tt/chumbe-island-Zanzibar_Chumbe_Island_03.jpg"
+      ],
+      "source": "local"
+    },
+    "sinda-island": {
+      "hero": "external/tt/sinda-island-Sinda_Island_Marine_Reserve_03.jpg",
+      "gallery": [
+        "external/tt/sinda-island-g0-Sinda_Island_Marine_Reserve_02.jpg",
+        "external/tt/sinda-island-g1-Sinda_Island_Marine_Reserve_03.jpg"
+      ],
+      "source": "local"
+    },
+    "songo-mnara": {
+      "hero": "external/tt/songo-mnara-The_Palace_Ruins_02_Songo_Mnara_Kilwa.jpg",
+      "gallery": [
+        "external/tt/songo-mnara-g1-Large_House_Ruins_01_Songo_Mnara_Kilwa.jpg"
+      ],
+      "source": "local"
+    },
+    "toten-island": {
+      "hero": "external/tt/toten-island-Toten_Island_Tanga.jpg",
+      "gallery": [
+        "external/tt/toten-island-g0-Toten_Island_Tanga.jpg",
+        "external/tt/toten-island-g1-Toten_Island_Reserve_Tanga_01.jpg"
+      ],
+      "source": "local"
+    },
+    "ulenge-island": {
+      "hero": "external/tt/ulenge-island-Marine_Island_Reserve_022.jpg",
+      "gallery": [
+        "external/tt/ulenge-island-g0-Marine_Island_Reserve_022.jpg",
+        "external/tt/ulenge-island-g1-Egret_in_Marine_Reserves_2.jpg"
+      ],
+      "source": "local"
+    },
+    "yambe-island": {
+      "hero": "external/tt/yambe-island-Yambe_Island_Tanga_01.jpg",
+      "gallery": [
+        "external/tt/yambe-island-g0-Yambe_Island_Tanga_01.jpg",
+        "external/tt/yambe-island-g1-Yambe_Island_Tanga_02.jpg"
+      ],
+      "source": "local"
+    },
+    "zanzibar": {
+      "hero": "zanzibar.jpg",
+      "gallery": [
+        "Zanzibar_Island_Stone_Town_01.jpg",
+        "zanzibar2.jpg"
+      ],
+      "source": "local"
+    },
+    "burigi-chato": {
+      "hero": "external/tt/burigi-chato-Lake_Burigi_in_Chato_National_Park_08.jpg",
+      "gallery": [
+        "external/tt/burigi-chato-g0-Burigi_Chato_National_Park_Giraffes_07.jpg",
+        "external/tt/burigi-chato-g1-Burigi_Chato_National_Park_Entrace_03.jpg"
+      ],
+      "source": "local"
+    },
+    "gombe": {
+      "hero": "gombe-4.webp",
+      "gallery": [],
+      "source": "local"
+    },
+    "ibanda-kyerwa": {
+      "hero": "external/tt/ibanda-kyerwa-Ibanda_Kyerwa_National_Park_Wildlife.jpg",
+      "gallery": [
+        "external/tt/ibanda-kyerwa-g0-Ibanda_Kyerwa_National_Park_Wildlife.jpg",
+        "external/tt/ibanda-kyerwa-g1-Ibanda_Kyerwa_National_Park_Zebras_01.jpg"
+      ],
+      "source": "local"
+    },
+    "katavi": {
+      "hero": "external/tt/katavi-Katavi_National_Park_x_70.jpg",
+      "gallery": [],
+      "source": "local"
+    },
+    "lake-tanganyika": {
+      "hero": "external/tt/lake-tanganyika-Lake_Tanganyika_sunset_12.jpg",
+      "gallery": [
+        "external/tt/lake-tanganyika-g0-Lake_Tanganyika_Mahale_Mountains_11.jpg",
+        "external/tt/lake-tanganyika-g1-Lake_Tanganyika_Mahale_Mountains_10.jpg"
+      ],
+      "source": "local"
+    },
+    "lake-victoria": {
+      "hero": "external/tt/lake-victoria-Lake_Victoria_Bismark_Rocks_2.jpg",
+      "gallery": [
+        "external/tt/lake-victoria-g0-Lake_Victoria_Bismark_Rocks_1.jpg",
+        "external/tt/lake-victoria-g1-Lake_Victoria_Shores.jpg"
+      ],
+      "source": "local"
+    },
+    "mahale": {
+      "hero": "mahale-national-park-from-lake-tanganyika.jpg",
+      "gallery": [],
+      "source": "local"
+    },
+    "rubondo": {
+      "hero": "external/tt/rubondo-Rubondo_Island_National_Park_x_13.jpg",
+      "gallery": [
+        "external/tt/rubondo-g0-Rubondo_Island_National_Park_x_13.jpg",
+        "external/tt/rubondo-g1-Rubondo_Island_National_Park_x_32.jpg"
+      ],
+      "source": "local"
+    },
+    "saanane": {
+      "hero": "external/tt/saanane-Saanane_Island_View_05.jpg",
+      "gallery": [
+        "external/tt/saanane-g0-Saanane_Island_National_Park_09.jpg",
+        "external/tt/saanane-g1-Saanane_Island_View_05.jpg"
+      ],
+      "source": "local"
+    },
+    "ukerewe": {
+      "hero": "external/tt/ukerewe-Ukerewe_Island_in_Lake_Victoria_2.jpg",
+      "gallery": [
+        "external/tt/ukerewe-g0-Ukerewe_Island_in_Lake_Victoria_2.jpg",
+        "external/tt/ukerewe-g1-Ukerewe_Island_Sunset.jpg"
+      ],
+      "source": "local"
+    }
+  },
+  "packages": {
+    "3-days-mikumi-safari": {
+      "hero": "mikumi park.jpg",
+      "source": "local"
+    },
+    "5-days-ruaha-safari": {
+      "hero": "baobab-trees-ruaha.jpg",
+      "source": "local"
+    },
+    "7-days-northern-circuit": {
+      "hero": "Serengeti-National-Park-1-1.jpg",
+      "source": "local"
+    },
+    "6-days-serengeti-ngorongoro": {
+      "hero": "serengeti.jpg",
+      "source": "local"
+    },
+    "kilimanjaro-machame-7": {
+      "hero": "mount kilimanjaro.jpg",
+      "source": "local"
+    },
+    "5-days-zanzibar-beach": {
+      "hero": "zanzibar.jpg",
+      "source": "local"
+    },
+    "10-days-southern-explorer": {
+      "hero": "ruaha_national_park_river_2.jpg",
+      "source": "local"
+    },
+    "western-primates-safari": {
+      "hero": "gombe-4.webp",
+      "source": "local"
+    },
+    "3-days-serengeti-ngorongoro": {
+      "hero": "ngorongoro-crater.jpg",
+      "source": "local"
+    },
+    "5-days-northern-classic": {
+      "hero": "serengeti3.jpg",
+      "source": "local"
+    },
+    "4-days-tarangire-manyara": {
+      "hero": "lake manyara.webp",
+      "source": "local"
+    },
+    "4-days-saadani-bush-beach": {
+      "hero": "external/tt/saadani-Saadani_National_Park_Hippos_29.jpg",
+      "source": "local"
+    },
+    "4-days-lake-eyasi-cultural": {
+      "hero": "external/tt/lake-eyasi-Lake_Eyasi_x_29.jpg",
+      "source": "local"
+    },
+    "6-days-katavi-wilderness": {
+      "hero": "external/tt/katavi-Katavi_National_Park_x_70.jpg",
+      "source": "local"
+    },
+    "10-days-safari-to-nyerere-mikumi-udzungwa-ruaha-national-parks": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Nyerere_National_Park_Elephants_58.jpg",
+      "source": "external"
+    },
+    "2-5-days-mafia-island-holiday": {
+      "hero": "external/tt/2-5-days-mafia-island-holiday-Mafia_Island_Ancient_Hindu_Temple_Built_in_1890_Under_Ficus_Roots_02.jpg",
+      "source": "local"
+    },
+    "2-days-ol-doinyo-lengai-mountain-climbing": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Oldonyo_Lengai_12.jpg",
+      "source": "external"
+    },
+    "2-days-safari-to-katavi-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Katavi_National_Park_Lions_13.jpg",
+      "source": "external"
+    },
+    "2-days-safari-to-lake-natron-and-mount-oldoinyo-lengai": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Lake_Natron_Flamingos_10.jpg",
+      "source": "external"
+    },
+    "2-days-safari-to-nyerere-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Nyerere_National_Park_Elephants_61.jpg",
+      "source": "external"
+    },
+    "2-days-safari-to-ruaha-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Ruaha_National_Park_Boat_on_the_River_86.jpg",
+      "source": "external"
+    },
+    "2-days-safari-to-saadani-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Saadani_National_Park_Hippos_36.jpg",
+      "source": "external"
+    },
+    "2-days-safari-to-mikumi-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mikumi_National_Park_Elephant_21.jpg",
+      "source": "external"
+    },
+    "2-days-to-lake-manyara-national-park-ngorongoro-crater": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Lake_Manyara_National_Park_Elephants_24.jpg",
+      "source": "external"
+    },
+    "2-days-to-tarangire-national-park-ngorongoro-crater": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Ngorongoro_Crater_01_NCA.jpg",
+      "source": "external"
+    },
+    "2-days-to-udzungwa-mountains-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Udzungwa_National_Park_Udzungwa_Red_Colobus_17.jpg",
+      "source": "external"
+    },
+    "3-day-safari-to-nyerere-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Nyerere_National_Park_Boat_Safari_on_Rufiji_River_75.jpg",
+      "source": "external"
+    },
+    "3-days-mount-meru-climb": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Arusha_National_Park_Mount_Meru_165.jpg",
+      "source": "external"
+    },
+    "3-days-ol-doinyo-lengai-mountain-climbing": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Oldonyo_Lengai_02.jpg",
+      "source": "external"
+    },
+    "3-days-safari-to-katavi-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Katavi_National_Park_Hippos_28.jpg",
+      "source": "external"
+    },
+    "3-days-safari-to-mahale-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mahale_Mountains_National_Park_x_71.jpg",
+      "source": "external"
+    },
+    "3-days-safari-to-nyerere-and-mikumi-national-parks": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Nyerere_National_Park_Giraffe_39.jpg",
+      "source": "external"
+    },
+    "3-days-safari-to-ruaha-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Ruaha_National_Park_Waterbucks_78.jpg",
+      "source": "external"
+    },
+    "3-days-safari-to-saadani-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Saadani_National_Park_Crocodile_33.jpg",
+      "source": "external"
+    },
+    "3-days-safari-to-udzungwa-mikumi-national-parks": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Udzungwa_National_Park_Moloneys_Monkey_19.jpg",
+      "source": "external"
+    },
+    "3-days-safari-to-mikumi-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mikumi_National_Park_Buffalos_108.jpg",
+      "source": "external"
+    },
+    "3-days-to-ngorongoro-crater-tarangire-lake-manyara-national-parks": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Tarangire_National_Park_Baobab_Trees_20.jpg",
+      "source": "external"
+    },
+    "3-days-to-serengeti-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Serengeti_National_Park_Lions_22.jpg",
+      "source": "external"
+    },
+    "3-days-trip-to-uluguru-mountains-choma-waterfalls": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Uluguru_Mountains_from_Morogoro_01.jpg",
+      "source": "external"
+    },
+    "4-days-kilimanjaro-trek-via-machame-route": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Kilimanjaro_Endemic_Plants_Senecio.jpg",
+      "source": "external"
+    },
+    "4-days-mount-meru-climb": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Arusha_National_Park_Mount_Meru_01.jpg",
+      "source": "external"
+    },
+    "4-days-safari-in-ruaha-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Ruaha_National_Park_Kudus_32.jpg",
+      "source": "external"
+    },
+    "4-days-safari-to-mahale-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mahale_Mountains_National_Park_Chimp_44.jpg",
+      "source": "external"
+    },
+    "4-days-safari-to-mikumi-udzungwa-national-parks": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mikumi_National_Park_Gate_112.jpg",
+      "source": "external"
+    },
+    "4-days-safari-to-nyerere-and-mikumi-national-parks": {
+      "hero": "nyerere national park.jpg",
+      "source": "local"
+    },
+    "4-days-to-lake-manyara-serengeti-national-parks-and-ngorongoro-crater": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Serengeti_National_Park_Agama_Lizard_20.jpg",
+      "source": "external"
+    },
+    "4-days-to-serengeti-national-park-and-ngorongoro-crater": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Serengeti_National_Park_Leopard_23.jpg",
+      "source": "external"
+    },
+    "4-days-to-tarangire-serengeti-national-parks-and-ngorongoro-crater": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Tarangire_National_Park_Elephants_in_Trangire_River_20.jpg",
+      "source": "external"
+    },
+    "5-6-days-kilimanjaro-trek-via-marangu-route": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Kilimanjaro_the_Saddle_02.jpg",
+      "source": "external"
+    },
+    "5-6-days-safari-to-mahale-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mahale_Mountains_National_Park_Chimp_19.jpg",
+      "source": "external"
+    },
+    "5-days-hiking-to-ngorongoro-highlands": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Olmoti_Crater_NCA_2.jpg",
+      "source": "external"
+    },
+    "5-days-kilimanjaro-trek-via-umbwe-route": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilimanjaro_Climb_3a.jpg",
+      "source": "external"
+    },
+    "5-days-lake-manyara-serengeti-and-ngorongoro-crater-safari": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Lake_Manyara_National_Park_Giraffes_23.jpg",
+      "source": "external"
+    },
+    "5-days-safari-to-mikumi-ruaha-national-parks": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Ruaha_National_Park_Elephants_41.jpg",
+      "source": "external"
+    },
+    "5-days-serengeti-and-ngorongoro-crater-safari": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Serengeti_National_Park_Leopard_24.jpg",
+      "source": "external"
+    },
+    "6-days-kilimanjaro-trek-via-machame-route": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Kilimanjaro_Mountain_Landscape_01.jpg",
+      "source": "external"
+    },
+    "6-days-kilimanjaro-trek-via-rongai-route": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilimanjaro_Climb_Rongai_Route_01.jpg",
+      "source": "external"
+    },
+    "6-days-kilimanjaro-trek-via-umbwe-route": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Kilimanjaro_View_from_Lemosho_Route_02.jpg",
+      "source": "external"
+    },
+    "6-days-ngorongoro-crater-serengeti-and-lake-manyara-safari": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Ngorongoro_Crater_Black_Rhinos_NCA_01.jpg",
+      "source": "external"
+    },
+    "6-days-tarangire-serengeti-and-ngorongoro-crater-safari": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Tarangire_National_Park_Cheeters_20.jpg",
+      "source": "external"
+    },
+    "7-days-kilimanjaro-trek-via-lemosho-route": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Kilimanjaro_the_Glaciers_01.jpg",
+      "source": "external"
+    },
+    "7-days-kilimanjaro-trek-via-machame-route-option-1": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Kilimanjaro_the_Crater_01.jpg",
+      "source": "external"
+    },
+    "7-days-kilimanjaro-trek-via-machame-route-option-2": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Kilimanjaro_Glacier_of_Southern_Ice_Field_02.jpg",
+      "source": "external"
+    },
+    "7-days-kilimanjaro-trek-via-rongai-route": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Kilimanjaro_Mountain_Landscape_02.jpg",
+      "source": "external"
+    },
+    "7-days-kilimanjaro-trek-via-shira-route": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Kilimanjaro_10.jpg",
+      "source": "external"
+    },
+    "7-days-rift-valley-adventure-to-engaruka-lake-natron-ol-donyo-lengai-lobo-sereng": {
+      "hero": "external/tt/lake-natron-Lesser_Flamingos_Lake_Natron_01.jpg",
+      "source": "local"
+    },
+    "7-days-safari-to-ruaha-udzungwa-and-mikumi-national-parks": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Ruaha_National_Park_Hippos_47.jpg",
+      "source": "external"
+    },
+    "7-days-tarangire-ngorongoro-serengeti-lake-natron-and-manyara-safari": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Tarangire_National_Park_Elephants_in_Trangire_River_35.jpg",
+      "source": "external"
+    },
+    "8-days-hiking-to-ngorongoro-highlands-and-oldoinyo-lengai-trekking": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Olmoti_Crater_Waterfalls_NCA_2.jpg",
+      "source": "external"
+    },
+    "8-days-kilimanjaro-trek-via-lemosho-route": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Kilimanjaro_Londorosi_Lemosho_01.jpg",
+      "source": "external"
+    },
+    "8-days-kilimanjaro-trek-via-machame-route": {
+      "hero": "cropMount-Kilimanjaro.jpg",
+      "source": "local"
+    },
+    "9-days-kilimanjaro-trek-via-northern-route-option-1": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilimanjaro_Climb_Rongai_Route_01.jpg",
+      "source": "external"
+    },
+    "9-days-kilimanjaro-trek-via-northern-route-option-2": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Kilimanjaro_Kibo_Peak_05.jpg",
+      "source": "external"
+    },
+    "amboni-caves-tours-tanga": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Amboni_Caves_Tanga_01.jpg",
+      "source": "external"
+    },
+    "bagamoyo-day-trip": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Bagamoyo/Bagamoyo_Historical_Town_Streets_02.jpg",
+      "source": "external"
+    },
+    "bongoyo-island-day-trip": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Bongoyo_Island_Dar-es-Salaam_Tanzania_13.jpg",
+      "source": "external"
+    },
+    "bwejuu-island-mafia": {
+      "hero": "external/tt/bwejuu-island-mafia-Bwejuu_Island_in_Mafia_Island.jpg",
+      "source": "local"
+    },
+    "caravan-serai-museum-bagamoyo": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Bagamoyo/Caravan_Serai_Museum_Bagamoyo_01.jpg",
+      "source": "external"
+    },
+    "chole-bay-snorkelling-mafia-island": {
+      "hero": "external/tt/chole-bay-snorkelling-mafia-island-Chole_Bay_Snorkeling_Mafia_Island.jpg",
+      "source": "local"
+    },
+    "chole-island-tour": {
+      "hero": "external/tt/chole-island-tour-Mafia_Island_Chole_Mjini.jpg",
+      "source": "local"
+    },
+    "chumbe-island-coral-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Zanzibar_Chumbe_Island_01.jpg",
+      "source": "external"
+    },
+    "day-hike-kilimanjaro-shira-plateau": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Shira_Plateau_Kilimanjaro_01.jpg",
+      "source": "external"
+    },
+    "day-hike-mount-kilimanjaro-via-machame-route": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilimanjaro_Climb_04.jpg",
+      "source": "external"
+    },
+    "day-hike-mount-kilimanjaro-via-marangu-route": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilimanjaro_Hiking_Marangu_Route.jpg",
+      "source": "external"
+    },
+    "day-hike-to-north-pare-mountains": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Northern_Pare.jpg",
+      "source": "external"
+    },
+    "day-tour-kondoa-rock-art-sites": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kondoa_Rock_Art_Site_12_1.jpg",
+      "source": "external"
+    },
+    "day-trip-hiking-to-uluguru-mountains-choma-waterfalls": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Uluguru_Mountains_Hiking_to_Kinole.jpg",
+      "source": "external"
+    },
+    "day-trip-to-arusha-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Arusha_National_Park_Black_and_White_Colobus_67.jpg",
+      "source": "external"
+    },
+    "day-trip-to-chemka-hot-springs": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Rundugai_Hotsprings_Kilimanjaro.jpg",
+      "source": "external"
+    },
+    "day-trip-to-gombe-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Gombe_Stream_National_Park_Trekkin_72.jpg",
+      "source": "external"
+    },
+    "day-trip-to-isimila-stone-age-and-igeleke-rock-art-sites": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Igeleke_Rock_Paintings_Iringa_19.jpg",
+      "source": "external"
+    },
+    "day-trip-to-lake-chala": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Lake_Chala_Ecotour_04.jpg",
+      "source": "external"
+    },
+    "day-trip-to-lake-duluti": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Duluti/Lake_Duluti_x_66.jpg",
+      "source": "external"
+    },
+    "day-trip-to-lake-jipe": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Lake_Jipe_canoeing_21.jpg",
+      "source": "external"
+    },
+    "day-trip-to-lake-manyara-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Lake_Manyara_National_Park_Baboons_29.jpg",
+      "source": "external"
+    },
+    "day-trip-to-lake-natron": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Lake_Natron_Flamingos_Sunset_28.jpg",
+      "source": "external"
+    },
+    "day-trip-to-mafia-island": {
+      "hero": "external/tt/day-trip-to-mafia-island-Fisherman_Island_Snorkeling_in_Mafia_Island.jpg",
+      "source": "local"
+    },
+    "day-trip-to-materuni-waterfalls-and-coffee-tour": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Materuni_Waterfalls_02.jpg",
+      "source": "external"
+    },
+    "day-trip-to-mikumi-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mikumi_National_Park_Buffalos_27.jpg",
+      "source": "external"
+    },
+    "day-trip-to-mkomazi-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mkomazi_National_Park_African_Wild_Dog_27.jpg",
+      "source": "external"
+    },
+    "day-trip-to-mount-meru-waterfalls-hike": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Arusha_National_Park_Fig_Tree_Arch_63.jpg",
+      "source": "external"
+    },
+    "day-trip-to-ngorongoro-crater": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Ngorongoro_Crater_Black_Rhinos_NCA_02.jpg",
+      "source": "external"
+    },
+    "day-trip-to-nyerere-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Nyerere_National_Park_Wild_Dogs_100.jpg",
+      "source": "external"
+    },
+    "day-trip-to-olmoti-and-empakai-crater-in-ngorongoro-highlands": {
+      "hero": "external/tt/arusha-g0-Arusha_National_Park_Momella_Lake_Flamingos_83.jpg",
+      "source": "local"
+    },
+    "day-trip-to-saadani-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Saadani_National_Park_Minotor_Lizard_22.jpg",
+      "source": "external"
+    },
+    "day-trip-to-south-pare-mountains": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Southern_Pare_Mountains.jpg",
+      "source": "external"
+    },
+    "day-trip-to-tarangire-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Tarangire_National_Park_Elephants_20.jpg",
+      "source": "external"
+    },
+    "deep-sea-fishing-in-zanzibar": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Zanzibar-Deep_Sea_Fishing.jpg",
+      "source": "external"
+    },
+    "deep-sea-fishing-mafia-island": {
+      "hero": "external/tt/deep-sea-fishing-mafia-island-Mafia_Island_Deep_Sea_Fishing_1.jpg",
+      "source": "local"
+    },
+    "dhow-sunset-cruise": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Zanzibar_Dhow_Sunset_Cruise_01.jpg",
+      "source": "external"
+    },
+    "dolphin-tour-zanzibar": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Zanzibar_Bottle_Nose_Dolphins_02.jpg",
+      "source": "external"
+    },
+    "fisherman-island-mafia": {
+      "hero": "external/tt/fisherman-island-mafia-Mafia_Island_Sailing_Boat_03.jpg",
+      "source": "local"
+    },
+    "galanos-hot-sulphur-springs-tours-tanga": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Galanos_Sulphur_Hot_Springs_Tanga_01.jpg",
+      "source": "external"
+    },
+    "gangilonga-stone-iringa": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Gangilonga_Rock_Iringa_4.jpg",
+      "source": "external"
+    },
+    "humpback-whale-watching": {
+      "hero": "external/tt/humpback-whale-watching-Mafia_Island_Humpback_Whale_02.jpg",
+      "source": "local"
+    },
+    "jibondo-island-mafia": {
+      "hero": "external/tt/jibondo-island-mafia-Jibondo_Island_Coconut_Trees_in_Mafia_Islands.jpg",
+      "source": "local"
+    },
+    "jozani-chwaka-bay-national-park": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Zanzibar_Jozani_Forest_Red_Colobus_Monkey_07.jpg",
+      "source": "external"
+    },
+    "kalenga-historical-museum": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Chief_Mkwawa_Grave_09.jpg",
+      "source": "external"
+    },
+    "kaole-ruins-bagamoyo": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Bagamoyo/Kaole_Ruins_15th_Century_Kaole_Mosque.jpg",
+      "source": "external"
+    },
+    "kilimanjaro-trek-via-western-breach": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mount_Kilimanjaro_Mountain_Summit.jpg",
+      "source": "external"
+    },
+    "kiwengwa-cave-zanzibar": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Zanzibar_Kiwengwa_Caves_Zanzibar_a_Place_for_Ancestry_Worshiping_01.jpg",
+      "source": "external"
+    },
+    "kua-ruins-tour-mafia-island": {
+      "hero": "external/tt/kua-ruins-tour-mafia-island-Kua_Ruins_Mosque_Mafia_2_2018.jpg",
+      "source": "local"
+    },
+    "lake-maliwe-kilwa": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilwa/Lake_Maliwe_01_Kilwa.jpg",
+      "source": "external"
+    },
+    "mafia-island-sunset-cruise": {
+      "hero": "external/tt/mafia-island-sunset-cruise-Mafia_Island_Sunset_Cruise.jpg",
+      "source": "local"
+    },
+    "magoroto-forest-estate": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Magoroto/Magoroto_Forest_Estate_03.jpg",
+      "source": "external"
+    },
+    "mange-sandbank-mafia-island": {
+      "hero": "external/tt/mange-sandbank-mafia-island-Mange_Sandbank_in_Mafia_Island.jpg",
+      "source": "local"
+    },
+    "marimbani-sandbank-mafia": {
+      "hero": "external/tt/marimbani-sandbank-mafia-Marimbani_Sandbanks_in_Mafia_Island_1.jpg",
+      "source": "local"
+    },
+    "mbudya-island-day-trip": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Mbudya_Island_Dar-es-Salaam_Tanzania_11.jpg",
+      "source": "external"
+    },
+    "mkurukara-caves-kilwa": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilwa/Caves_in_Kilwa.jpg",
+      "source": "external"
+    },
+    "mwanakiwambi-kilwa": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilwa/Mwanakiwambi_02_Kilwa.jpg",
+      "source": "external"
+    },
+    "namaingo-caves-kilwa": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilwa/Namaingo_Caves_01_Kilwa.jpg",
+      "source": "external"
+    },
+    "nandembo-caves-kilwa": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilwa/Nandembo_Caves_02_Kilwa.jpg",
+      "source": "external"
+    },
+    "nungwi-experience": {
+      "hero": "external/tt/zanzibar-g1-Zanzibar_Prestine_Beach_04.jpg",
+      "source": "local"
+    },
+    "old-fort-bagamoyo": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Bagamoyo/German_Old_Colonial_Fort_in_Bagamoyo_02.jpg",
+      "source": "external"
+    },
+    "pandawe-malalani-kilwa": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilwa/Pandawe_Malalani_038_Kilwa.jpg",
+      "source": "external"
+    },
+    "prison-island-zanzibar": {
+      "hero": "prison-island.jpg",
+      "source": "local"
+    },
+    "roman-catholic-church-bagamoyo": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Bagamoyo/The_Catholic_Church_Cathedral_Bagamoyo_02.jpg",
+      "source": "external"
+    },
+    "rukila-island-kilwa": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilwa/Rukila_Island_Kilwa.jpg",
+      "source": "external"
+    },
+    "safari-blue-zanzibar": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Zanzibar_Sandbank_Safari_Blue_Tour_02.jpg",
+      "source": "external"
+    },
+    "scuba-diving-in-mafia-island": {
+      "hero": "external/tt/scuba-diving-in-mafia-island-Scuba_Diving_in_Mafia_Island.jpg",
+      "source": "local"
+    },
+    "scuba-diving-in-zanzibar": {
+      "hero": "scuba-diving-zanzibar.jpg",
+      "source": "local"
+    },
+    "slave-trade-tour": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Zanzibar_Stone_Town_Market_03.jpg",
+      "source": "external"
+    },
+    "spice-tour-zanzibar": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Zanzibar_Spice_Tour_Fresh_Nutmeg_Fruit.jpg",
+      "source": "external"
+    },
+    "stone-town-tour": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Zanzibar_House_of_Wonders_Stone_Town_01.jpg",
+      "source": "external"
+    },
+    "the-old-german-boma-bagamoyo": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Bagamoyo/German_Old_Boma_Bagamoyo_01.jpg",
+      "source": "external"
+    },
+    "tongoni-ruins-tanga": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Tongoni_Ruins_TangaI_Tanzania.jpg",
+      "source": "external"
+    },
+    "tung-ande-cave-kilwa": {
+      "hero": "https://www.tanzaniatourism.com/images/uploads/Kilwa/Tung_ande_Cave_01_Kilwa_Masoko.jpg",
+      "source": "external"
+    },
+    "turtle-hatchling-mafia-island": {
+      "hero": "external/tt/turtle-hatchling-mafia-island-A_Young_Turtle_Just_Hatched_on_its_Way_to_the_Sea_in_Mafia_Island.jpg",
+      "source": "local"
+    },
+    "visit-to-hidden-lagoon-mafia-island": {
+      "hero": "external/tt/visit-to-hidden-lagoon-mafia-island-Mafia_Island_Hidden_Lagoon.jpg",
+      "source": "local"
+    },
+    "whale-sharks-snorkeling": {
+      "hero": "external/tt/whale-sharks-snorkeling-Mafia_Island_Whale_Shark_04.jpg",
+      "source": "local"
+    }
+  },
+  "external": []
+}
